@@ -1,5 +1,5 @@
 ---
-tags: non-fiction psychology sales
+tags: non-fiction
 title: Influence
 type: book
 ---

@@ -1,5 +1,5 @@
 ---
-tags: finance personal-finance investing non-fiction money investment wealth
+tags: non-fiction money
 title: Just Keep Buying
 type: book
 ---

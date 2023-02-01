@@ -1,5 +1,5 @@
 ---
-tags: fiction tamil novel
+tags: fiction novel
 title: சமுதாய வீதி
 type: book
 ---

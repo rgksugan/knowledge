@@ -1,5 +1,5 @@
 ---
-tags: non-fiction entrepreneurship finance
+tags: non-fiction money
 title: The Parable of the Pipeline
 type: book
 ---

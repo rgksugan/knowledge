@@ -1,5 +1,5 @@
 ---
-tags: leadership management technology software-engineering non-fiction software career engineering
+tags: non-fiction
 title: Staff Engineer
 type: book
 ---
@@ -30,7 +30,7 @@ by [[Will Larson]] and [[Tanya Reilly]]
 
 > What you can accomplish alone is far from what you can accomplish by creating leaders.
 
-> The two most effective ways to deal with jerks are: including someone they can’t be a jerk to in the meeting (like their manager or the CTO) investing heavily into aligning with them before the meeting, so they feel heard and are less likely to derail the discussion
+> The two most effective ways to deal with jerks are: including someone they can’t be a jerk to in the meeting (like their #manager or the CTO) investing heavily into aligning with them before the meeting, so they feel heard and are less likely to derail the discussion
 
 > Separate style from substance, and stop giving style feedback on other folks’ decisions. If a piece of feedback won’t meaningfully change a project’s success, then consider not giving it. If it’s useful but not critical, potentially make a private suggestion rather than pulling a meeting into your orbit
 

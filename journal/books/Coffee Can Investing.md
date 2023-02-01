@@ -1,5 +1,5 @@
 ---
-tags: finance investing non-fiction wealth money
+tags: non-fiction
 title: Coffee Can Investing
 type: book
 ---
@@ -12,7 +12,7 @@ by [[Saurabh Mukherjea]] [[Rakshit Ranjan]] [[Pranab Uniyal]]
 
 > However, our analysis above suggests that in the Indian stock market, a low P/E multiple-based investing approach does NOT improve the return profile of an investor.
 
-> Apart from death and taxes, you can now add expenses as the only certainties in life!
+> Apart from #death and #taxes, you can now add expenses as the only certainties in life!
 
 ## Bibliography
 * [[The Intelligent Investor]], *Benjamin Graham*
