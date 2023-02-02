@@ -9,7 +9,7 @@ type: book
 
 by [[Atul Gawande]]
 
-## Highlights and Notes
+## Highlights
 
 > Death, of course, is not a failure. Death is normal. Death may be the enemy, but it is also the natural order of things.
 

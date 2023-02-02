@@ -7,7 +7,7 @@ type: book
 # The Parable of the Pipeline
 by [[T. Jayakanthan]]
 
-## Highlights and Notes
+## Highlights
 
 > நல்லதும் கெட்டதும் எங்கும் உண்டு. நாடுவது என்னவென்பதே முக்கியம்.
 

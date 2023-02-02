@@ -7,7 +7,7 @@ type: book
 # Staff Engineer: Leadership beyond the management track
 by [[Will Larson]] and [[Tanya Reilly]]
 
-## Highlights and Notes
+## Highlights
 > You’re far more likely to change your company’s long-term trajectory by growing the engineers around you than through personal heroics. The best way to grow those around you is by creating an active practice of mentorship and sponsorship.
 
 > Work on what matters to make the most of the working hours you have, particularly as you get further along in your career and life’s commitments expand.
@@ -37,6 +37,3 @@ by [[Will Larson]] and [[Tanya Reilly]]
 > The only way to remain a long-term leader of a genuinely successful company is to continually create space for others to take the recognition, reward, and work that got you to where you’re currently sitting. It can be surprisingly uncomfortable, but don’t worry: there will always be new work for you anyway.
 
 > The foundation of communicating effectively with executives is to get a clear understanding of why you’re communicating with them in the first place. You might be used to communicating with folks to change their mind or inform them about your project, but that’s probably not the case here. When you’re communicating with an executive, it’s almost always one of three things: planning, reporting on status, or resolving misalignment.
-
-
-## Bibliography

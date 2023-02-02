@@ -7,7 +7,7 @@ type: book
 # The Little Book That Still Beats the Market
 by [[Joel Greenblatt]]
 
-## Highlights and Notes
+## Highlights
 > The formula starts with a list of the largest 3,500 companies available for trading on one of the major U.S. stock exchanges.5 It then assigns a rank to those companies, from 1 to 3,500, based on their return on capital.
 
 > Next, the formula follows the same procedure, but this time, the ranking is done using earnings yield. The company with the highest earnings yield is assigned a rank of 1, and the company with the lowest earnings yield receives a rank of 3,500.
@@ -25,5 +25,3 @@ by [[Joel Greenblatt]]
 > Eliminate all utilities and financial stocks (i.e., mutual funds, banks, and insurance companies) from the list.
 
 > If a stock has a very low P/E ratio, say 5 or less, that may indicate that the previous year or the data being used are unusual in some way. You may want to eliminate these stocks from your list. You may also want to eliminate any company that has announced earnings in the last week. (This should help minimize the incidence of incorrect or untimely data.)
-
-## Bibliography

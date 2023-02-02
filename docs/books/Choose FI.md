@@ -7,7 +7,7 @@ type: book
 # Choose FI: Your Blueprint to Financial Independence
 by [[Chris Mamula]] [[Brad Barrett]] [[Jonathan Mendonsa]]
 
-## Highlights and Notes
+## Highlights
 
 > FI is all about the amount of money you need relative to the cost of the lifestyle you desire.
 

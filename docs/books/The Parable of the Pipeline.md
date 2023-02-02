@@ -7,7 +7,7 @@ type: book
 # The Parable of the Pipeline
 by [[Burke Hedges]]
 
-## Highlights and Notes
+## Highlights
 
 > The large majority of millionaires are not the descendants of the Rockefellers or Vanderbilts. More than 80 % are ordinary people who have accumulated their wealth in one generation.
 
