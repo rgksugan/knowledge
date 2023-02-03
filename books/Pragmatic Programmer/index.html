@@ -1,0 +1,662 @@
+
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="shortcut icon" href="../../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-5.5.12">
+    
+    
+      
+        <title>Pragmatic Programmer - Sugan</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.4dd2dd8d.min.css">
+      
+      
+    
+    
+    
+      
+        <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>body,input{font-family:"Roboto",-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}code,kbd,pre{font-family:"Roboto Mono",SFMono-Regular,Consolas,Menlo,monospace}</style>
+      
+    
+    
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    <body dir="ltr">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#the-pragmatic-programmer-your-journey-to-mastery" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header-nav md-grid" aria-label="Header">
+    <a href="../.." title="Sugan" class="md-header-nav__button md-logo" aria-label="Sugan">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    <label class="md-header-nav__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header-nav__title" data-md-component="header-title">
+      
+        <div class="md-header-nav__ellipsis">
+          <span class="md-header-nav__topic md-ellipsis">
+            Sugan
+          </span>
+          <span class="md-header-nav__topic md-ellipsis">
+            
+              Pragmatic Programmer
+            
+          </span>
+        </div>
+      
+    </div>
+    
+      <label class="md-header-nav__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active">
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0116 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 019.5 16 6.5 6.5 0 013 9.5 6.5 6.5 0 019.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" data-md-component="search-reset" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+        
+      
+      
+        
+          
+
+  
+
+<nav class="md-tabs md-tabs--active" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  <li class="md-tabs__item">
+    
+      <a href="../.." class="md-tabs__link">
+        Home
+      </a>
+    
+  </li>
+
+      
+        
+  
+  
+    <li class="md-tabs__item">
+      
+        <a href="../Being%20Mortal/" class="md-tabs__link md-tabs__link--active">
+          Books
+        </a>
+      
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              <div class="md-sidebar md-sidebar--primary" data-md-component="navigation">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Sugan" class="md-nav__button md-logo" aria-label="Sugan">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 003-3 3 3 0 00-3-3 3 3 0 00-3 3 3 3 0 003 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54z"/></svg>
+
+    </a>
+    Sugan
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+
+  <li class="md-nav__item">
+    <a href="../.." title="Home" class="md-nav__link">
+      Home
+    </a>
+  </li>
+
+    
+      
+      
+      
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+    
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-2" type="checkbox" id="nav-2" checked>
+    
+    <label class="md-nav__link" for="nav-2">
+      Books
+      <span class="md-nav__icon md-icon"></span>
+    </label>
+    <nav class="md-nav" aria-label="Books" data-md-level="1">
+      <label class="md-nav__title" for="nav-2">
+        <span class="md-nav__icon md-icon"></span>
+        Books
+      </label>
+      <ul class="md-nav__list" data-md-scrollfix>
+        
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Being%20Mortal/" title="Being Mortal" class="md-nav__link">
+      Being Mortal
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Choose%20FI/" title="Choose FI" class="md-nav__link">
+      Choose FI
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Coffee%20Can%20Investing/" title="Coffee Can Investing" class="md-nav__link">
+      Coffee Can Investing
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Influence/" title="Influence" class="md-nav__link">
+      Influence
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Ithuvae%20Sananaayagam/" title="இதுவே சனநாயகம்" class="md-nav__link">
+      இதுவே சனநாயகம்
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Jugari%20Cross/" title="Jugari Cross" class="md-nav__link">
+      Jugari Cross
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Just%20Keep%20Buying/" title="Just Keep Buying" class="md-nav__link">
+      Just Keep Buying
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Kumarithuraivi/" title="குமரித்துறைவி" class="md-nav__link">
+      குமரித்துறைவி
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Oru%20Manithan%20Oru%20Veedu%20Oru%20Ulagam/" title="ஒரு மனிதன் ஒரு வீடு ஒரு உலகம்" class="md-nav__link">
+      ஒரு மனிதன் ஒரு வீடு ஒரு உலகம்
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+  
+
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Pragmatic Programmer
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+    
+    <a href="./" title="Pragmatic Programmer" class="md-nav__link md-nav__link--active">
+      Pragmatic Programmer
+    </a>
+    
+      
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#highlights" class="md-nav__link">
+    Highlights
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+    
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Saadhi%20Enbadhu%20Kurooramaana%20Edhartham/" title="சாதி என்பது குரூரமான எதார்த்தம்" class="md-nav__link">
+      சாதி என்பது குரூரமான எதார்த்தம்
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Samuthaya%20Veethi/" title="சமுதாய வீதி" class="md-nav__link">
+      சமுதாய வீதி
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Staff%20Engineer/" title="Staff Engineer" class="md-nav__link">
+      Staff Engineer
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../The%20Almanack%20Of%20Naval%20Ravikant/" title="The Almanack Of Naval Ravikant" class="md-nav__link">
+      The Almanack Of Naval Ravikant
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../The%20Little%20Book%20That%20Still%20Beats%20the%20Market/" title="The Little Book That Still Beats the Market" class="md-nav__link">
+      The Little Book That Still Beats the Market
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../The%20Parable%20of%20the%20Pipeline/" title="The Parable of the Pipeline" class="md-nav__link">
+      The Parable of the Pipeline
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../The%20Richest%20Man%20in%20Babylon/" title="The Richest Man in Babylon" class="md-nav__link">
+      The Richest Man in Babylon
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../The%20Toilet%20Seat/" title="The Toilet Seat" class="md-nav__link">
+      The Toilet Seat
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../Theivangalum%20samooka%20marabukalum/" title="தெய்வங்களும் சமூக மரபுகளும்" class="md-nav__link">
+      தெய்வங்களும் சமூக மரபுகளும்
+    </a>
+  </li>
+
+        
+      </ul>
+    </nav>
+  </li>
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#highlights" class="md-nav__link">
+    Highlights
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                
+                  
+                
+                
+                <h1 id="the-pragmatic-programmer-your-journey-to-mastery">The Pragmatic Programmer: Your journey to mastery<a class="headerlink" href="#the-pragmatic-programmer-your-journey-to-mastery" title="Permanent link">#</a></h1>
+<p>by <a href="https://www.goodreads.com/author/show/2815.Andy_Hunt">Andy Hunt</a>, <a href="https://www.goodreads.com/author/show/13.Dave_Thomas">Dave Thomas</a></p>
+<h2 id="highlights">Highlights<a class="headerlink" href="#highlights" title="Permanent link">#</a></h2>
+<blockquote>
+<p>What distinguishes Pragmatic Programmers? We feel it’s an attitude, a style, a philosophy of approaching problems and their solutions. They think beyond the immediate problem, placing it in its larger context and seeking out the bigger picture.</p>
+<p>When you find yourself saying, “I don’t know,” be sure to follow it up with “—but I’ll find out.” It’s a great way to admit what you don’t know, but then take responsibility like a pro.</p>
+<p>While there’s a glut of short-form essays and occasionally reliable answers on the web, for deep understanding you need long-form books. Browse the booksellers for technical books on interesting topics related to your current project. Once you’re in the habit, read a book a month. After you’ve mastered the technologies you’re currently using, branch out and study some that don’t relate to your project.</p>
+<p>A thing is well designed if it adapts to the people who use it. For code, that means it must adapt by changing. So we believe in the ETC principle: <code>Easier to Change</code>. ETC. That’s it.</p>
+<p>Giving a computer two contradictory pieces of knowledge was Captain James T. Kirk’s preferred way of disabling a marauding artificial intelligence. Unfortunately, the same principle can be effective in bringing down your code.</p>
+<p>Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.</p>
+<h1 id="dry-is-about-the-duplication-of-knowledge-of-intent-its-about-expressing-the-same-thing-in-two-different-places-possibly-in-two-totally-different-ways">DRY is about the duplication of knowledge, of intent. It’s about expressing the same thing in two different places, possibly in two totally different ways.<a class="headerlink" href="#dry-is-about-the-duplication-of-knowledge-of-intent-its-about-expressing-the-same-thing-in-two-different-places-possibly-in-two-totally-different-ways" title="Permanent link">#</a></h1>
+<p>Two or more things are orthogonal if changes in one do not affect any of the others. In a well-designed system, the database code will be orthogonal to the user interface: you can change the interface without affecting the database, and swap databases without changing the interface.</p>
+<p>When components are isolated from one another, you know that you can change one without having to worry about the rest. As long as you don’t change that component’s external interfaces, you can be confident that you won’t cause problems that ripple through the entire system.</p>
+<p>If you need to change an object’s state, get the object to do it for you. This way your code remains isolated from the other code’s implementation and increases the chances that you’ll remain orthogonal.</p>
+<p>Every time your code references global data, it ties itself into the other components that share that data.</p>
+<p>In general, your code is easier to understand and maintain if you explicitly pass any required context into your modules. In object-oriented applications, context is often passed as parameters to objects’ constructors. In other code, you can create structures containing the context and pass around references to them.</p>
+<p>Writing unit tests is itself an interesting test of orthogonality. What does it take to get a unit test to build and run? Do you have to import a large percentage of the rest of the system’s code? If so, you’ve found a module that is not well decoupled from the rest of the system.</p>
+<p>What to Say When Asked for an Estimate You say “I’ll get back to you.”</p>
+<p>When in doubt, it always pays to reduce scope.</p>
+<p>All programs transform data, converting an input into an output. And yet when we think about design, we rarely think about creating transformations. Instead we worry about classes and modules, data structures and algorithms, languages and frameworks.</p>
+<p>Concurrency is when the execution of two or more pieces of code act as if they run at the same time. Parallelism is when they do run at the same time.</p>
+<p>There are also code invariants, things that remain true about some piece of state when it’s passed through a function. For example, if you sort a list, the result will have the same number of elements as the original—the length is invariant.</p>
+<p>That’s where we programmers come in. Our job is to help people understand what they want. In fact, that’s probably our most valuable attribute.</p>
+<p>As soon as you start discussing requirements, users and domain experts will use certain terms that have specific meaning to them. They may differentiate between a “client” and a “customer,” for example. It would then be inappropriate to use either word casually in the system. Create and maintain a project glossary—one place that defines all the specific terms and vocabulary used in a project.</p>
+<p>It’s hard to succeed on a project if users and developers call the same thing by different names or, even worse, refer to different things by the same name.</p>
+<p>The inherent peer-pressure of a second person helps against moments of weakness and bad habits of naming variables foo and such. You’re less inclined to take a potentially embarrassing shortcut when someone is actively watching, which also results in higher-quality software.</p>
+<p>Criticize the code, not the person. “Let’s look at this block” sounds much better than “you’re wrong.”</p>
+<ol>
+<li>Work out where you are.</li>
+<li>Make the smallest meaningful step towards where you want to be.</li>
+<li>Evaluate where you end up, and fix anything you broke.</li>
+</ol>
+</blockquote>
+<h2 id="bibliography">Bibliography<a class="headerlink" href="#bibliography" title="Permanent link">#</a></h2>
+<ul>
+<li><a href="https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month">The Mythical Man-Month</a> by <a href="https://www.goodreads.com/author/show/3174788.Frederick_P_Brooks_Jr_">Frederick P. Brooks Jr.</a></li>
+<li><a href="https://www.goodreads.com/book/show/56465.The_Gift_of_Fear">The Gift of Fear</a> by <a href="https://www.goodreads.com/author/show/31933.Gavin_de_Becker">Gavin de Becker</a></li>
+<li><a href="https://www.goodreads.com/book/show/67825.Peopleware">Peopleware</a> by <a href="https://www.goodreads.com/author/show/38238.Tom_DeMarco">Tom DeMarco</a>, <a href="https://www.goodreads.com/author/show/38237.Timothy_R_Lister">Timothy R. Lister</a></li>
+<li><a href="https://www.goodreads.com/book/show/44936.Refactoring">Refactoring</a> by <a href="https://www.goodreads.com/author/show/25215.Martin_Fowler">Martin Fowler</a></li>
+<li><a href="https://www.goodreads.com/book/show/85009.Design_Patterns">Design Patterns</a> by <a href="https://www.goodreads.com/author/show/32713.Grady_Booch">Grady Booch</a>, <a href="https://www.goodreads.com/author/show/48622.Erich_Gamma">Erich Gamma</a>, <a href="https://www.goodreads.com/author/show/48619.Richard_Helm">Richard Helm</a>, <a href="https://www.goodreads.com/author/show/48620.Ralph_Johnson">Ralph Johnson</a>, <a href="https://www.goodreads.com/author/show/48621.John_Vlissides">John Vlissides</a></li>
+<li><a href="https://www.goodreads.com/book/show/3063393-pragmatic-thinking-and-learning">Pragmatic Thinking and Learning</a>, <a href="https://www.goodreads.com/author/show/2815.Andy_Hunt">Andy Hunt</a></li>
+<li><a href="https://www.goodreads.com/book/show/1032758.The_Practice_of_Programming">The Practice of Programming</a> by <a href="https://www.goodreads.com/author/show/193420.Rob_Pike">Rob Pike</a></li>
+<li><a href="https://www.goodreads.com/book/show/10803540-algorithms">Algorithms</a> by <a href="https://www.goodreads.com/author/show/15721.Robert_Sedgewick">Robert Sedgewick</a>, <a href="https://www.goodreads.com/author/show/4699621.Kevin_Wayne">Kevin Wayne</a></li>
+</ul>
+                
+                  
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <div class="md-footer-nav">
+      <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
+        
+          <a href="../Oru%20Manithan%20Oru%20Veedu%20Oru%20Ulagam/" title="ஒரு மனிதன் ஒரு வீடு ஒரு உலகம்" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+            </div>
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Previous
+                </span>
+                ஒரு மனிதன் ஒரு வீடு ஒரு உலகம்
+              </div>
+            </div>
+          </a>
+        
+        
+          <a href="../Saadhi%20Enbadhu%20Kurooramaana%20Edhartham/" title="சாதி என்பது குரூரமான எதார்த்தம்" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+            <div class="md-footer-nav__title">
+              <div class="md-ellipsis">
+                <span class="md-footer-nav__direction">
+                  Next
+                </span>
+                சாதி என்பது குரூரமான எதார்த்தம்
+              </div>
+            </div>
+            <div class="md-footer-nav__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    </div>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    
+      <script src="../../assets/javascripts/vendor.3636a4ec.min.js"></script>
+      <script src="../../assets/javascripts/bundle.e9fe3281.min.js"></script><script id="__lang" type="application/json">{"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching"}</script>
+      
+      <script>
+        app = initialize({
+          base: "../..",
+          features: ["navigation.expand", "tabs"],
+          search: Object.assign({
+            worker: "../../assets/javascripts/worker/search.5eca75d3.min.js"
+          }, typeof search !== "undefined" && search)
+        })
+      </script>
+      
+    
+  </body>
+</html>
