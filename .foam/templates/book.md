@@ -3,7 +3,7 @@ tags:
 title: ${TM_FILENAME_BASE}
 type: book
 foam_template:
-  filepath: 'journal/books/$FOAM_TITLE.md'
+  filepath: 'docs/books/$FOAM_TITLE.md'
   name: Book
   description: A book template
 ---
@@ -11,6 +11,6 @@ foam_template:
 # ${TM_FILENAME_BASE}
 by [[]]
 
-## Highlights and Notes
+## Highlights
 
 ## Bibliography
