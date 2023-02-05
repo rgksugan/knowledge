@@ -8,10 +8,12 @@ Why does this exist?
 
 *[Source](https://www.gapingvoid.com/blog/2014/01/22/information-vs-knowledge/)*
 
+Recently modified
+---
+
 <!-- RECENTLYMODIFIEDBEGIN
 -->
 
-- [[book]]
 - [[Being Mortal]]
 - [[Choose FI]]
 - [[Coffee Can Investing]]
