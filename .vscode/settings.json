@@ -5,19 +5,17 @@
   "editor.lineHeight": 24,
   "[markdown]": {
     "editor.quickSuggestions": {
-      "comments": "on",
-      "strings": "on",
-      "other": "on"
+      "other": true,
+      "comments": false,
+      "strings": false
     }
   },
+  "files.autoSave": "onFocusChange",
   "files.defaultLanguage": "markdown",
-  "files.exclude": {
-    "**/node_modules": true
-  },
   "files.watcherExclude": {
     "**/node_modules": true
   },
-  "foam.edit.linkReferenceDefinitions": "withoutExtensions",
+  "foam.edit.linkReferenceDefinitions": "withExtensions",
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.titleFormat": "fullDate",
   "git.enableSmartCommit": true,
@@ -25,5 +23,11 @@
   "markdown.preview.breaks": true,
   "pasteImage.path": "${projectRoot}/attachments",
   "pasteImage.showFilePathConfirmInputBox": true,
-  "prettier.singleQuote": false
+  "prettier.singleQuote": false,
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "cSpell.language": "en-GB",
+  "files.exclude": {
+    "_site/**": true,
+    "**/node_modules": true
+  }
 }

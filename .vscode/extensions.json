@@ -9,6 +9,21 @@
     "yzhang.markdown-all-in-one",
 
     // Image-pasting for markdown
-    "mushan.vscode-paste-image"
+    "mushan.vscode-paste-image",
+
+    // Prettier for auto formatting code
+    "esbenp.prettier-vscode",
+
+    // GitLens for seeing version history inline
+    "eamodio.gitlens",
+
+    // [[wiki-links]], backlinking etc
+    "kortina.vscode-markdown-notes",
+
+    // Graph visualizer
+    "tchayen.markdown-links",
+
+    // Understated grayscale theme (light and dark variants)
+    "philipbe.theme-gray-matter"
   ]
 }
