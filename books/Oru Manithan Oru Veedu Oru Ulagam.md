@@ -1,6 +1,5 @@
 ---
 tags: fiction novel
-title: ஒரு மனிதன் ஒரு வீடு ஒரு உலகம்
 type: book
 ---
 

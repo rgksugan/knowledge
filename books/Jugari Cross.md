@@ -1,6 +1,5 @@
 ---
 tags: fiction novel
-title: Jugari Cross
 type: book
 ---
 

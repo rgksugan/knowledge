@@ -11,5 +11,21 @@ Why does this exist?
 <!-- RECENTLYMODIFIEDBEGIN
 -->
 
+- [[book]]
+- [[Being Mortal]]
+- [[Choose FI]]
+- [[Coffee Can Investing]]
+- [[Influence]]
+- [[Ithuvae Sananaayagam]]
+- [[Jugari Cross]]
+- [[Just Keep Buying]]
+- [[Kumarithuraivi]]
+- [[Oru Manithan Oru Veedu Oru Ulagam]]
+- [[Saadhi Enbadhu Kurooramaana Edhartham]]
+- [[Samuthaya Veethi]]
+- [[Staff Engineer]]
+- [[The Almanack Of Naval Ravikant]]
+- [[The Little Book That Still Beats the Market]]
+
 <!--
 RECENTLYMODIFIEDEND -->

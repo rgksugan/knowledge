@@ -1,6 +1,5 @@
 ---
 tags: non-fiction
-title: The Almanack Of Naval Ravikant
 type: book
 ---
 

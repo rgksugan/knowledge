@@ -1,6 +1,5 @@
 ---
 tags: fiction novel
-title: சமுதாய வீதி
 type: book
 ---
 

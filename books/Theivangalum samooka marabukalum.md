@@ -1,6 +1,5 @@
 ---
 tags: non-fiction
-title: தெய்வங்களும் சமூக மரபுகளும்
 type: book
 ---
 

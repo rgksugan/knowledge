@@ -1,6 +1,5 @@
 ---
 tags: non-fiction
-title: The Toilet Seat
 type: book
 ---
 

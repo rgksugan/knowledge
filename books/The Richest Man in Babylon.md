@@ -1,6 +1,5 @@
 ---
 tags: non-fiction money
-title: The Richest Man in Babylon
 type: book
 ---
 

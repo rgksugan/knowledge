@@ -1,6 +1,5 @@
 ---
 tags: non-fiction
-title: இதுவே சனநாயகம்
 type: book
 ---
 

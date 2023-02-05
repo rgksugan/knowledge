@@ -1,10 +1,9 @@
 ---
 tags: fiction novel
-title: குமரித்துறைவி
 type: book
 ---
 
-# Kumarithuraivi
+# குமரித்துறைவி
 by [[Jeyamohan]]
 
 ## Highlights

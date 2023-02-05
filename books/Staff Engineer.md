@@ -1,6 +1,5 @@
 ---
 tags: non-fiction
-title: Staff Engineer
 type: book
 ---
 

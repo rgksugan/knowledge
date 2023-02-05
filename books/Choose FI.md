@@ -1,6 +1,5 @@
 ---
 tags: non-fiction
-title: Choose FI
 type: book
 ---
 

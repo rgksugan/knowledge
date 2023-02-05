@@ -1,6 +1,5 @@
 ---
 tags: non-fiction
-title: Influence
 type: book
 ---
 

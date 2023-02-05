@@ -1,6 +1,5 @@
 ---
 tags: non-fiction money
-title: The Little Book That Still Beats the Market
 type: book
 ---
 

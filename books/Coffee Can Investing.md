@@ -1,6 +1,5 @@
 ---
 tags: non-fiction
-title: Coffee Can Investing
 type: book
 ---
 

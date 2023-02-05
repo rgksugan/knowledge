@@ -1,6 +1,5 @@
 ---
 tags: non-fiction money
-title: Just Keep Buying
 type: book
 ---
 

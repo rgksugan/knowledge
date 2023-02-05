@@ -1,6 +1,5 @@
 ---
 tags: non-fiction
-title: சாதி என்பது குரூரமான எதார்த்தம்
 type: book
 ---
 
