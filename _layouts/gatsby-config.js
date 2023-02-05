@@ -23,7 +23,7 @@ module.exports = {
           '**/.github/**',
           '**/.vscode/**',
           '**/.cache/**',
-          '**/.foam/**'
+          '**/.foam/templates/**'
         ],
         // this is an option for extending `gatsby-plugin-mdx` options inside `gatsby-theme-kb`,
         getPluginMdx(defaultPluginMdx) {
