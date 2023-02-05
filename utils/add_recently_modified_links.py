@@ -84,7 +84,7 @@ if __name__ == "__main__":
     updated_links = get_staged_files_md_links(staged_files)
     insert_updated_links(
         updated_links,
-        "wiki.md",
+        "index.md",
         begin_marker="RECENTLYMODIFIEDBEGIN",
         end_marker="RECENTLYMODIFIEDEND",
     )

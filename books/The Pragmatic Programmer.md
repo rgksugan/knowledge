@@ -1,6 +1,5 @@
 ---
 tags: non-fiction
-title: Pragmatic Programmer
 type: book
 ---
 
