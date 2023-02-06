@@ -14,6 +14,7 @@ Recently modified
 <!-- RECENTLYMODIFIEDBEGIN
 -->
 
+- [[The Hangmans Journal]]
 - [[Being Mortal]]
 - [[Choose FI]]
 - [[Coffee Can Investing]]
