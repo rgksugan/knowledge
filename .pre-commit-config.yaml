@@ -1,8 +1,0 @@
-repos:
--   repo: local
-    hooks:
-    -   id: add_recently_modified_links
-        name: add_recently_modified_links
-        entry: python3 -m utils.add_recently_modified_links
-        language: system
-        files: ^.*.md$
