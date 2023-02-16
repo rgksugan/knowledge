@@ -2,3 +2,4 @@ node_modules/
 .cache/
 public/
 utils/__pycache__/
+.DS_Store
