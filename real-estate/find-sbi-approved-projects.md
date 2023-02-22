@@ -4,4 +4,4 @@ SBI is considered as the benchmark in legal verification of projects. So, it is 
 
 https://www.sbirealty.in/property/home
 
-[[SBI]]
+[[SBI]] [[Real Estate Buy Checklist]]
