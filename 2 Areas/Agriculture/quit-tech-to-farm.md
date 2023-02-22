@@ -1,4 +1,4 @@
-# Quiting tech to Farm
+# Quitting tech to Farm
 
 I don't think you can 'quit' tech to farm, you can only retire from tech to farm.
 

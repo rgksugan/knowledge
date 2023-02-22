@@ -2,3 +2,4 @@
 
 https://www.squareyards.com/property-rates-in-bangalore
 
+[[Real Estate Buy Checklist]]
