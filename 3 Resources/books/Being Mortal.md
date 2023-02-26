@@ -17,3 +17,4 @@ by [[Atul Gawande]]
 * Leonid Gavrilov, a researcher at the University of Chicago, argues that human beings fail the way all complex systems fail: randomly and gradually.
 
 ## Bibliography
+* [[How We Die]] by [[Sherwin Nuland]]

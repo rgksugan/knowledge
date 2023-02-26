@@ -2,7 +2,7 @@
 tags: 
 type: book
 foam_template:
-  filepath: 'books/$FOAM_TITLE.md'
+  filepath: '3 Resources/books/$FOAM_TITLE.md'
   name: Book
   description: A book template
 ---
@@ -11,5 +11,11 @@ foam_template:
 by [[]]
 
 ## Highlights
+
+## The Book in 3 Sentences
+
+## Who Should Read It?
+
+## My Top 3 Quotes
 
 ## Bibliography
