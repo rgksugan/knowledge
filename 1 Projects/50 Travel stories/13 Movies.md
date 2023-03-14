@@ -4,3 +4,4 @@
 * Pondicherry
 * Hampi
 * Gandikota
+* Melkote
