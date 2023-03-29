@@ -6,6 +6,13 @@ type: book
 # Patterns of Enterprise Application Architecture
 by [[Martin Fowler]]
 
+## Notes
+0. Introduction
+   
+1. Layering
+
+2. 
+
 ## Bibliography
 * [[A Pattern Language]]
 * [[Extreme Programming Explained]]
