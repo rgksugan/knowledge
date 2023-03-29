@@ -1,2 +1,0 @@
-# Bloodchild and Other Stories
-
