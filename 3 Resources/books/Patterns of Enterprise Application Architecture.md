@@ -31,7 +31,10 @@ One of the well known layering architecture is the Network OSI model.
 * Domain (Business logic)
 * Data source
 
-### 2. 
+### 2. Organizing Domain Logic
+* Transaction Script
+* Domain Model
+* Table Module
 
 ## Bibliography
 * [[A Pattern Language]]
