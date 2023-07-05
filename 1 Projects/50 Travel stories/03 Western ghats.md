@@ -4,7 +4,7 @@
 * Aralvaimozhi
 * Thoranamalai
 * Kodachadri
-* Biligiriranga
+* Biligiriranga - soliga tribe
 * Himavad Gopalaswamy
 * Nagarhole
 * Manjolai

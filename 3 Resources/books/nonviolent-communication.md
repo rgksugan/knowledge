@@ -1,2 +1,0 @@
-# Nonviolent Communication
-
