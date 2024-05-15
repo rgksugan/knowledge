@@ -24,6 +24,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
           cache: 'pnpm'
+          cache-dependency-path: _email/pnpm-lock.yaml
           working-directory: _email
 
       - name: Install Node.js dependencies
