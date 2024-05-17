@@ -18,6 +18,8 @@ by [[Chimamanda Ngozi Adichie]]
 > Poor men still have the privileges of being men, even if they do not have the privileges of being wealthy.
 
 ## My Top 3 Quotes
-* I often make the mistake of thinking that something that is obvious to me is just as obvious to everyone else.
-* Masculinity is a hard, small cage, and we put boys inside this cage.
-* The language of marriage is often a language of ownership, not a language of partnership.
+> I often make the mistake of thinking that something that is obvious to me is just as obvious to everyone else.
+
+> Masculinity is a hard, small cage, and we put boys inside this cage.
+
+> The language of marriage is often a language of ownership, not a language of partnership.

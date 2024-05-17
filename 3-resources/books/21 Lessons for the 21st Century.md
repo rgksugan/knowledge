@@ -7,7 +7,7 @@ type: book
 by [[Yuval Noah Harari]]
 
 ## Highlights
-> Humans think in stories rather than in facts, numbers or equations, and the simpler the [[story]], the better. Every person, group and nation has its own tales and myths. But during the [[twentieth century]] the global elites in New York, London, Berlin and Moscow formulated three grand stories that claimed to explain the whole past and to predict the future of the entire world: the fascist story, the [[communist]] story and the [[liberal]] story.
+> Humans think in stories rather than in facts, numbers or equations, and the simpler the story, the better. Every person, group and nation has its own tales and myths. But during the twentieth century the global elites in New York, London, Berlin and Moscow formulated three grand stories that claimed to explain the whole past and to predict the future of the entire world: the fascist story, the communist story and the liberal story.
 
 > The fascist story explained history as a struggle among different nations, and envisioned a world dominated by one human group that violently subdues all others. The communist story explained history as a struggle among different classes, and envisioned a world in which all groups are united by a centralised social system that ensures equality even at the price of freedom. The liberal story explained history as a struggle between liberty and tyranny, and envisioned a world in which all humans cooperate freely and peacefully, with minimum central control even at the price of some inequality.
 
@@ -15,7 +15,7 @@ by [[Yuval Noah Harari]]
 
 > Feelings are thus not the opposite of rationality – they embody evolutionary rationality.
 
-> [[Winston Churchill]] famously said that democracy is the worst political system in the world, except for all the others.
+> Winston Churchill famously said that democracy is the worst political system in the world, except for all the others.
 
 > So if you want to study something that will guarantee a good job in the future, maybe philosophy is not such a bad gamble.
 
@@ -60,7 +60,3 @@ by [[Yuval Noah Harari]]
 > In practice, the power of human cooperation depends on a delicate balance between truth and fiction.
 
 > Truth and power can travel together only so far. Sooner or later they go their separate ways. If you want power, at some point you will have to spread fictions. If you want to know the truth about the world, at some point you will have to renounce power.
-
-
-## Bibliography
-
