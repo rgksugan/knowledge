@@ -2,10 +2,10 @@
 tags: 
 type: book
 author: 
-title: The State and Revolution
+title:
 sub-title: 
 foam_template:
-  filepath: '3 Resources/books/$FOAM_TITLE.md'
+  filepath: '3-resources/books/$FOAM_TITLE.md'
   name: Book
   description: A book template
 ---
