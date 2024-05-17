@@ -1,50 +1,60 @@
 import { PathLike } from "fs";
-import { readFile } from "fs/promises";
+import fs from 'fs/promises';
+import { marked } from 'marked';
+
 import { Highlight } from "./types";
 
-const generateHighlightObject = (highlightData: string[]): Highlight => {
-    return {
-        bookTitle: highlightData[0]!,
-        content: highlightData[2]!,
-        details: highlightData[1]?.slice(2)!, // removes '- ' from the beginning.
-    };
-};
+// Function to read a specific section from a Markdown file
+const readMarkdownSection = async (filePath: string, sectionTitle: string): Promise<Highlight[] | null> => {
+    try {
+        const data = await fs.readFile(filePath, 'utf8');
+        const tokens = marked.lexer(data);
 
-export const highlightsParser = async (
-    path: PathLike
-): Promise<Highlight[]> => {
-    const content = await readFile(path, "utf-8");
-    const highlightsTexts = content.split("==========");
+        let capture = false;
+        let sectionContent: Highlight[] = [];
 
-    const filteredHighlights: Highlight[] = highlightsTexts
-        .map((highlightText) => {
-            // [bookTitle, details, content]
-            const highlightData: string[] = highlightText
-                .split("\r\n")
-                .join("\n") // To replace all `\r\n` with `\n`. Issue with ubuntu vs win
-                .split("\n")
-                .filter((f) => f.length > 0);
+        const bookTitle = tokens?.find((token) => token.type === "heading" && token.depth === 1)?.text;
 
-            if (highlightData.length != 3) {
-                return null;
+        for (const token of tokens) {
+            if (token.type === 'heading' && token.depth === 2 && token.text === sectionTitle) {
+                capture = true;
+                continue;
             }
+            if (capture) {
+                if (token.type === 'heading' && token.depth === 2) {
+                    break;
+                }
+                const highlights = token.items?.map(item => ({ bookTitle: bookTitle, content: item.text }));
+                if (highlights) {
+                    sectionContent = [...sectionContent, ...highlights];
+                }
+            }
+        }
 
-            const highlight: Highlight = generateHighlightObject(highlightData);
+        return sectionContent?.filter(Boolean) || null;
+    } catch (err) {
+        console.error('Error reading the markdown file:', err);
+        return null;
+    }
+}
 
-            return highlight;
-        })
-        .filter(Boolean) as Highlight[];
+const highlightsParser = async (
+    path: PathLike
+): Promise<Highlight[] | null> => {
+    const sectionTitle = 'Highlights';
 
-    return filteredHighlights;
+    const highLights = await readMarkdownSection(path.toString(), sectionTitle);
+
+    return highLights;
 };
 
-export const randomHighlightsSlice = (
-    highlights: Highlight[],
-    amount: number
-): Highlight[] => {
-    let slice = highlights
-        .sort(() => 0.5 - Math.random())
-        .slice(0, Math.min(amount, highlights.length));
+export const getRandomHighlight = async (path: PathLike): Promise<Highlight | null> => {
+    const allHighlights = await highlightsParser(path);
 
-    return slice;
+    if (allHighlights && allHighlights.length > 0) {
+        const randomHighlightIndex = Math.floor(Math.random() * allHighlights.length);
+        return allHighlights[randomHighlightIndex]!;
+    }
+
+    return null;
 };
