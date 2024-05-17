@@ -24,7 +24,14 @@ const readMarkdownSection = async (filePath: string, sectionTitle: string): Prom
                 if (token.type === 'heading' && token.depth === 2) {
                     break;
                 }
-                const highlights = token.items?.map(item => ({ bookTitle: bookTitle, content: item.text }));
+
+                let highlights: Highlight[];
+                if (token.items) {
+                    highlights = token.items?.map(item => ({ bookTitle, content: item.text }));
+                } else {
+                    highlights = [{ bookTitle, content: token.text }];
+                }
+
                 if (highlights) {
                     sectionContent = [...sectionContent, ...highlights];
                 }
