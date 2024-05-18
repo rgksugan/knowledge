@@ -6075,11 +6075,6 @@ Domain-Driven Design (Eric, Evans)
 
 Every software program relates to some activity or interest of its user. That subject area to which the user applies the program is the domain of the software. Some domains involve the physical world: The domain of an airline-booking program involves real people getting on real aircraft. Some domains are intangible: The domain of an accounting program is money and finance. Software domains usually have little to do with computers, though there are exceptions: The domain of a source-code control system is software development itself.
 ==========
-IIMA-Day To Day Economics (Deodhar, Satish Y)
-- Your Highlight on page 9 | location 77-79 | Added on Wednesday, 7 December 2022 21:47:21
-
-One of the branches of economics that focuses on individual economic decisions of households and firms is called microeconomics. Another—which focuses on understanding the changes in the aggregate business environment—is called macroeconomics.
-==========
 Oru Manithan Oru Veedu Oru Ulagam  (Tamil) (Jayakanthan, T.)
 - Your Highlight on page 17 | location 371-372 | Added on Thursday, 8 December 2022 07:17:34
 

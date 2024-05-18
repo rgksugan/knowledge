@@ -14,7 +14,11 @@ by [[Chris Mamula]] [[Brad Barrett]] [[Jonathan Mendonsa]]
 
 > A simple way to save money on insurance is to keep your insurance separate from your investments.
 
+> Geoarbitrage is the act of exploiting differences in the cost of living between two locations. This allows you to leverage this difference by earning money in one area, then spend it in another community where those dollars go further.
+
 > You should question the assumption that college is right for everyone. If you want to be a doctor or medical professional, lawyer, engineer, or accountant, that answer is clearly yes. For others, like those looking to be entrepreneurs, computer coders, trade workers, or pursuing a career in the arts, the answer is far less clear.
+
+> Savings Rate = Savings/Earnings Savings is simply the amount you earn minus the amount you spend or: Savings = Earnings – Spending
 
 > College is an investment. Rather than viewing college as a good decision at any price, look at the cost—both money and time—of obtaining a degree and the expected return from having that degree.
 
@@ -27,3 +31,5 @@ by [[Chris Mamula]] [[Brad Barrett]] [[Jonathan Mendonsa]]
 * [[The Little Book of Common Sense Investing]]
 * [[Cash Flow Quadrant]]
 * [[Set for Life]]
+* [[All About Asset Allocation]]
+* [[The Intelligent Asset Allocator]]
