@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "gatsby develop",
     "build": "gatsby build --prefix-paths",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
   },
   "keywords": [
     "foam"

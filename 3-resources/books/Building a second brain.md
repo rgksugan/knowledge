@@ -11,7 +11,9 @@ Human brain has its limitations. For instance, you might remember that you have 
 
 ## Highlights
 > The secret to making reading a habit is to make it effortless and enjoyable.
+
 > As knowledge workers, attention is our most scarce and precious resource.
+
 > The truth is, any system that must be perfect to be reliable is deeply flawed.
 
 ## Bibliography

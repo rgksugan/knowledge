@@ -18,7 +18,6 @@ by [[Michael Lopp]]
 
 > Scary but true rule: as a leader, at any given point during your tenure, 30% of your team is unhappy with your performance.
 
-
 ## The Book in 3 Sentences
 
 ## Who Should Read It?
