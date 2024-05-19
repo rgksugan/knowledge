@@ -2,7 +2,7 @@
 tags: 
 type: book
 author: 
-title:
+title: ${TM_FILENAME_BASE}
 sub-title: 
 foam_template:
   filepath: '3-resources/books/$FOAM_TITLE.md'
