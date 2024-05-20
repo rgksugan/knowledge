@@ -1659,16 +1659,6 @@ The House Of Kanooru (Kuvempu)
 
 The difference between her dream and reality was like the gulf between heaven and hell.
 ==========
-Oru Manithan Oru Veedu Oru Ulagam  (Tamil) (Jayakanthan, T.)
-- Your Highlight at location 111-112 | Added on Sunday, 15 March 2020 15:42:46
-
-நல்லதும் கெட்டதும் எங்கும் உண்டு. நாடுவது என்னவென்பதே முக்கியம்.
-==========
-Oru Manithan Oru Veedu Oru Ulagam  (Tamil) (Jayakanthan, T.)
-- Your Highlight at location 222-225 | Added on Monday, 16 March 2020 07:15:19
-
-நதியும் கடலும் மட்டும்தான் முழுமையா என்ன? தண்ணீரின் ஒவ்வொரு துளியும் முழுமையானதே ஆகும். நாடுகளும் கண்டங்களும்தான் உலகம் என்பதில்லை. ஒவ்வொரு மனிதனும் ஒரு உலகம்தான்.
-==========
 Oru Puliyamarathin Kathai (Tamil) (Sundara Ramaswamy)
 - Your Highlight at location 201-202 | Added on Tuesday, 17 March 2020 22:44:29
 
@@ -6025,75 +6015,10 @@ Just Keep Buying (Maggiulli, Nick)
 
 Since most markets are expected to rise over time, buying quickly and selling slowly is the optimal way to maximize your wealth.
 ==========
-Choose FI (Mamula, Chris)
-- Your Highlight on page 36 | location 471-472 | Added on Sunday, 27 November 2022 22:04:53
-
-FI is all about the amount of money you need relative to the cost of the lifestyle you desire.
-==========
-Choose FI (Mamula, Chris)
-- Your Highlight on page 74 | location 957-958 | Added on Wednesday, 30 November 2022 06:49:41
-
-A simple way to save money on insurance is to keep your insurance separate from your investments.
-==========
-Choose FI (Mamula, Chris)
-- Your Highlight on page 85 | location 1107-1108 | Added on Wednesday, 30 November 2022 07:14:17
-
-Google “Latte Factor Calculator.” Take a recurring expense and plug it into the calculator. Assume you could get an 8 percent return on that money if invested, representing average stock market returns. Hit calculate.
-==========
-Choose FI (Mamula, Chris)
-- Your Highlight on page 109 | location 1432-1433 | Added on Monday, 5 December 2022 06:36:17
-
-Geoarbitrage is the act of exploiting differences in the cost of living between two locations. This allows you to leverage this difference by earning money in one area, then spend it in another community where those dollars go further.
-==========
-Choose FI (Mamula, Chris)
-- Your Highlight on page 117 | location 1529-1531 | Added on Monday, 5 December 2022 07:55:18
-
-If you want to be a doctor or medical professional, lawyer, engineer, or accountant, that answer is clearly yes. For others, like those looking to be entrepreneurs, computer coders, trade workers, or pursuing a career in the arts, the answer is far less clear.
-==========
-Choose FI (Mamula, Chris)
-- Your Highlight on page 117 | location 1529-1531 | Added on Monday, 5 December 2022 07:55:25
-
-You should question the assumption that college is right for everyone. If you want to be a doctor or medical professional, lawyer, engineer, or accountant, that answer is clearly yes. For others, like those looking to be entrepreneurs, computer coders, trade workers, or pursuing a career in the arts, the answer is far less clear.
-==========
-Choose FI (Mamula, Chris)
-- Your Highlight on page 125 | location 1641-1642 | Added on Monday, 5 December 2022 18:35:21
-
-College is an investment. Rather than viewing college as a good decision at any price, look at the cost—both money and time—of obtaining a degree and the expected return from having that degree.
-==========
-Choose FI (Mamula, Chris)
-- Your Highlight on page 135 | location 1771-1772 | Added on Tuesday, 6 December 2022 05:28:18
-
-Savings Rate = Savings/Earnings Savings is simply the amount you earn minus the amount you spend or: Savings = Earnings – Spending
-==========
-Choose FI (Mamula, Chris)
-- Your Highlight on page 201 | location 2640-2641 | Added on Wednesday, 7 December 2022 05:08:33
-
-One upside of owning real estate is that housing prices and rents tend to match or outpace the rate of inflation (i.e., an ongoing increase in prices).
-==========
 Domain-Driven Design (Eric, Evans)
 - Your Highlight on page 2 | location 508-512 | Added on Wednesday, 7 December 2022 08:25:13
 
 Every software program relates to some activity or interest of its user. That subject area to which the user applies the program is the domain of the software. Some domains involve the physical world: The domain of an airline-booking program involves real people getting on real aircraft. Some domains are intangible: The domain of an accounting program is money and finance. Software domains usually have little to do with computers, though there are exceptions: The domain of a source-code control system is software development itself.
-==========
-Oru Manithan Oru Veedu Oru Ulagam  (Tamil) (Jayakanthan, T.)
-- Your Highlight on page 17 | location 371-372 | Added on Thursday, 8 December 2022 07:17:34
-
-அவன் குரல் அவன் மீசையை விட முரட்டுத்தனமாயிருந்தது.
-==========
-Oru Manithan Oru Veedu Oru Ulagam  (Tamil) (Jayakanthan, T.)
-- Your Highlight on page 83 | location 1887-1888 | Added on Monday, 12 December 2022 09:45:01
-
-பாக்காத ஒறவும், கேக்காத கடனும் பாழாப் பூடும்னு சொல்லுவாங்க.
-==========
-Oru Manithan Oru Veedu Oru Ulagam  (Tamil) (Jayakanthan, T.)
-- Your Highlight on page 239 | location 5561-5566 | Added on Monday, 2 January 2023 06:12:43
-
-அவருக்கு மாலை நேரம் ‘மயக்க’த்திலே தான் கழியும். அதற்கென்று ஓர் ரகசிய இடமும், சில அந்தரங்க நண்பர்களும் உண்டு. அந்த நண்பர்களிடையே பேதங்களும் வித்தியாசங்களும் வெளியுலகில் நிலவுமே தவிர அங்கு எல்லாரும் சமமாகப் பழகுவார்கள். மணியக்காரர் முற்றிலும் மாறிய மனிதராய் அங்கே இருப்பார்.
-==========
-Oru Manithan Oru Veedu Oru Ulagam  (Tamil) (Jayakanthan, T.)
-- Your Highlight on page 327 | location 7585-7587 | Added on Monday, 9 January 2023 07:44:48
-
-முந்தா நாளு நீங்கபோட்ட ஒரு சட்டமும் நேத்து வந்த ஒரு போலீஸ் இன்ஸ்பெட்டரும் அவரெ விடப் பெரிசா, என்னா?
 ==========
 Tales From The Indian Jungle (Anderson, Kenneth)
 - Your Highlight on page 15 | location 231-232 | Added on Wednesday, 14 June 2023 10:50:16
