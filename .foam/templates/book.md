@@ -15,6 +15,8 @@ by [[]]
 
 ## Highlights
 
+## Contents
+
 ## The Book in 3 Sentences
 
 ## Who Should Read It?
