@@ -16,7 +16,6 @@ by [[Oliver Sacks]]
 
 > With equal passion I have sought knowledge. I have wished to understand the hearts of men. I have wished to know why the stars shine. And I have tried to apprehend the Pythagorean power by which number holds sway above the flux.
 
-
 ## The Book in 3 Sentences
 * The book is a collection of case studies about patients with unique neurological disorders.
 
@@ -24,4 +23,4 @@ by [[Oliver Sacks]]
 * Anyone who needs to know about neurological disorders.
 
 ## Bibliography
-* The Mind of a Mnemonist
+* [[The Mind of a Mnemonist]]
