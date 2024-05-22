@@ -4,6 +4,7 @@
 * [[Samuthaya Veethi]]
 * [[Vaadivaasal]]
 * [[Oru Manithan Oru Veedu Oru Ulagam]]
+* [[Goat Days]]
 
 ## Non-Fiction
 * [[Being Mortal]]
@@ -22,6 +23,7 @@
 [Samuthaya Veethi]: <Samuthaya Veethi.md> "Samuthaya Veethi"
 [Vaadivaasal]: Vaadivaasal.md "Vaadivaasal"
 [Oru Manithan Oru Veedu Oru Ulagam]: <Oru Manithan Oru Veedu Oru Ulagam.md> "Oru Manithan Oru Veedu Oru Ulagam"
+[Goat Days]: <Goat Days.md> "Goat Days"
 [Being Mortal]: <Being Mortal.md> "Being Mortal"
 [Coffee Can Investing]: <Coffee Can Investing.md> "Coffee Can Investing"
 [The Man Who Mistook His Wife for a Hat]: <The Man Who Mistook His Wife for a Hat.md> "The Man Who Mistook His Wife for a Hat"
