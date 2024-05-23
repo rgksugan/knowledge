@@ -13,7 +13,7 @@ by [[Latha]]
 
 > If you don’t laugh during sex at least once, you are having sex with the wrong person.
 
-> It takes more than sex to build a great marriage, but is it nearly impossible to build a great marriage without it!
+> It takes more than sex to build a great marriage, but it is nearly impossible to build a great marriage without it!
 
 > Love is expressed more through touch rather than the words we speak. When this need is not taken care of properly, there is every chance that the love may start diminishing.
 
