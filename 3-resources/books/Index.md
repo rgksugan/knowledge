@@ -5,6 +5,7 @@
 * [[Vaadivaasal]]
 * [[Oru Manithan Oru Veedu Oru Ulagam]]
 * [[Goat Days]]
+* [[Moga Mul]]
 
 ## Non-Fiction
 * [[Being Mortal]]
@@ -33,6 +34,7 @@
 [Vaadivaasal]: Vaadivaasal.md "Vaadivaasal"
 [Oru Manithan Oru Veedu Oru Ulagam]: <Oru Manithan Oru Veedu Oru Ulagam.md> "Oru Manithan Oru Veedu Oru Ulagam"
 [Goat Days]: <Goat Days.md> "Goat Days"
+[Moga Mul]: <Moga Mul.md> "Moga Mul"
 [Being Mortal]: <Being Mortal.md> "Being Mortal"
 [Coffee Can Investing]: <Coffee Can Investing.md> "Coffee Can Investing"
 [The Man Who Mistook His Wife for a Hat]: <The Man Who Mistook His Wife for a Hat.md> "The Man Who Mistook His Wife for a Hat"
