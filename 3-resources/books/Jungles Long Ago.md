@@ -21,6 +21,8 @@ by [[Kenneth Anderson]]
 
 > Catching a cobra is really very easy once you rivet its attention. It is only when the reptile is in rapid motion that the operation becomes difficult and entails considerable risk.
 
+> It is not good for the young of any creature to cry in the forest. The jungle recognizes no law of pity for the young and helpless, only the rule of the survival of the fittest, which certainly does not include the young.
+
 ## Contents
 * A Night in Spider Valley
 * The Medical Lore of India
