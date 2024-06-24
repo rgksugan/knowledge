@@ -16,6 +16,12 @@ by [[Gene Kim]], [[Kevin Behr]] and [[George Spafford]]
 
 > Any improvement made after the bottleneck is useless, because it will always remain starved, waiting for work from the bottleneck. And any improvements made before the bottleneck merely results in more inventory piling up at the bottleneck. [[theory-of-constraints]]
 
+> I smirk at the reference to smoke tests, a term circuit designers use. The saying goes, “If you turn the circuit board on and no smoke comes out, it’ll probably work.”
+
+> Remember, unplanned work kills your ability to do planned work, so you must always do whatever it takes to eradicate it.
+
+> Being able to take needless work out of the system is more important than being able to put more work into the system.
+
 ## Contents
 
 ## The Book in 3 Sentences
