@@ -7,6 +7,7 @@
 * [[Goat Days]]
 * [[Moga Mul]]
 * [[Saivu Naarkaali]]
+* [[Micha kathaigal]]
 
 ## Non-Fiction
 * [[Being Mortal]]
@@ -40,6 +41,7 @@
 [Goat Days]: <Goat Days.md> "Goat Days"
 [Moga Mul]: <Moga Mul.md> "Moga Mul"
 [Saivu Naarkaali]: <Saivu Naarkaali.md> "Saivu Naarkaali"
+[Micha kathaigal]: <Micha kathaigal.md> "மிச்சக் கதைகள்"
 [Being Mortal]: <Being Mortal.md> "Being Mortal"
 [Coffee Can Investing]: <Coffee Can Investing.md> "Coffee Can Investing"
 [The Man Who Mistook His Wife for a Hat]: <The Man Who Mistook His Wife for a Hat.md> "The Man Who Mistook His Wife for a Hat"
