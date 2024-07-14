@@ -6,7 +6,7 @@ title: Samuthaya Veethi
 sub-title: 
 ---
 
-# Samuthaya Veethi
+# சமுதாய வீதி
 by [[Deepam Na Parthasarathy]]
 
 ## Highlights

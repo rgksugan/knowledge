@@ -5,7 +5,7 @@ author: Tho. Paramasivan
 title: Deivam Enbathor
 ---
 
-# Deivam Enbathor
+# தெய்வம் என்பதோர்
 by [[Paramasivan]]
 
 ## Highlights

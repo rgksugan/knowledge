@@ -6,7 +6,7 @@ title: Vanangaan
 sub-title: 
 ---
 
-# Vanangaan
+# வணங்கான்
 by [[Jeyamohan]]
 
 ## Highlights

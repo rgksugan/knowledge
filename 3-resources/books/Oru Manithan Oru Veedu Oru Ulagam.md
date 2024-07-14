@@ -5,7 +5,7 @@ author: T. Jayakanthan
 title: Oru Manithan Oru Veedu Oru Ulagam
 ---
 
-# Oru Manithan Oru Veedu Oru Ulagam
+# ஒரு மனிதன், ஒரு வீடு, ஒரு உலகம்
 by [[T. Jayakanthan]]
 
 ## Highlights

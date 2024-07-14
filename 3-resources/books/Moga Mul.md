@@ -5,7 +5,7 @@ author: T Janakiraman
 title: Moga Mul
 ---
 
-# Moga Mul
+# மோகமுள்
 by [[T Janakiraman]]
 
 ## Highlights

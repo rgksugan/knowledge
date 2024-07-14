@@ -5,7 +5,7 @@ author: Tho. Paramasivan
 title: Marapum Puthumaiyum
 ---
 
-# Marapum Puthumaiyum
+# மரபும் புதுமையும்
 by [[Paramasivan]]
 
 ## Highlights

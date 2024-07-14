@@ -6,7 +6,7 @@ title: Vaadivaasal
 sub-title: 
 ---
 
-# Vaadivaasal
+# வாடிவாசல்
 by [[Si Su Chellappaa]]
 
 ## Highlights

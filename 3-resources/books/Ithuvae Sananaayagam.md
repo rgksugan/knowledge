@@ -5,7 +5,7 @@ author: Tho. Paramasivan
 title: Ithuvae Sananaayagam
 ---
 
-# Ithuvae Sananaayagam
+# இதுவே சனநாயகம்
 by [[Paramasivan]]
 
 ## Highlights
