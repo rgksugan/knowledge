@@ -32,8 +32,6 @@ by [[Will Larson]]
 
 > What’s been most impactful for me is having a lot of people who I think of as mentors, usually friends, former managers, and folks that I’ve worked with. I have a decent number of recurring monthly lunches, coffee chats, and dinners with people who’ve worked with me in the past, know me, and I trust. It’s those conversations about career challenges and growth that have gotten me to where I am in my career.
 
-> 
-
 ## Contents
 
 ## The Book in 3 Sentences
