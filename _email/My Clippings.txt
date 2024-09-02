@@ -5575,16 +5575,6 @@ Domain-Driven Design (Eric, Evans)
 
 Every software program relates to some activity or interest of its user. That subject area to which the user applies the program is the domain of the software. Some domains involve the physical world: The domain of an airline-booking program involves real people getting on real aircraft. Some domains are intangible: The domain of an accounting program is money and finance. Software domains usually have little to do with computers, though there are exceptions: The domain of a source-code control system is software development itself.
 ==========
-Algorithms to Live By: The Computer Science of Human Decisions (Christian, Brian)
-- Your Highlight on page 4 | location 119-119 | Added on Wednesday, 14 June 2023 19:40:29
-
-Science is a way of thinking much more than it is a body of knowledge.
-==========
-Algorithms to Live By: The Computer Science of Human Decisions (Christian, Brian)
-- Your Highlight on page 10 | location 193-194 | Added on Wednesday, 14 June 2023 19:53:13
-
-In any optimal stopping problem, the crucial dilemma is not which option to pick, but how many options to even consider.
-==========
 Immune: The new book from Kurzgesagt - a gorgeously illustrated deep dive into the immune system (Dettmer, Philipp)
 - Your Highlight on page 35 | location 647-652 | Added on Wednesday, 25 January 2023 06:24:07
 
