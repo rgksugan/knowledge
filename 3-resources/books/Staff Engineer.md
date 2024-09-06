@@ -10,6 +10,36 @@ sub-title: Leadership beyond the management track
 by [[Will Larson]]
 
 ## Highlights
+> Process rollout requires humans to change how they work, which you shouldn’t undertake lightly.
+
+> Remember, attention is a scarce resource! If you waste folks’ time with a nudge email or ping, they won’t pay attention to the next one.
+
+> Defining leadership and management is such heavily trodden terrain that it’s hard to add much to it, but roughly management is a specific profession, and leadership is an approach one can demonstrate within any profession.
+
+> What you can accomplish alone is far from what you can accomplish by creating leaders.
+
+> We only get value from finishing projects, and getting a project over the finish line is the magical moment it goes from risk to leverage. Time spent getting work finished is always time well spent.
+
+> In this case, a jerk is someone who withholds their consent from the group, isn’t willing to compromise, or doesn’t listen. This is someone who hasn’t learned that their career depends more on being easy to involve than being technically correct.
+
+> The only way to remain a long-term leader of a genuinely successful company is to continually create space for others to take the recognition, reward, and work that got you to where you’re currently sitting. It can be surprisingly uncomfortable, but don’t worry: there will always be new work for you anyway.
+
+> One of the biggest signs of respect for your coworkers is listening to them and then changing your mind afterward. If senior leaders don’t change their mind, then soon everyone will correlate bluster with success.
+
+> Separate style from substance, and stop giving style feedback on other folks’ decisions. If a piece of feedback won’t meaningfully change a project’s success, then consider not giving it. If it’s useful but not critical, potentially make a private suggestion rather than pulling a meeting into your orbit.
+
+> If you realize someone’s missing from the discussion who should be there, be the person to pull them into the next occurrence of the meeting. Talk with the meeting coordinator to let them know why it’s valuable to include them.
+
+> Be the one to take notes. This helps destigmatize note-taking as “low status” and also frees up an alternative would-be notetaker to contribute more instead. It also gives you something to focus on other than speaking!
+
+> Shift your contribution towards asking questions. Asking the right questions helps avoid missteps, but also makes it easier for more folks to contribute.
+
+> The two most effective ways to deal with jerks are: including someone they can’t be a jerk to in the meeting (like their manager or the CTO) investing heavily into aligning with them before the meeting, so they feel heard and are less likely to derail the discussion
+
+> In addition, longevity as a senior leader is just as much about maintaining your relationships as it is about standout successes. You’ll see a bunch of folks who burn bright for a while but later lack the support to make forward progress. If you want to avoid that fate, learn to never be wrong and never stop practicing.
+
+> If you only see the gap without acting on it, you might be a visionary, but you’re inert. If you take action without a clear view of the goal, many will consider you a leader, but your impact will be random, arbitrary, and inefficient. Combining both with some luck is likely to take you a long way in your career, and these are characteristics common in folks I’ve worked with who successfully navigate the transition into Staff-plus engineering or senior management roles.
+
 > Work on what matters to make the most of the working hours you have, particularly as you get further along in your career and life’s commitments expand.
 
 > Write an engineering strategy to guide your organization’s approach to supporting your company’s business objectives with its architecture, technology selection, and organizational structure.
