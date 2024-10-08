@@ -27,8 +27,6 @@ by [[Latha]]
 
 > Many marriages are ruined on day one itself because of ignorance, though the partners carry on living together just for the sake of society, because they think that is how marriage is supposed to be and everyone must be going through the same problem.
 
-> How many schools, colleges or even homes for that matter impart the lessons of life to their children? How many elders have asked the so-called ‘eligible’ bachelor if he is indeed eligible for marriage? Eligibility in our society only means the money a man brings into the family. When it comes to a woman, even that is not mandatory.
-
 > How many men and women are clear about the responsibilities they have to take up when they take in another life into their lives? Do we ever teach youngsters how to nurture the newly found relationship in their lives? The answer is a big NO! Have any of us advised youngsters to read a good book on sex before getting married? Do we gift couples an educative book on sex so that they become responsible husbands and wives? When one of the underlying reasons for marriage is safe sex, why are we so hesitant to talk and learn about it? Why do we not think sex requires proper education and learning?
 
 > Also, love is expressed more through touch rather than the words we speak. When this need is not taken care of properly, there is every chance that the love may start diminishing.
