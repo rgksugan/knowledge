@@ -9,8 +9,9 @@ title: A Knight of the Seven Kingdoms
 by [[George R.R. Martin]]
 
 ## Highlights
-* A man has his pride, no matter how lowborn he may be.
-* He learned more about kissing in a moment than he had ever known from watching.
+> A man has his pride, no matter how lowborn he may be.
+
+> He learned more about kissing in a moment than he had ever known from watching.
 
 ## Contents
 * The Hedge Knight
