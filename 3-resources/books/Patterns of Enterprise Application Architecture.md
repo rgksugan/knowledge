@@ -6,9 +6,14 @@ type: book
 # Patterns of Enterprise Application Architecture
 by [[Martin Fowler]]
 
+## Highlights
+> One of the best things you can do is turn a larger project into a small one by simplifying its architecture and process.
+
 ## Notes
 ### 0. Introduction
 #### Architecture
+* Architecture is decisions that are hard to change.
+* Architecture is highest-level breakdown of a system into its parts.
 * Architecture is subjective and is a shared understanding of a system’s design by the expert developers on a project.
 * It’s also about decisions, in that it’s the decisions that developers wish they could get right early on because they’re perceived as hard to change. The subjectivity comes in here as well because, if you find that something is easier to change than you once thought, then it’s no longer architectural. In the end architecture boils down to the important stuff—whatever that is.
 
