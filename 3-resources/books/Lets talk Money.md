@@ -10,6 +10,9 @@ sub-title:
 by [[Monika Halan]]
 
 ## Highlights
+> It is not market timing but time in the market that matters.
+
+> Do not invest in things you do not understand.
 
 ## Notes
 * Have a three account system that separates your income, spending and savings.
@@ -38,7 +41,24 @@ by [[Monika Halan]]
   * Claims
     * for the particular policy and for individuals
 * Critical illness and personal accident
-* 
+
+### Term Insurance
+* Cover of 8 - 10x of annual take home income or 15 - 20x of annual expenditure
+
+### Investments
+* Almost there (2-3 years)
+  * ultra short term debt fund
+  * conservative hybrid (max equity exposure of 25% and remaining in bonds)
+* In some time (3-7 years)
+  * aggressive hybrid funds
+  * diversified equity funds
+* Far away (>7 years)
+  * aggressive hybrid funds
+  * diversified equity funds
+  * multicap mutual funds
+* Retirement
+  * 30s - mid, small
+  * 40s - diversified
 
 ## Contents
 
