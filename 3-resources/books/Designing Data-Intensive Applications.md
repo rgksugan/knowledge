@@ -15,6 +15,20 @@ by [[Martin Kleppmann]]
 > Many applications today are data-intensive, as opposed to compute-intensive. Raw CPU power is rarely a limiting factor for these applications—bigger problems are usually the amount of data, the complexity of data, and the speed at which it is changing.
 
 ## Contents
+### Part 1: Foundations of Data Systems
+#### Reliable, Scalable & Maintainable Applications
+* Mostly all applications are built with standard building blocks. These building blocks are
+    * database
+    * cache (to store the result of an expensive operation)
+    * search index (search by keyword or filter)
+    * stream processing (asynchronus messages)
+    * batch processing (periodically crunch large data)
+  * And these different blocks are stitched together through application code
+* There are many factors that may influence the design of a data system
+  * skills and experience of the people involved
+  * legacy system dependencies
+  * time scale for delivery
+  * regulatory constraints
 
 ## Notes
 

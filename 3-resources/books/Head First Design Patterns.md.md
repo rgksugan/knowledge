@@ -2,11 +2,11 @@
 tags: non-fiction
 type: book
 author: Eric Freeman
-title: Head First Design Patterns.md
+title: Head First Design Patterns
 sub-title: Building Extensible & Maintainable Object-Oriented Software
 ---
 
-# Head First Design Patterns.md
+# Head First Design Patterns
 by [[Eric Freeman]] & [[Elisabeth Robson]]
 
 ## Highlights
