@@ -1,0 +1,56 @@
+---
+tags: fiction
+type: book
+author: Haruki Murakami
+title: First Person Singular
+---
+
+# First Person Singular
+by [[Haruki Murakami]]
+
+## Highlights
+> There’s nothing worth getting in this world that you can get easily.
+
+> But not thinking about anything might also be pretty hard.
+
+> Loving someone is like having a mental illness that’s not covered by health insurance.
+
+> Your brain is made to think about difficult things. To help you get to a point where you understand something that you didn’t understand at first. And that becomes the cream of your life. The rest is boring and worthless.
+
+> A simple name can sometimes really jolt a person’s heart.
+
+> When I couldn’t get that sensation in the real world, I would quietly let my memory of those feelings awaken inside me. In this way, memory became one of my most valued emotional tools, a means of survival, even.
+
+> I believe that love is the indispensable fuel that allows us to go on living. Someday that love may end. Or it may never amount to anything. But even if love fades away, even if it’s unrequited, you can still hold on to the memory of having loved someone, of having fallen in love with someone. And that’s a valuable source of warmth. Without that heat source a person’s heart—and a monkey’s heart, too—would turn into a bitterly cold, barren wasteland. A place where not a ray of sunlight falls, where the wildflowers of peace, the trees of hope, have no chance to grow.
+
+> I plan to use these memories as my own little fuel source I burn on cold nights to keep me warm as I live out what’s left of my own personal life.
+
+> Even without any major work-related assignments, somehow as I get older I find myself busier than ever.
+
+> All of us, more or less, wear masks. Because without masks we can’t survive in this violent world. Beneath an evil-spirit mask lies the natural face of an angel, beneath an angel’s mask lies the face of an evil spirit. It’s impossible to have just one or the other. That’s who we are.
+
+> The whole thing was a mediocre crime. For some reason lots of people seem drawn in by such banal lies. Maybe it’s the very mediocrity that attracts them, who knows?
+
+> Maybe it’s the very mediocrity that attracts them, who knows?
+
+> It’s true that life brings us far more defeats than victories. And real-life wisdom arises not so much from knowing how we might beat someone as from learning how to accept defeat with grace.
+
+> Of course, winning is much better than losing. No argument there. But winning or losing doesn’t affect the weight and value of the time. It’s the same time, either way. A minute is a minute, an hour is an hour. We need to cherish it. We need to deftly reconcile ourselves with time, and leave behind as many precious memories as we can—that’s what’s the most valuable.
+
+## Contents
+* Cream
+* On a Stone Pillow
+* Charlie Parker Plays Bossa Nova
+* With the Beatles
+* Confessions of a Shinagawa Monkey
+* Carnaval
+* The Yakult Swallows Poetry Collection
+* First Person Singular
+
+## The Book in 3 Sentences
+
+## Who Should Read It?
+
+## My Top 3 Quotes
+
+## Bibliography

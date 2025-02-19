@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: fiction
 type: book
 author: Haruki Murakami
 title: Men without Women
@@ -76,6 +76,13 @@ by [[Haruki Murakami]]
 > It’s quite easy to become Men Without Women. You love a woman deeply, and then she goes off somewhere. That’s all it takes. Most of the time (as I’m sure you’re well aware) it’s crafty sailors who take them away.
 
 ## Contents
+* Drive My Car
+* Yesterday
+* An Independent Organ
+* Scheherazade
+* Kino
+* Samsa in Love
+* Men Without Women
 
 ## The Book in 3 Sentences
 A collection of short stories of Men falling in love and failing in love.
