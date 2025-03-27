@@ -13,6 +13,16 @@ by [[Kenneth Anderson]]
 
 > To remain absolutely still is the first secret of successful concealment in the jungle.
 
+## Contents
+* Ghooming at Dawn
+* The Bellundur Ogre
+* The Aristocrat of Amligola
+* The Assasin of Diguvametta
+* Tales of the Supernatural
+* The Strange Case of The Gerhetti Leopard
+* The Lakkavalli Man-Eater
+* What the Thunderstorm Brought
+
 ## The Book in 3 Sentences
 Kenneth takes you into the forest and experience wildlife.
 
