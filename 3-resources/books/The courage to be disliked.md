@@ -10,11 +10,15 @@ sub-title: A single book can change your life
 by [[Ichiro Kishimi]]
 
 ## Highlights
-* People enter this world as helpless beings and people have the universal desire to escape from that helpless state.
-* All problems are interpersonal relationship problems.
-* We are all equal but not the same.
-* Whether we praise or rebuke, the only difference is one of the carrot or the stick, and the background goal is manipulation.
-* Happiness is the feeling of contribution.
+> People enter this world as helpless beings and people have the universal desire to escape from that helpless state.
+
+> All problems are interpersonal relationship problems.
+
+> We are all equal but not the same.
+
+> Whether we praise or rebuke, the only difference is one of the carrot or the stick, and the background goal is manipulation.
+
+> Happiness is the feeling of contribution.
 
 ## Contents
 

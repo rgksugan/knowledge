@@ -20,8 +20,6 @@ by [[Jon Lee Anderson]]
 
 > I believe in the armed struggle as the only solution for the peoples that fight to free themselves, and I am consistent with my beliefs. Many will call me an adventurer, and I am, but a different kind who put their necks on the line to demonstrate their truths.
 
-> They are almost savage, they live in a state of extreme poverty. They have only one room in which to sleep and cook. No clothes, abandoned like animals.
-
 > The true Revolutionary is guided by great feelings of love.
 
 > It must be said in all sincerity, in a true revolution to which one gives oneself completely, from which no material reward is expected, the task of the vanguard revolutionary is at once magnificent and agonizing.
