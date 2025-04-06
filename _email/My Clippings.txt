@@ -4139,21 +4139,6 @@ Kaaval Kottam  (Tamil) (S.Venkatesan)
 
 மதுரை மதன கோபாலசாமி கோவிலின் சித்திர மண்டபத்தையே பிரித்து அப்படியே நீங்கள் கப்பலில் தூக்கிக் கொண்டு போகவில்லையா!
 ==========
-Domain-Driven Design (Eric, Evans)
-- Your Highlight on page 2 | location 506-508 | Added on Wednesday, 11 August 2021 10:09:37
-
-A model is a simplification. It is an interpretation of reality that abstracts the aspects relevant to solving the problem at hand and ignores extraneous detail.
-==========
-Domain-Driven Design (Eric, Evans)
-- Your Highlight on page 3 | location 514-515 | Added on Wednesday, 11 August 2021 10:12:45
-
-A model is a selectively simplified and consciously structured form of knowledge.
-==========
-Domain-Driven Design (Eric, Evans)
-- Your Highlight on page 3 | location 516-516 | Added on Wednesday, 11 August 2021 10:13:45
-
-A domain model is not a particular diagram; it is the idea that the diagram is intended to convey.
-==========
 What Every Web Developer Should Know About HTTP (OdeToCode Programming Series Book 1) (Allen, K. Scott)
 - Your Highlight on page 57 | location 827-829 | Added on Friday, 13 August 2021 06:22:20
 
@@ -5229,34 +5214,4 @@ The Effective Engineer: How to Leverage Your Efforts in Software Engineering to 
 - Your Highlight at location 1171-1172 | Added on Sunday, 4 September 2022 06:28:19
 
 Projects fail from under-communicating, not over-communicating.
-==========
-Domain-Driven Design (Eric, Evans)
-- Your Highlight on page 2 | location 508-512 | Added on Wednesday, 7 December 2022 08:25:13
-
-Every software program relates to some activity or interest of its user. That subject area to which the user applies the program is the domain of the software. Some domains involve the physical world: The domain of an airline-booking program involves real people getting on real aircraft. Some domains are intangible: The domain of an accounting program is money and finance. Software domains usually have little to do with computers, though there are exceptions: The domain of a source-code control system is software development itself.
-==========
-Immune: The new book from Kurzgesagt - a gorgeously illustrated deep dive into the immune system (Dettmer, Philipp)
-- Your Highlight on page 35 | location 647-652 | Added on Wednesday, 25 January 2023 06:24:07
-
-Any sort of invader that is able to give your immune system a run for its money is called a Pathogen—which appropriately means “the maker of suffering.” So every microorganism that causes disease is a pathogen, no matter what species, no matter how big or small. And almost everything can become a pathogen under the right circumstances. For example, a regular old bacteria living on your skin might not bother you at all, but can become a pathogen if you are going through chemotherapy and are immunocompromised, making it easy to invade you. So whenever you read “pathogen,” just remember it means “a thing that makes you sick.”
-==========
-Immune: The new book from Kurzgesagt - a gorgeously illustrated deep dive into the immune system (Dettmer, Philipp)
-- Your Highlight on page 38 | location 687-688 | Added on Wednesday, 25 January 2023 06:29:58
-
-Before the onset of antibiotics, even small wounds could lead to serious disease or even death.
-==========
-Immune: The new book from Kurzgesagt - a gorgeously illustrated deep dive into the immune system (Dettmer, Philipp)
-- Your Highlight on page 39 | location 690-691 | Added on Wednesday, 25 January 2023 06:30:26
-
-Even today with all the magic of modern medicine, bacterial infections are responsible for a good chunk of deaths each year.
-==========
-Immune: The new book from Kurzgesagt - a gorgeously illustrated deep dive into the immune system (Dettmer, Philipp)
-- Your Highlight on page 121 | location 1895-1897 | Added on Monday, 30 January 2023 05:45:51
-
-So next time when you hug your partner, know that their immune system is probably one of the reasons why you find them attractive!
-==========
-Immune: The new book from Kurzgesagt - a gorgeously illustrated deep dive into the immune system (Dettmer, Philipp)
-- Your Highlight on page 122 | location 1912-1914 | Added on Monday, 30 January 2023 05:53:23
-
-People who don’t have enough T Cells, because of a genetic defect, chemotherapy, or a disease like AIDS, have a very high chance of dying from infections and cancers. Sadly, even with the best our modern medicine has to offer, the lives of patients without T Cells often can’t be saved.
 ==========
