@@ -14,6 +14,7 @@
 * [[Men without Women]]
 * [[First Person Singular]]
 * [[South of the Border, West of the Sun]]
+* [[The Stranger]]
 
 ## Non-Fiction
 * [[Being Mortal]]
@@ -66,6 +67,7 @@
 [Men without Women]: <Men without Women.md> "Men without Women"
 [First Person Singular]: <First Person Singular.md> "First Person Singular"
 [South of the Border, West of the Sun]: <South of the Border%2C West of the Sun.md> "South of the Border, West of the Sun"
+[The Stranger]: <The Stranger.md> "The Stranger"
 [Being Mortal]: <Being Mortal.md> "Being Mortal"
 [Coffee Can Investing]: <Coffee Can Investing.md> "Coffee Can Investing"
 [The Man Who Mistook His Wife for a Hat]: <The Man Who Mistook His Wife for a Hat.md> "The Man Who Mistook His Wife for a Hat"
