@@ -10,16 +10,25 @@ sub-title: Filed notes from an uncertain science
 by [[Siddhartha Mukherjee]]
 
 ## Highlights
-* The only way to break the deadly monotony was to read.
-* A doctors job was to make a diagnosis, make a prognosis, give support and care not to meddle.
-* Science have laws - statements of truth based on repeated experimental observations that describe some universal or generalizable attributes of nature.
-* Biology is the most lawless of the three basic sciences: there are a few rules to begin with, and even fewer rules that are universal.
-* If you fail to use prior information, you will inevitably make foolish judgements about the future.
-* There is no absolute knowledge; there is only conditional knowledge.
-* History repeats itself - and so do statistical patterns. The past is the best guide to the future.
-* Every science suffers from human biases.
-* What better blame than self-blame?
-* Doctors are men who prescribe medicines of which they know little, to cure diseases of which they know less, in human beings of whom they nothing.
+> The only way to break the deadly monotony was to read.
+
+> A doctors job was to make a diagnosis, make a prognosis, give support and care not to meddle.
+
+>  Science have laws - statements of truth based on repeated experimental observations that describe some universal or generalizable attributes of nature.
+
+> Biology is the most lawless of the three basic sciences: there are a few rules to begin with, and even fewer rules that are universal.
+
+> If you fail to use prior information, you will inevitably make foolish judgements about the future.
+
+> There is no absolute knowledge; there is only conditional knowledge.
+
+> History repeats itself - and so do statistical patterns. The past is the best guide to the future.
+
+> Every science suffers from human biases.
+
+> What better blame than self-blame?
+
+> Doctors are men who prescribe medicines of which they know little, to cure diseases of which they know less, in human beings of whom they nothing.
 
 ## Contents
 ### Three laws of medicine
