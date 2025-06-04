@@ -14,8 +14,6 @@ by [[Will Larson]]
 
 > Remember, attention is a scarce resource! If you waste folks’ time with a nudge email or ping, they won’t pay attention to the next one.
 
-> Defining leadership and management is such heavily trodden terrain that it’s hard to add much to it, but roughly management is a specific profession, and leadership is an approach one can demonstrate within any profession.
-
 > What you can accomplish alone is far from what you can accomplish by creating leaders.
 
 > We only get value from finishing projects, and getting a project over the finish line is the magical moment it goes from risk to leverage. Time spent getting work finished is always time well spent.

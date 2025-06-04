@@ -57,6 +57,7 @@ by [[Williams Robin]]
 ## The Book in 3 Sentences
 
 ## Who Should Read It?
+Anyone who is interested in getting the basics of UI design.
 
 ## My Top 3 Quotes
 
