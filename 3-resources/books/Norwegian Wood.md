@@ -15,14 +15,6 @@ by [[Haruki Murakami]]
 
 > What makes us most normal is knowing that we're not normal.
 
-## Contents
-
-## The Book in 3 Sentences
-
-## Who Should Read It?
-
-## My Top 3 Quotes
-
 ## Bibliography
 * The Magic Mountain
 * Das Kapital
