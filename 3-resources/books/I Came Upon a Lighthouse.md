@@ -15,8 +15,6 @@ by [[Shantanu Naidu]]
 
 > Only in India is there a breed of problems which, if solved, could affect communities of millions at a time. The opportunities of a developing economy and a large population: there’s so much that can be done.
 
-> The only thing heavier than the ginormous two suitcases was the lump in my throat.
-
 > Business school is all about getting to know everyone and getting the art of networking embedded in your DNA.
 
 > We learnt how to tie tie-knots and wear our suits, how to write professional emails, how to have a firm handshake, the appropriate cuff length outside the coat sleeves and a list of mannerisms that would determine whether the great corporate houses of America would want us at all.
