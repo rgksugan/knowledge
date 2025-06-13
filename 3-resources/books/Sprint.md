@@ -16,7 +16,5 @@ by [[Braden Kowitz]], [[Jake Knapp]] & [[John Zeratsky]]
 
 > Sprints are most successful with a mix of people: the core people who work on execution along with a few extra experts with specialized knowledge.
 
-> Each map is customer-centric, with a list of key actors on the left. Each map is a story, with a beginning, a middle, and an end. And, no matter the business, each map is simple. The diagrams are composed of nothing more than words, arrows, and a few boxes.
-
 ## Who Should Read It?
 Product managers
