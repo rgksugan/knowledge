@@ -964,41 +964,6 @@ Beer in the Snooker Club (Serpent's Tail Classics) (Ghali, Waguih)
 
 If we are to live under a dictatorship, it should be a communist one.
 ==========
-வெக்கை / Vekkai (Tamil Edition) (Poomani)
-- Your Highlight at location 231-240 | Added on Tuesday, 15 October 2019 08:17:30
-
-மையநீரோட்ட அரசியலால் புறக்கணிக்கப்பட்டவர்கள், அதன் விளிம்புகளில் அடையாளமற்றவர்களாகத் திரிந்துகொண்டிருப்பவர்கள். அரசு ஒரு கருத்துருவமாக வெகுதொலைவிலிருந்து அவர்களை இயக்குகிறது. தங்களைச் சூழும் துயரங்களுக்கு யாரைக் குற்றம் சுமத்துவதென்றுகூட அவர்களுக்குத் தெரிவதில்லை. ஆனால் அரசு என்ற கருத்துருவம் எப்போதும் அவர்களைக் கண்காணிக்கிறது, கட்டுப்படுத்துகிறது, துரத்துகிறது, குற்றம்சுமத்துகிறது, தண்டிக்கிறது.
-==========
-வெக்கை / Vekkai (Tamil Edition) (Poomani)
-- Your Highlight at location 256-258 | Added on Tuesday, 15 October 2019 08:19:17
-
-பழி ஒரு எதிர்வினை. அது ஓர் அறம். அது தவிர்க்க முடியாத, வலி மிகுந்த பயணம்.
-==========
-வெக்கை / Vekkai (Tamil Edition) (Poomani)
-- Your Highlight at location 1088-1089 | Added on Tuesday, 15 October 2019 23:01:26
-
-எண்ணைக்குமே எதிரி நம்மளவிடக் கெட்டிக்காரன்னு நெனைக்கணும்.
-==========
-வெக்கை / Vekkai (Tamil Edition) (Poomani)
-- Your Highlight at location 1430-1432 | Added on Wednesday, 16 October 2019 06:22:05
-
-மூணாம்பேருக்கு அப்படித்தாம்பா தெரியும். கோவங் கொண்டாடுனா எல்லாம் மறந்துரும். வாசப்படி மண்டையில தட்னப்பெறகுதான் தெரியும்.
-==========
-வெக்கை / Vekkai (Tamil Edition) (Poomani)
-- Your Highlight at location 2326-2327 | Added on Thursday, 17 October 2019 08:21:55
-
-கையகல நெலமிருந்தாத்தான் நாலுபேரப்போல நமக்கும் ஒழைக்கணுமிங்கிற அக்கற வரும்.
-==========
-வெக்கை / Vekkai (Tamil Edition) (Poomani)
-- Your Highlight at location 3976-3979 | Added on Thursday, 17 October 2019 19:15:33
-
-இண்ணைக்கு நம்ம கஸ்டப்பட்டா நாளைக்கு நம்ம புள்ளைகளாச்சும் தொந்தரவில்லாமப் பெழைக்குமேங்கிற யோசன வேணும். நொங்கு திங்கிறதுக்கு ஆசப்பட்டா பனைய நட்டிவச்சான். அதப்போல . .
-==========
-வெக்கை / Vekkai (Tamil Edition) (Poomani)
-- Your Highlight at location 4339-4341 | Added on Friday, 18 October 2019 08:07:59
-
-செயிலென்ன செயிலு மயிரப்புடுங்குன செயிலு. உசிர வெறுத்தவனுக்குச் செயிலு பெரிசாக்கும். உள்ள போட்டுப் பயமுறுத்தீறவா.
-==========
 The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
 - Your Highlight on page 54 | location 1102-1104 | Added on Saturday, 19 October 2019 06:38:11
 
@@ -5145,23 +5110,8 @@ The Effective Engineer: How to Leverage Your Efforts in Software Engineering to 
 
 Protect your time and your maker’s schedule.
 ==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight at location 881-881 | Added on Wednesday, 31 August 2022 09:17:15
-
-Treat your brain as a processor, not as a memory bank.
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight at location 882-883 | Added on Wednesday, 31 August 2022 09:17:26
-
-Don’t try to do everything. Regularly ask yourself if there’s something higher-leverage that you could be doing.
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
+[[The Effective Engineer]]: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
 - Your Highlight at location 1056-1059 | Added on Thursday, 1 September 2022 09:17:25
 
 At work, we can easily fall into an endless cycle of hitting the next deadline: getting the next thing done, shipping the next new feature, clearing the next bug in our backlog, and responding to the next issue in the never-ending stream of customer requests. We might have ideas for tools we could build to make our lives a bit easier, but the long-term value of those tools is hard to quantify. On the other hand, the short-term costs of a slipped deadline or a product manager breathing down our necks and asking when something will get done are fairly concrete.
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight at location 1171-1172 | Added on Sunday, 4 September 2022 06:28:19
-
-Projects fail from under-communicating, not over-communicating.
 ==========
