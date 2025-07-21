@@ -36,7 +36,7 @@ by [[Chris Voss]]
 
 > The biggest thing to remember is that numbers that end in 0 inevitably feel like temporary placeholders, guesstimates that you can easily be negotiated off of. But anything you throw out that sounds less rounded—say, $37,263—feels like a figure that you came to as a result of thoughtful calculation. Such numbers feel serious and permanent to your counterpart, so use them to fortify your offers.
 
-> when you are selling yourself to a manager, sell yourself as more than a body for a job; sell yourself, and your success, as a way they can validate their own intelligence and broadcast it to the rest of the company. Make sure they know you’ll act as a flesh-and-blood argument for their importance. Once you’ve bent their reality to include you as their ambassador, they’ll have a stake in your success.
+> When you are selling yourself to a manager, sell yourself as more than a body for a job; sell yourself, and your success, as a way they can validate their own intelligence and broadcast it to the rest of the company. Make sure they know you’ll act as a flesh-and-blood argument for their importance. Once you’ve bent their reality to include you as their ambassador, they’ll have a stake in your success.
 
 > The key issue here is if someone gives you guidance, they will watch to see if you follow their advice. They will have a personal stake in seeing you succeed. You’ve just recruited your first unofficial mentor.
 
