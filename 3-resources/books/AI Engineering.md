@@ -16,6 +16,22 @@ by [[Chip Huyen]]
 
 > It might take a weekend to build a demo but months, and even years, to build a product.
 
+> AI engineering is just software engineering with AI models thrown in the stack.
+
+> An advantage that full-stack engineers have over traditional ML engineers is their ability to quickly turn ideas into demos, get feedback, and iterate.
+
+> Prompt engineering is about getting AI models to express the desirable behaviors from the input alone, without changing the model weights.
+
+> With foundation models, where many teams use the same model, differentiation must be gained through the application development process.
+
+> In traditional ML engineering, most use cases are close-ended—a model’s output can only be among predefined values. For example, spam classification with only two possible outputs, “spam” and “not spam”, is close-ended. Foundation models, however, are open-ended. Annotating open-ended queries is much harder than annotating close-ended queries—it’s easier to determine whether an email is spam than to write an essay. So data annotation is a much bigger challenge for AI engineering.
+
+> Pre-training also takes a long time to do. A small mistake during pre-training can incur a significant financial loss and set back the project significantly. Due to the resource-intensive nature of pre-training, this has become an art that only a few practice. Those with expertise in pre-training large models, however, are heavily sought after.
+
+> Out of all training steps, pre-training is often the most resource-intensive by a long shot.
+
+> Training always involves changing model weights, but not all changes to model weights constitute training.
+
 ## Contents
 
 ## The Book in 3 Sentences
@@ -105,7 +121,12 @@ by [[Chip Huyen]]
 * Prompt-based techniques, which include prompt engineering, adapt a model without updating the model weights.
 * You adapt a model by giving it instructions and context instead of changing the model itself. Prompt engineering is easier to get started and requires less data. Many successful applications have been built with just prompt engineering. Its ease of use allows you to experiment with more models, which increases your chance of finding a model that is unexpectedly good for your applications. However, prompt engineering might not be enough for complex tasks or applications with strict performance requirements.
 * Finetuning, on the other hand, requires updating model weights. You adapt a model by making changes to the model itself. In general, finetuning techniques are more complicated and require more data, but they can improve your model’s quality, latency, and cost significantly. Many things aren’t possible without changing model weights, such as adapting the model to a new task it wasn’t exposed to during training.
+* Developing ML models requires specialized ML knowledge. It requires knowing different types of ML algorithms (such as clustering, logistic regression, decision trees, and collaborative filtering) and neural network architectures (such as feedforward, recurrent, convolutional, and transformer). It also requires understanding how a model learns, including concepts such as gradient descent, loss function, regularization, etc.
+* Modeling and training refers to the process of coming up with a model architecture, training it, and finetuning it. Examples of tools in this category are Google’s TensorFlow, Hugging Face’s Transformers, and Meta’s PyTorch.
 
 ### Understanding Foundation Models
+* In general, however, differences in foundation models can be traced back to decisions about training data, model architecture and size, and how they are post-trained to align with human preferences.
+
+* While most people understand the impact of training on a model’s performance, the impact of sampling is often overlooked. Sampling is how a model chooses an output from all possible options.
 
 ## Bibliography
