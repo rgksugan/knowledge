@@ -32,6 +32,10 @@ by [[Chip Huyen]]
 
 > Training always involves changing model weights, but not all changes to model weights constitute training.
 
+> An AI model is only as good as the data it was trained on.
+
+> Training on more data often requires more compute resources and doesn’t always lead to better performance.
+
 ## Contents
 
 ## The Book in 3 Sentences
@@ -128,5 +132,10 @@ by [[Chip Huyen]]
 * In general, however, differences in foundation models can be traced back to decisions about training data, model architecture and size, and how they are post-trained to align with human preferences.
 
 * While most people understand the impact of training on a model’s performance, the impact of sampling is often overlooked. Sampling is how a model chooses an output from all possible options.
+
+#### Training Data
+* Training on more data often requires more compute resources and doesn’t always lead to better performance.
+
+#### Modeling
 
 ## Bibliography
