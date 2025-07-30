@@ -50,7 +50,7 @@ by [[Ronald T. Kneusel]]
 * Confusion matrices are the most common way to evaluate a model because they show how it behaves on the test data.
 * Interpolation approximates within the range of known data, and extrapolation goes beyond known data.
 * Bad datassets leads to bad models; good datasets lead to good models.
-* <img style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="../../assets/images/AI vs ML vs Deep learning/png" alt="AI vs ML vs Deep learning" />
+* <img style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="../../assets/images/AI vs ML vs Deep learning.png" alt="AI vs ML vs Deep learning" />
 * Confusion matrices are the most common way to evaluate a model because they show how it behaves on the test data.
 * When a classifier is good, the numbers along the diagonal of the confusion matrix from upper left to lower right are high, and there are almost no numbers off that diagonal. Off-diagonal numbers are errors made by the model.
 * The model is making the kind of mistakes people make.
