@@ -53,7 +53,10 @@ by [[Chip Huyen]]
 ### Introduction to Building AI Applications with Foundation Models
 #### The Rise of AI Engineering
 ##### From Language Models to Large Language Models
+* A language model encodes statistical information about one or more languages.
+* The basic unit of a language is token.
 * The process of breaking the original text into tokens is called tokenization.
+* The set of all tokens a model can work with is the model's vocabulary.
 * There are two main types of language models:
   * Masked language models
     * Masked language models are commonly used for non-generative tasks such as sentiment analysis and text classification. They are also useful for tasks requiring an understanding of the overall context, such as code debugging, where a model needs to understand both the preceding and following code to identify errors.
@@ -69,14 +72,16 @@ by [[Chip Huyen]]
 * Self-supervision differs from unsupervision. In self-supervised learning, labels are inferred from the input data. In unsupervised learning, you don’t need labels at all.
 
 ##### From Large Language Models to Foundation Models
-* A model that can work with more than one data modality is also called a multimodal model.
+* A model that can work with more than one data modality is also called a multimodal model. A generative multimodal model is also called a large multimodal model(LMM).
 <img style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="../../assets/images/ai-engineering/multi-modal-model.png" alt="Multi modal model" />
 
 * Foundation models also mark the transition from task-specific models to general-purpose models. Previously, models were often developed for specific tasks, such as sentiment analysis or translation. A model trained for sentiment analysis wouldn’t be able to do translation, and vice versa.
 * Prompt engineering, RAG, and finetuning are three very common AI engineering techniques that you can use to adapt a model to your needs.
+* Foundation models make it cheaper to develop AI applications and reduce time to market.
 
 ##### From Foundation Models to AI Engineering
 * AI engineering refers to the process of building applications on top of foundation models.
+* Teaching AI to behave is the fastest-growing career skill.
 
 #### Foundation Model Use Cases
 * Internal applications help companies develop their AI engineering expertise while minimizing the risks associated with data privacy, compliance, and potential catastrophic failures.
@@ -103,6 +108,7 @@ by [[Chip Huyen]]
 * AIs that can plan and use tools are called agents.
 
 #### Planning AI Applications
+* The more critical AI is to the application, the more accurate and reliable the AI part has to be. People are more accepting of mistakes when AI isn't core to the application.
 * Involving humans in AI’s decision-making processes is called human-in-the-loop.
 * Crawl means human involvement is mandatory. Walk means AI can directly interact with internal employees. Run means increased automation, potentially including direct AI interactions with external users.
 * If you’re selling AI applications as standalone products, it’s important to consider their defensibility. The low entry barrier is both a blessing and a curse. If something is easy for you to build, it’s also easy for your competitors. What moats do you have to defend your product?
@@ -112,6 +118,7 @@ by [[Chip Huyen]]
 * Latency metrics including TTFT (time to first token), TPOT (time per output token), and total latency.
 * You’ll have to constantly be on your guard and run a cost-benefit analysis of each technology investment. The best option today might turn into the worst option tomorrow. You may decide to build a model in-house because it seems cheaper than paying for model providers, only to find out after three months that model providers have dropped their prices in half, making in-house the expensive option. You might invest in a third-party solution and tailor your infrastructure around it, only for the provider to go out of business after failing to secure funding.
 * Some changes can even be fatal. For example, regulations around intellectual property (IP) and AI usage are still evolving. If you build your product on top of a model trained using other people’s data, can you be certain that your product’s IP will always belong to you? Many IP-heavy companies I’ve talked to, such as game studios, hesitate to use AI for fear of losing their IPs later on.
+* Massive Multitask Language Understanding (MMLU), a popular foundation model benchmark.
 
 #### The AI Engineering Stack
 * There are three layers to any AI application stack:
@@ -127,6 +134,16 @@ by [[Chip Huyen]]
 * Finetuning, on the other hand, requires updating model weights. You adapt a model by making changes to the model itself. In general, finetuning techniques are more complicated and require more data, but they can improve your model’s quality, latency, and cost significantly. Many things aren’t possible without changing model weights, such as adapting the model to a new task it wasn’t exposed to during training.
 * Developing ML models requires specialized ML knowledge. It requires knowing different types of ML algorithms (such as clustering, logistic regression, decision trees, and collaborative filtering) and neural network architectures (such as feedforward, recurrent, convolutional, and transformer). It also requires understanding how a model learns, including concepts such as gradient descent, loss function, regularization, etc.
 * Modeling and training refers to the process of coming up with a model architecture, training it, and finetuning it. Examples of tools in this category are Google’s TensorFlow, Hugging Face’s Transformers, and Meta’s PyTorch.
+* There are certain types of ML algorithms.
+  * clustering
+  * logistic regression
+  * decision trees
+  * collaborative filtering
+  * neural networks
+    * feedforward
+    * recurrent
+    * convolutional
+    * transformer
 
 ### Understanding Foundation Models
 * In general, however, differences in foundation models can be traced back to decisions about training data, model architecture and size, and how they are post-trained to align with human preferences.

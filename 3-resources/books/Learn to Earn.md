@@ -46,7 +46,7 @@ by [[Peter Lynch]]
 
 > If you’re in New York sometime and you’ve got nothing better to do, the NYSE is worth a visit.
 
-> Warhol was only joking, but every stock trade of fifty shares or more gets its five seconds of international fame.
+> Every stock trade of fifty shares or more gets its five seconds of international fame.
 
 > If you take a large group of companies, add their stock prices together, and divide by their earnings, you get an average p/e ratio. On Wall Street they do this with the Dow Jones Industrials, the S&P 500 stocks, and other such indexes. The result is known as the “market multiple” or “what the market is selling for.”
 
