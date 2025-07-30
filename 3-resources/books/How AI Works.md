@@ -14,6 +14,14 @@ by [[Ronald T. Kneusel]]
 
 > The primary goal of machine learning is to condition a model using known data so that the model produces meaningful output when given unknown data.
 
+> Deep learning is neural networks with many layers.
+
+> Data is everything in AI. If the data is bad, the model is bad.
+
+> Deep learning is large neural networks, machine language is models conditioned by data, AI is a catchall for both machine learning and deep learning.
+
+> All models are wrong, but some are useful.
+
 > Decision trees are among the few model types that readily explain themselves.
 
 > Correlation is when two things are linked so that the occurrence of one implies the occurrence of the other, often in a particular order. More concretely, correlation measures how strongly a change in one thing is associated with a change in another.
@@ -24,6 +32,8 @@ by [[Ronald T. Kneusel]]
 
 > AI lives and dies by data and is only as good as the data we feed to it.
 
+> Interpolation good. Extrapolation bad.
+
 ## Contents
 ### And Away We Go: An AI Overview
 * A machine learning model is a black box that accepts an input, usually a collection of numbers, and produces an output, typically a label like “dog” or “cat,” or a continuous value like the probability of being a “dog” or the value of a house with the characteristics given to the model (size, number of bathrooms, ZIP code, and so on).
@@ -33,13 +43,18 @@ by [[Ronald T. Kneusel]]
 * Since we’re using known labeled data to train the model, this approach is called supervised learning: we supervise the model while it learns to produce correct output.
 * A vector is a string of numbers treated as a single entity. For example, the four measurements of each iris flower mean we can represent the flower as a string of four numbers, say, (4.5, 2.3, 1.3, 0.3). The flower described by this vector has a sepal length of 4.5 cm, sepal width of 2.3 cm, petal length of 1.3 cm, and petal width of 0.3 cm. By grouping these measurements together, we can refer to them as a single entity.
 * Vectors are strings of numbers often representing measurements in a dataset.
+* * If the model decides between more than two categories, it’s a multiclass model. If it has two categories, its called binary model.
+* The number of elements in a vector determines its dimensionality.
 * Matrices are two-dimensional arrays of numbers often representing datasets (stacks of vectors).
 * The neural networks behind modern AI are not so transparent.
 * Confusion matrices are the most common way to evaluate a model because they show how it behaves on the test data.
 * Interpolation approximates within the range of known data, and extrapolation goes beyond known data.
-* Interpolation good. Extrapolation bad.
 * Bad datassets leads to bad models; good datasets lead to good models.
+* <img style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="../../assets/images/AI vs ML vs Deep learning/png" alt="AI vs ML vs Deep learning" />
 * Confusion matrices are the most common way to evaluate a model because they show how it behaves on the test data.
+* When a classifier is good, the numbers along the diagonal of the confusion matrix from upper left to lower right are high, and there are almost no numbers off that diagonal. Off-diagonal numbers are errors made by the model.
+* The model is making the kind of mistakes people make.
+* The model has no way of saying "I don't know", and getting a model to reliably say this can be tricky.
 * Interpolation approximates within the range of known data, and extrapolation goes beyond known data.
 * Because models learn from data, we must use datasets that are as complete as possible so our models interpolate and do not extrapolate.
 * There are many types of AI models, and this chapter introduced two: decision trees and neural networks.
@@ -52,6 +67,37 @@ by [[Ronald T. Kneusel]]
 Anyone who wants to understand Artificial Engineering and Machine Learning.
 
 ## My Top 3 Quotes
+
+## Abbrevations
+* SVM - Support Vector Machines
+* CNN - Convolutional Neural Networks
+* GAN - Generative Adversarial Networks
+* NIST - National Institue of Standards and Technology
+* MNIST - Modern National Institue of Standards and Technology
+
+## Dataset
+* Iris
+* MNIST
+
+## ML Algorithms
+* Decision tree
+* Neural networks
+* Radom forests
+* Support vector machine
+
+## Terms
+* Artitifical Intelligence - The field of computer science that involves mimicking human intelligence in machines.
+* Algorithm - A sequence of steps to accomplish a task.
+* Parameter - A generic term for any quantity in a model that can be adjusted. Usually it refers to weights and biases of a neural network.
+* Training - The act of conditioning the parameters of a model to a specific dataset or use case.
+* Classifier - A machine learning model that maps an input to a specific category it was trained to detect.
+* Random forest - A collection of decision trees.
+* Decision tree - A machine learning model that asks a series of yes/no questions about its input to arrive at a class label decision.
+* Feature - The inputs to a model.
+* Confusion matrix - A standard way to represent the performance of a classifier on a test set.
+
+## Papers
+* https://www.nature.com/articles/s42256-021-00307-0
 
 ## Bibliography
 * Cautionary Tales for Children
