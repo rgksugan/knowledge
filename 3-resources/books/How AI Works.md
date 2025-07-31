@@ -61,6 +61,12 @@ by [[Ronald T. Kneusel]]
 * Proper development of machine learning models means we must have a test set, a collection of known input and output pairs that we do not use when training. We use this set after training to evaluate the model. If the dataset is constructed correctly, the test set provides an idea of how well we can expect the model to perform in the wild.
 * Because AI is only as good as the data fed to it, it’s on us to make datasets fair and unbiased and to understand what the AI has truly learned without assumptions.
 
+### Why now? A History of AI
+* Since its inception, AI has been divided into two main camps: symbolic AI and connectionism. Symbolic AI attempts to model intelligence by manipulating symbols and logical statements or associations. Connectionism, however, attempts to model intelligence by building networks of simpler components. The human mind embodies both approaches. We use symbols as elements of thought and language, and our minds are constructed from unbelievably complex networks of neurons, each neuron a simple processor. In computer programming terms, the symbolic approach to AI is top-down, while connectionism is bottom-up. Top-down design starts with high-level tasks, then breaks those tasks into smaller and smaller pieces. A bottom-up design begins with smaller pieces and combines them together.
+* Proponents of symbolic AI believe that intelligence can be achieved in the abstract, without a substrate resembling a brain. Connectionists follow the evolutionary development of brains and argue that there needs to be some foundation, like a massive collection of highly interconnected neurons, from which intelligence (however defined) can emerge.
+* A knowledge base represents knowledge as a combination of rules and facts. Then, you combine the knowledge base with an inference engine, which uses the knowledge base to decide when and how to execute rules based on stored facts or input to the system by a user. Rules fire based on facts, which may lead to placing new facts in the knowledge base that cause additional rules to fire, and so on.
+* The direct causes of the deep learning revolution were faster computers, the advent of graphics processing units, improved algorithms, and huge datasets.
+
 ## The Book in 3 Sentences
 
 ## Who Should Read It?
@@ -74,6 +80,11 @@ Anyone who wants to understand Artificial Engineering and Machine Learning.
 * GAN - Generative Adversarial Networks
 * NIST - National Institue of Standards and Technology
 * MNIST - Modern National Institue of Standards and Technology
+* CPU - Central Processing Unit
+* GPU - Graphical Processing Unit
+* MIPS - Million Instructions Per Second
+* ReLU - Rectified Linear Unit
+* ENIAC - Electronic Numerical Integrator and Computer
 
 ## Dataset
 * Iris
@@ -95,6 +106,8 @@ Anyone who wants to understand Artificial Engineering and Machine Learning.
 * Decision tree - A machine learning model that asks a series of yes/no questions about its input to arrive at a class label decision.
 * Feature - The inputs to a model.
 * Confusion matrix - A standard way to represent the performance of a classifier on a test set.
+* Nearest Neighbour - Simplest of the machine models. New instances are assigned the class label of the nearest training set.
+* Support Vector Machine - Takes less computation.
 
 ## Papers
 * https://www.nature.com/articles/s42256-021-00307-0
