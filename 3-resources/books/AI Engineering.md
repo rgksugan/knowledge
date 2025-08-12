@@ -151,8 +151,48 @@ by [[Chip Huyen]]
 * While most people understand the impact of training on a model’s performance, the impact of sampling is often overlooked. Sampling is how a model chooses an output from all possible options.
 
 #### Training Data
+* An AI model is only as good as the data it was trained on.
 * Training on more data often requires more compute resources and doesn’t always lead to better performance.
+* A model's inference latency and cost is proportional to the number of tokens in the input and response.
+* For the MASSIVE dataset, the median token length in English is 7, but the median length in Hindi is 32, and in Burmesem it's a whooping 72, which is ten times longer than in English. Assuming that the time it takes to generate a token is the same in all languages, GPT-4 takes approxiamtely ten times longer in Burmese than in English for the same content. For APIs that charge by token usage, Burmese costs ten times more than English.
 
 #### Modeling
+* Transformer architecture uses attention mechanism.
+* Much of AI progress in recent years can be attributed to increased model size. It’s hard to talk about foundation models without talking about their number of parameters. The number of parameters is usually appended at the end of a model name. For example, Llama-13B refers to the version of Llama, a model family developed by Meta, with 13 billion parameters.
+* In general, increasing a model’s parameters increases its capacity to learn, resulting in better models. Given two models of the same model family, the one with 13 billion parameters is likely to perform much better than the one with 7 billion parameters.
+* As the community better understands how to train large models, newer-generation models tend to outperform older-generation models of the same size. For example, Llama 3-8B (2024) outperforms even Llama 2-70B (2023) on the MMLU benchmark.
+* The number of parameters helps us estimate the compute resources needed to train and run this model. For example, if a model has 7 billion parameters, and each parameter is stored using 2 bytes (16 bits), then we can calculate that the GPU memory needed to do inference using this model will be at least 14 billion bytes (14 GB).
+* The number of parameters can be misleading if the model is sparse. A sparse model has a large percentage of zero-value parameters. A 7B-parameter model that is 90% sparse only has 700 million non-zero parameters. Sparsity allows for more efficient data storage and computation. This means that a large sparse model can require less compute than a small dense model.
+* A larger model can also underperform a smaller model if it’s not trained on enough data. Imagine a 13B-param model trained on a dataset consisting of a single sentence: “I like pineapples.” This model will perform much worse than a much smaller model trained on more data.
+* Quantity, quality, and diversity are the three golden goals for training data.
+* In summary, three numbers signal a model’s scale:
+  * Number of parameters, which is a proxy for the model’s learning capacity.
+  * Number of tokens a model was trained on, which is a proxy for how much a model learned.
+  * Number of FLOPs, which is a proxy for the training cost.
+* Model performance depends on the model size and the dataset size. Bigger models and bigger datasets require more compute. Compute costs money.
+#### Sampling
+* A temperature of 0.7 is often recommended for creative use cases, as it balances creativity and predictability.
+* The opposite of probabilistic is deterministic, when the outcome can be determined without any random variation.
+
+### Evaluation Methodology
+
+## Abbreviations
+* RNN - Recurrent Neural Networks
+* MLP - Multi Layer Perceptron
+* SSM - State Space Models
+* TPU - Tensor Processing Units
+* MoE - Mixture of Experts
+* FLOP - Floating Point Operation
+* SFT - Supervised Fine Tuning
+* RL - Reinforcement Learning
+* RLHF - Reinforcement Learning from Human feedback
+* DPO - Direct Preference Optimization
+* RLAIF - Reinforcement Learning from AI Feedback
+* LMSYS - Large Model Systems Organization
+* PPO - Proximal Policy Optimization
+* NLG - Natural Language Generation
+
+## Terms
+* Epoch - A pass through a dataset.
 
 ## Bibliography
