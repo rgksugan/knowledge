@@ -9,7 +9,6 @@ title: Jungle Tales for Children
 by [[Kenneth Anderson]]
 
 ## Highlights
-> Mahatma Gandhi bravely told the truth: ‘A nation is judged by the way she treats her animals.’
 
 ## Contents
 * Bruno, the Sloth Bear
