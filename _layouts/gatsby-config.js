@@ -6,49 +6,30 @@ module.exports = {
   // pathPrefix: PATH_PREFIX || `/foam-template-gatsby-kb`, // a. If you are using github pages, this should be the name of your repo
   pathPrefix: PATH_PREFIX || `/`, // b. If you are using Netlify/Vercel, your can keep it this way
   siteMetadata: {
-    // some SEO configs using by gatsby-theme-kb
-    title: `Sugan`, // Replace it with your site's title
-    author: `Sugan`, // Replace it with your name
-    description: `My personal knowledge base`, // Replace it with your site's description
+    title: `Sugan`,
+    author: `Sugan`,
+    description: `My personal knowledge base`,
+    siteUrl: `https://rgksugan.github.io/knowledge`,
   },
   plugins: [
     {
-      resolve: `gatsby-theme-kb`,
+      resolve: `gatsby-theme-primer-wiki`,
       options: {
-        rootNote: '/index',
-        contentPath: `${__dirname}/..`,
-        ignore: [
-          '**/_layouts/**',
-          '**/.git/**',
-          '**/.github/**',
-          '**/.vscode/**',
-          '**/.cache/**',
-          '**/.foam/templates/**'
+        nav: [
+          {
+            title: 'Projects',
+            url: '/1-projects/',
+          },
+          {
+            title: 'Areas',
+            url: '/2-areas/',
+          },
+          {
+            title: 'Resources',
+            url: '/3-resources/',
+          },
         ],
-        // this is an option for extending `gatsby-plugin-mdx` options inside `gatsby-theme-kb`,
-        getPluginMdx(defaultPluginMdx) {
-          // so you can have your relative referenced files served, e.g. '../assets/img.png'.
-          defaultPluginMdx.options.gatsbyRemarkPlugins.push({
-            resolve: `gatsby-remark-copy-linked-files`,
-            options: {
-              ignoreFileExtensions: ['md', 'mdx'],
-            },
-          })
-
-          // an example of syntax highlighting
-          defaultPluginMdx.options.gatsbyRemarkPlugins.push({
-            resolve: 'gatsby-remark-prismjs',
-            options: {
-              noInlineHighlight: true,
-            },
-          })
-
-          // add math support
-          defaultPluginMdx.options.remarkPlugins.push(require('remark-math'))
-          if (!defaultPluginMdx.options.rehypePlugins) defaultPluginMdx.options.rehypePlugins = []
-          defaultPluginMdx.options.rehypePlugins.push(require('rehype-katex'))
-          return defaultPluginMdx
-        },
+        editUrl: 'https://github.com/rgksugan/knowledge/edit/main/',
       },
     },
     {

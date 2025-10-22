@@ -22,9 +22,11 @@
     "gatsby-plugin-copy-files-enhanced": "^1.1.1",
     "gatsby-remark-copy-linked-files": "^4.10.0",
     "gatsby-remark-prismjs": "^5.10.0",
-    "gatsby-theme-kb": "^0.9.0",
+    "gatsby-theme-primer-wiki": "^1.14.5",
     "prism-themes": "^1.8.0",
     "prismjs": "^1.24.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
     "rehype-katex": "^5.0.0",
     "remark-math": "^3.0.1"
   }
