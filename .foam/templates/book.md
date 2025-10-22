@@ -23,4 +23,8 @@ by [[]]
 
 ## My Top 3 Quotes
 
+## Abbreviations
+
+## Characters
+
 ## Bibliography
