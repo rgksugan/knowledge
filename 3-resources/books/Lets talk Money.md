@@ -3,7 +3,6 @@ tags: non-fiction
 type: book
 author: Monika Halan
 title: Lets talk Money
-sub-title: 
 ---
 
 # Lets talk Money
