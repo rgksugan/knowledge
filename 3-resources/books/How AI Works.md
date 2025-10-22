@@ -12,6 +12,8 @@ by [[Ronald T. Kneusel]]
 ## Highlights
 > AI is a largely empirical science.
 
+> Much of the power of modern AI comes from learning new ways to represent data.
+
 > The primary goal of machine learning is to condition a model using known data so that the model produces meaningful output when given unknown data.
 
 > Deep learning is neural networks with many layers.
@@ -35,6 +37,8 @@ by [[Ronald T. Kneusel]]
 > Interpolation good. Extrapolation bad.
 
 ## Contents
+* [NeurIPS](https://neurips.cc/) AI conference
+
 ### And Away We Go: An AI Overview
 * A machine learning model is a black box that accepts an input, usually a collection of numbers, and produces an output, typically a label like “dog” or “cat,” or a continuous value like the probability of being a “dog” or the value of a house with the characteristics given to the model (size, number of bathrooms, ZIP code, and so on).
 * Training implies that we have a collection of inputs, and the outputs the model should produce when given those inputs. At first blush, this seems a bit silly; why do we want the model to give us an output we already have? The answer is that we will, at some future point, have inputs for which we don’t already have the output. This is the entire point of making the model: to use it with unknown inputs and to believe the model when it gives us an output.
@@ -70,11 +74,13 @@ by [[Ronald T. Kneusel]]
 ## The Book in 3 Sentences
 
 ## Who Should Read It?
-Anyone who wants to understand Artificial Engineering and Machine Learning.
+Anyone who wants to understand Artificial Intelligence and Machine Learning concepts without Mathematics formulas.
 
 ## My Top 3 Quotes
 
 ## Abbrevations
+* AI - Artificial Intelligence
+* LLM - Large Language Models
 * SVM - Support Vector Machines
 * CNN - Convolutional Neural Networks
 * GAN - Generative Adversarial Networks
@@ -110,7 +116,7 @@ Anyone who wants to understand Artificial Engineering and Machine Learning.
 * Support Vector Machine - Takes less computation.
 
 ## Papers
-* https://www.nature.com/articles/s42256-021-00307-0
+* [Common pitfalls and recommendations for using machine learning to detect and prognosticate for COVID-19 using chest radiographs and CT scans](https://www.nature.com/articles/s42256-021-00307-0)
 
 ## Bibliography
 * Cautionary Tales for Children
