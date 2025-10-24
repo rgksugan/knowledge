@@ -12,7 +12,7 @@
     "dependencies": {
         "dotenv": "^16.4.7",
         "marked": "^15.0.2",
-        "nodemailer": "^6.9.17"
+        "nodemailer": "^7.0.7"
     },
     "devDependencies": {
         "@types/node": "^22.10.2",
