@@ -56,6 +56,26 @@ by [[Monty Lyman]]
 
 > While in an allergy an IgE antibody responds to common food allergens such as milk, eggs and shellfish, in coeliac disease a form of antibody called IgA – which protects the gut and mucous membranes from foreign invaders – reacts against gliadin (amongst other molecules), a protein found in gluten.
 
+> The sun harms, but it also heals.
+
+> Both cats and dogs secrete cholesterol-containing oils from their skin on to their hairs. When exposed to sunlight, the cholesterol compounds in the oil are converted to vitamin D. But it can now only enter the animal’s body orally, and so this is one of the reasons for your pet’s constant hair-licking.
+
+> It is well established that the detection of light by human eyes influences circadian rhythms and their metabolic effects on the body, such as increasing the release of the hormone cortisol in the morning to boost blood glucose levels. But it could be that our skin also influences our seasonal rhythms.
+
+> The colours, freckles and spots of our skin tell a story, and it’s one that we should read regularly.
+
+> Sun exposure damages both our health and our looks; it is actually a more significant cause of accelerated skin ageing than all other causes combined. Most importantly, however, it is the greatest risk factor for a group of diseases that is causing suffering and death at epidemic levels in many parts of the world: skin cancer.
+
+> People with albinism – who have a genetic absence of melanin – are subject to all forms of skin cancer from an early age, and without lifelong sun protection as well as meticulous attention and treatment, their lives are cut tragically short.
+
+> UVA is also able to penetrate glass, while UVB cannot, so while you’re unlikely to get sunburn through a window, the skin-ageing effect continues as long as you are exposed to sunlight.
+
+> Sunlight is certainly the greatest contributor to skin-ageing, probably more than all other factors combined, including time itself. The key to youthful skin is sun protection, and the most effective anti-ageing cream is sunscreen.
+
+> Alongside sun damage, smoking is an incredibly powerful accelerator of skin-ageing.
+
+> Inadequate sleep harms our immunological, metabolic and mental health, which inevitably accelerates skin-ageing.
+
 ## Contents
 * No matter what the outside temperature, our body needs to tread an inner tightrope between 36°C and 38°C, and anything much above 42°C is lethal. Our skin carries four million of these glands, and together they are capable of pumping out literally bucket-loads of sweat each day, with some humans capable of sweating three litres an hour. On a hot day, the brain’s sensitive hypothalamus detects a rise in the body’s core temperature and fires signals along autonomic (unconsciously acting) nerves to the eccrine glands, instructing them to send sweat to the skin’s surface. When sweat – essentially water with a few trace particles of salts – lies exposed on naked skin, it rapidly evaporates. The process of evaporation removes high-energy, heat-containing molecules from the body, immediately cooling the skin and the blood vessels of the dermis. The cooled venous blood then returns from the skin to the core of the body, preventing a dangerous rise in our core temperature. But sweat is just one component of the skin’s thermostat. Blood vessels in the dermis, also stimulated by the nerves, either dilate to help the body lose heat or constrict to keep it in. The hair shafts on our skin usually lie flat, but when it’s cold the arrector pili muscle attached to each hair follicle in the dermis contracts. This contraction makes the hairs erect, trapping a thin layer of warmer air above the skin and creating a temporary coat.
 

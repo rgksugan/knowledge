@@ -14,6 +14,10 @@ by [[Ronald T. Kneusel]]
 
 > Much of the power of modern AI comes from learning new ways to represent data.
 
+> Deep learning is a subfield of machine learning, which is a subfield of artificial intelligence.
+
+> Machine learning builds models from data. For us, a model is an abstract notion of something that accepts inputs and generates outputs, where the inputs and outputs are related in some meaningful way. The primary goal of machine learning is to condition a model using known data so that the model produces meaningful output when given unknown data.
+
 > The primary goal of machine learning is to condition a model using known data so that the model produces meaningful output when given unknown data.
 
 > Deep learning is neural networks with many layers.
