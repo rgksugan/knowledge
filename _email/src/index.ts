@@ -8,7 +8,7 @@ import { Highlight } from "./types";
 
 const run = async () => {
   console.log(`[${new Date().toISOString()}] Starting email script`);
-  
+
   // Directory to look for book notes
   const directoryPath = "../3-resources/books/";
   const files = await fs.readdir(directoryPath);
@@ -28,7 +28,7 @@ const run = async () => {
     console.log("No files found in the directory.");
     return;
   }
-  
+
   console.log(`Processing ${fileList.length} markdown files`);
 
   const highLightsToMail: Highlight[] = [];
@@ -39,11 +39,16 @@ const run = async () => {
     const randomFile = fileList[randomFileIndex];
     const filePath = path.join(directoryPath, randomFile!);
     console.log(`Attempting to get highlight from: ${randomFile}`);
-    
+
     const highLight = await getRandomHighlight(filePath);
 
-    if (highLight) {
-      console.log(`✓ Got highlight from ${randomFile}: "${highLight.content?.substring(0, 50)}..."`);
+    if (highLight && highLight.content) {
+      console.log(
+        `✓ Got highlight from ${randomFile}: "${highLight.content?.substring(
+          0,
+          50
+        )}..."`
+      );
       highLightsToMail.push(highLight);
     } else {
       console.log(`✗ No highlight found in ${randomFile}`);
@@ -52,9 +57,13 @@ const run = async () => {
 
   console.log(`Collected ${highLightsToMail.length} highlights for email`);
   highLightsToMail.forEach((h, i) => {
-    console.log(`Highlight ${i + 1}: Book="${h.bookTitle}", Content="${h.content?.substring(0, 30)}..."`);
+    console.log(
+      `Highlight ${i + 1}: Book="${
+        h.bookTitle
+      }", Content="${h.content?.substring(0, 30)}..."`
+    );
   });
-  
+
   await email(highLightsToMail);
 };
 
