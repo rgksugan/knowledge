@@ -76,6 +76,22 @@ by [[Monty Lyman]]
 
 > Inadequate sleep harms our immunological, metabolic and mental health, which inevitably accelerates skin-ageing.
 
+> The concentration of nerve endings in a given area of skin affects the accuracy of sensation.
+
+> When it comes to their distribution, our whole body is a unique fingerprint: areas that are highly sensitive and bring great pleasure in some people barely raise an eyebrow in others. Why this variation exists is still unknown, and it may be a long time before we discover this secret of the sexual skin.
+
+> Pain, although unpleasant, is a vital warning sign of tissue damage and we cannot live without it.
+
+> Physical stimulation of non-pain receptors (such as receptors that detect vibration) can actually reduce pain. This is why rubbing the skin over a freshly knocked knee can dampen down the pain, at least temporarily.
+
+> In the many conversations I’ve had with soldiers in one of the world’s leading military hospitals in Birmingham, they report that even the most devastating injuries can feel painless in the heat of battle.
+
+> It is a curious fact that feelings of pleasure are only fleeting, yet too often pain persists.
+
+> The mind affects the skin, but the skin also directly affects the mind.
+
+> In many ways, acne is more of a psychological disease than a physical one.
+
 ## Contents
 * No matter what the outside temperature, our body needs to tread an inner tightrope between 36°C and 38°C, and anything much above 42°C is lethal. Our skin carries four million of these glands, and together they are capable of pumping out literally bucket-loads of sweat each day, with some humans capable of sweating three litres an hour. On a hot day, the brain’s sensitive hypothalamus detects a rise in the body’s core temperature and fires signals along autonomic (unconsciously acting) nerves to the eccrine glands, instructing them to send sweat to the skin’s surface. When sweat – essentially water with a few trace particles of salts – lies exposed on naked skin, it rapidly evaporates. The process of evaporation removes high-energy, heat-containing molecules from the body, immediately cooling the skin and the blood vessels of the dermis. The cooled venous blood then returns from the skin to the core of the body, preventing a dangerous rise in our core temperature. But sweat is just one component of the skin’s thermostat. Blood vessels in the dermis, also stimulated by the nerves, either dilate to help the body lose heat or constrict to keep it in. The hair shafts on our skin usually lie flat, but when it’s cold the arrector pili muscle attached to each hair follicle in the dermis contracts. This contraction makes the hairs erect, trapping a thin layer of warmer air above the skin and creating a temporary coat.
 
