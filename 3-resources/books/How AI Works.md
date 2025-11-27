@@ -40,6 +40,8 @@ by [[Ronald T. Kneusel]]
 
 > Interpolation good. Extrapolation bad.
 
+> Social media is free because we, and the data we generate, are the product.
+
 ## Contents
 * [NeurIPS](https://neurips.cc/) AI conference
 
@@ -75,6 +77,17 @@ by [[Ronald T. Kneusel]]
 * A knowledge base represents knowledge as a combination of rules and facts. Then, you combine the knowledge base with an inference engine, which uses the knowledge base to decide when and how to execute rules based on stored facts or input to the system by a user. Rules fire based on facts, which may lead to placing new facts in the knowledge base that cause additional rules to fire, and so on.
 * The direct causes of the deep learning revolution were faster computers, the advent of graphics processing units, improved algorithms, and huge datasets.
 
+### Classical Models: Old-School Machine Learning
+#### Nearest Neighbors
+#### Random Forests
+#### Support Vector Machines
+### Neural Networks: Brain-Like AI
+
+### Convolutional Neural Networks: AI Learns to See
+### Generative AI: AI Gets Creative
+### Large Langauge Models: True AI at Last?
+### Musings: The Implications of AI
+
 ## The Book in 3 Sentences
 
 ## Who Should Read It?
@@ -95,16 +108,23 @@ Anyone who wants to understand Artificial Intelligence and Machine Learning conc
 * MIPS - Million Instructions Per Second
 * ReLU - Rectified Linear Unit
 * ENIAC - Electronic Numerical Integrator and Computer
+* MCC - Mathews Correlation Coefficient
+* AGI - Artificial General Intelligence
+* GPT - Generative Pretrained Transformer
+* RNN - Recurrent Neural Network
+* RLHF - Reinforcement Learning from Human Feedback
 
 ## Dataset
 * Iris
 * MNIST
+* CIFAR-10
 
 ## ML Algorithms
 * Decision tree
 * Neural networks
 * Radom forests
 * Support vector machine
+* Nearest Neighbor
 
 ## Terms
 * Artitifical Intelligence - The field of computer science that involves mimicking human intelligence in machines.
@@ -121,6 +141,16 @@ Anyone who wants to understand Artificial Intelligence and Machine Learning conc
 
 ## Papers
 * [Common pitfalls and recommendations for using machine learning to detect and prognosticate for COVID-19 using chest radiographs and CT scans](https://www.nature.com/articles/s42256-021-00307-0)
+* [Learning Representations by Back-propagating Errors](https://www.nature.com/articles/323533a0)
+* [A machine learning approach for the discrimination of theropod and ornithischian dinosaur tracks](https://royalsocietypublishing.org/doi/10.1098/rsif.2022.0588)
+* [Large Language Models Pass the Turing Test](https://arxiv.org/pdf/2503.23674)
+* [High school quality is associated with cognition 58 years later](https://pmc.ncbi.nlm.nih.gov/articles/PMC10152568/)
+* [Comparing Physician and Artificial Intelligence Chatbot Responses to Patient Questions Posted to a Public Social Media Forum](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2804309)
+* [Benefits, Limits, and Risks of GPT-4 as an AI Chatbot for Medicine](https://www.nejm.org/doi/full/10.1056/NEJMsr2214184)
+* [Emergent autonomous scientific research capabilities of large language models](https://arxiv.org/pdf/2304.05332)
 
 ## Bibliography
 * Cautionary Tales for Children
+* You Look Like a Thing and I Love You
+* Human Compatible
+* Alice’s Adventures in Wonderland

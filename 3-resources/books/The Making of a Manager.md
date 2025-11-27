@@ -40,6 +40,10 @@ by [[Julie Zhuo]]
 
 > There’s no cruelty like waiting and telling people late in their careers that they don’t belong.
 
+> Your own boss should be one of your best sources of learning.
+
+> When I started to see 1:1s with my manager as an opportunity for focused learning, I got so much more out of it.
+
 ## Contents
 Five conditions that increase a team’s odds of success.
 * having a real team (one with clear boundaries and stable membership)
@@ -59,3 +63,4 @@ Five conditions that increase a team’s odds of success.
 * Radical Candor
 * High Output Management
 * Leaders Eat Last
+* [Mindset](../Mindset.md)

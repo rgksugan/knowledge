@@ -92,6 +92,10 @@ by [[Monty Lyman]]
 
 > In many ways, acne is more of a psychological disease than a physical one.
 
+> We all love to find out about our family history, as we feel it may tell us something about ourselves.
+
+> When it comes to the brain influencing the body with the placebo effect, the more significant the treatment, the greater the effect. If a placebo sugar pill is given to a patient alongside a consultation with a doctor, the patient is likely to feel better than if she had taken a sugar pill alone. Likewise, a bigger pill has a greater effect than a smaller one, and an injection produces better results than a tablet.
+
 ## Contents
 * No matter what the outside temperature, our body needs to tread an inner tightrope between 36°C and 38°C, and anything much above 42°C is lethal. Our skin carries four million of these glands, and together they are capable of pumping out literally bucket-loads of sweat each day, with some humans capable of sweating three litres an hour. On a hot day, the brain’s sensitive hypothalamus detects a rise in the body’s core temperature and fires signals along autonomic (unconsciously acting) nerves to the eccrine glands, instructing them to send sweat to the skin’s surface. When sweat – essentially water with a few trace particles of salts – lies exposed on naked skin, it rapidly evaporates. The process of evaporation removes high-energy, heat-containing molecules from the body, immediately cooling the skin and the blood vessels of the dermis. The cooled venous blood then returns from the skin to the core of the body, preventing a dangerous rise in our core temperature. But sweat is just one component of the skin’s thermostat. Blood vessels in the dermis, also stimulated by the nerves, either dilate to help the body lose heat or constrict to keep it in. The hair shafts on our skin usually lie flat, but when it’s cold the arrector pili muscle attached to each hair follicle in the dermis contracts. This contraction makes the hairs erect, trapping a thin layer of warmer air above the skin and creating a temporary coat.
 
@@ -107,3 +111,4 @@ by [[Monty Lyman]]
 * SIBO - Small Intestinal Bacterial Overgrowth
 
 ## Bibliography
+* The Poetics of Space
