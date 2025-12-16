@@ -9,6 +9,5 @@ Like most of my trips are inspired by books, this trip was also inspired the boo
 * IIA - 11 inch
 * Sriharikota
 
-## Book Recommendations
-* [[How I Killed Pluto and Why It Had It Coming]] by [[Mike Brown]]
 
+[How I Killed Pluto and Why It Had It Coming]: <../../How I Killed Pluto and Why It Had It Coming> "How I Killed Pluto and Why It Had It Coming"
