@@ -40,6 +40,7 @@ by [[Jay Alammar]][[Maarten Grootendorst]]
 
 ## Datasets
 * [Playlist](https://www.cs.cornell.edu/~shuochen/lme/data_page.html)
+* [rotten_tomatoes](https://huggingface.co/datasets/cornell-movie-review-data/rotten_tomatoes)
 
 ## Papers
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)

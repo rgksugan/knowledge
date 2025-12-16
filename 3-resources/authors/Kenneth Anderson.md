@@ -5,6 +5,7 @@
 * [[The Black Panther Of Sivanipalli]]
 * [[Jungle Tales for Children]]
 * [[Jungles Long Ago]]
+* [[Nine Man-Eaters And One Rogue]]
 
 
 
