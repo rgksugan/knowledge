@@ -18,14 +18,8 @@ by [[Cal Newport]]
 
 > To build your working life around the experience of flow produced by deep work is a proven path to deep satisfaction.
 
-## Contents
-
-## The Book in 3 Sentences
-
 ## Who Should Read It?
 Knowledge workers
-
-## My Top 3 Quotes
 
 ## Bibliography
 * [[Memories, Dreams, Reflections]]
