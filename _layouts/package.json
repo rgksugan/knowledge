@@ -15,7 +15,7 @@
   "author": "chenmin",
   "license": "MIT",
   "engines": {
-    "node": "<=16.12.0"
+    "node": ">=20.18.1"
   },
   "dependencies": {
     "gatsby": "^4.6.2",
