@@ -127,8 +127,4 @@
 [Co-Intelligence]: Co-Intelligence.md "Co-Intelligence"
 [Mindset]: Mindset.md "Mindset"
 [The Remarkable Life of the Skin]: <The Remarkable Life of the Skin.md> "The Remarkable Life of the Skin"
-
-
-
-
 [Nine Man-Eaters And One Rogue]: <Nine Man-Eaters And One Rogue> "Nine Man-Eaters And One Rogue"

@@ -20,3 +20,6 @@ by [[Kenneth Anderson]]
 * The Hermit of Devarayanadurga
 * Byra, the Poojaree
 * The Tigers of Tagarthy
+
+
+[Kenneth Anderson]: <../authors/Kenneth Anderson> "Kenneth Anderson"
