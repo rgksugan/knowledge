@@ -1,9 +1,8 @@
 ---
-tags: 
+tags: non-fiction
 type: book
-author: 
+author: Kenneth Anderson
 title: Nine Man-Eaters And One Rogue
-sub-title: 
 ---
 
 # Nine Man-Eaters And One Rogue
