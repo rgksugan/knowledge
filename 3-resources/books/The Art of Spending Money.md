@@ -74,8 +74,6 @@ by [[Morgan Housel]]
 
 > Taking too little risk is like smoking cigarettes, taking too much risk is like doing heroin. Both will harm you, the only difference is how quickly.
 
-> You need to accurately understand how you’ll feel about your current decisions at various points in the future.
-
 > The pleasure you get from utility can be more durable than pleasure gained from status.
 
 > As a writer, I’ve always believed in what I call “selfish writing.” I write for an audience of one—me. I write stories I find interesting about topics I find useful, without wondering if readers feel the same. Not only is it more enjoyable, but I think it produces better work: The common writing phrase “know your audience” can quickly turn into “shamelessly pander to your audience” in a way that ruins a lot of writing.
@@ -122,17 +120,6 @@ by [[Morgan Housel]]
 
 > Carl Jung, one of the most influential psychologists to ever live, was once asked, “What do you consider to be more or less basic factors making for happiness in the human mind?” Jung listed them off: 1. Good physical and mental health. 2. Good personal and intimate relationships, such as those of marriage, the family, and friendships. 3. The faculty for perceiving beauty in art and nature. 4. Reasonable standards of living and satisfactory work. 5. A philosophic or religious point of view capable of coping successfully with the vicissitudes of life.
 
-## Contents
-
-## The Book in 3 Sentences
-
-## Who Should Read It?
-
-## My Top 3 Quotes
-
-## Abbreviations
-
-## Characters
 
 ## Bibliography
 * [[The Molecule of More]]
