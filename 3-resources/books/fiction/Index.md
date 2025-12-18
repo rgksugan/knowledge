@@ -1,28 +1,28 @@
 # Fiction Books Index
 
-- [A Knight of the Seven Kingdoms](A%20Knight%20of%20the%20Seven%20Kingdoms.md)
-- [Angels of the Universe](Angels%20of%20the%20Universe.md)
-- [Beer in the Snooker Club](Beer%20in%20the%20Snooker%20Club.md)
-- [Blind Willow, Sleeping Woman](Blind%20Willow,%20Sleeping%20Woman.md)
-- [First Person Singular](First%20Person%20Singular.md)
-- [Goat Days](Goat%20Days.md)
-- [Kaaval Kottam](Kaaval%20Kottam.md)
-- [Men without Women](Men%20without%20Women.md)
-- [Moga Mul](Moga%20Mul.md)
-- [Mookajjis Visions](Mookajjis%20Visions.md)
-- [Norwegian Wood](Norwegian%20Wood.md)
-- [Oru Manithan Oru Veedu Oru Ulagam](Oru%20Manithan%20Oru%20Veedu%20Oru%20Ulagam.md)
-- [Padaiyal](Padaiyal.md)
-- [Saivu Naarkaali](Saivu%20Naarkaali.md)
-- [Samuthaya Veethi](Samuthaya%20Veethi.md)
-- [South of the Border, West of the Sun](South%20of%20the%20Border,%20West%20of%20the%20Sun.md)
-- [The Great Train Journey](The%20Great%20Train%20Journey.md)
-- [The Hangmans Journal](The%20Hangmans%20Journal.md)
-- [The Phoenix Project](The%20Phoenix%20Project.md)
-- [Thozhar Chozhan](Thozhar%20Chozhan.md)
-- [Two Women Walk into a Bar](Two%20Women%20Walk%20into%20a%20Bar.md)
-- [Vaadivaasal](Vaadivaasal.md)
-- [Vanangaan](Vanangaan.md)
-- [Vekkai](Vekkai.md)
-- [Yaanai Doctor](Yaanai%20Doctor.md)
-- [Zikora](Zikora.md)
+- [[A Knight of the Seven Kingdoms]]
+- [[Angels of the Universe]]
+- [[Beer in the Snooker Club]]
+- [[Blind Willow, Sleeping Woman]]
+- [[First Person Singular]]
+- [[Goat Days]]
+- [[Kaaval Kottam]]
+- [[Men without Women]]
+- [[Moga Mul]]
+- [[Mookajjis Visions]]
+- [[Norwegian Wood]]
+- [[Oru Manithan Oru Veedu Oru Ulagam]]
+- [[Padaiyal]]
+- [[Saivu Naarkaali]]
+- [[Samuthaya Veethi]]
+- [[South of the Border, West of the Sun]]
+- [[The Great Train Journey]]
+- [[The Hangmans Journal]]
+- [[The Phoenix Project]]
+- [[Thozhar Chozhan]]
+- [[Two Women Walk into a Bar]]
+- [[Vaadivaasal]]
+- [[Vanangaan]]
+- [[Vekkai]]
+- [[Yaanai Doctor]]
+- [[Zikora]]

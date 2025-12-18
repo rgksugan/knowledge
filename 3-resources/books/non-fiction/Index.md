@@ -1,83 +1,83 @@
 # Non-Fiction Books Index
 
-- [101 things I learned in Architecture School](101%20things%20I%20learned%20in%20Architecture%20School.md)
-- [21 Lessons for the 21st Century](21%20Lessons%20for%20the%2021st%20Century.md)
-- [AI Engineering](AI%20Engineering.md)
-- [Algorithms to Live By](Algorithms%20to%20Live%20By.md)
-- [Atomic Habits](Atomic%20Habits.md)
-- [Being Mortal](Being%20Mortal.md)
-- [Building a second brain](Building%20a%20second%20brain.md)
-- [Bushcraft 101](Bushcraft%20101.md)
-- [Capital and Ideology](Capital%20and%20Ideology.md)
-- [Che](Che.md)
-- [Choose FI](Choose%20FI.md)
-- [Co-Intelligence](Co-Intelligence.md)
-- [Code Dependent](Code%20Dependent.md)
-- [Coffee Can Investing](Coffee%20Can%20Investing.md)
-- [Deep Work](Deep%20Work.md)
-- [Deivam Enbathor](Deivam%20Enbathor.md)
-- [Designing Data-Intensive Applications](Designing%20Data-Intensive%20Applications.md)
-- [Diagnosis](Diagnosis.md)
-- [Domain-Driven Design](Domain-Driven%20Design.md)
-- [Engineering Management for the Rest of Us](Engineering%20Management%20for%20the%20Rest%20of%20Us.md)
-- [Extreme Programming Explained](Extreme%20Programming%20Explained.md)
-- [Hands-On Large Language Models](Hands-On%20Large%20Language%20Models.md)
-- [Head First Design Patterns.md](Head%20First%20Design%20Patterns.md.md)
-- [How AI Works](How%20AI%20Works.md)
-- [I Came Upon a Lighthouse](I%20Came%20Upon%20a%20Lighthouse.md)
-- [IIMA-Day To Day Economics](IIMA-Day%20To%20Day%20Economics.md)
-- [Immune](Immune.md)
-- [Indica](Indica.md)
-- [Inventing Bitcoin](Inventing%20Bitcoin.md)
-- [Ithuvae Sananaayagam](Ithuvae%20Sananaayagam.md)
-- [Jungle Tales for Children](Jungle%20Tales%20for%20Children.md)
-- [Jungles Long Ago](Jungles%20Long%20Ago.md)
-- [Just Keep Buying](Just%20Keep%20Buying.md)
-- [Learn to Earn](Learn%20to%20Earn.md)
-- [Lets talk Money](Lets%20talk%20Money.md)
-- [Man-Eaters And Jungle Killers](Man-Eaters%20And%20Jungle%20Killers.md)
-- [Maraikkappatta India](Maraikkappatta%20India.md)
-- [Marapum Puthumaiyum](Marapum%20Puthumaiyum.md)
-- [Micha kathaigal](Micha%20kathaigal.md)
-- [Mindset](Mindset.md)
-- [Models](Models.md)
-- [My Favourite Nature Stories](My%20Favourite%20Nature%20Stories.md)
-- [Never Split the Difference](Never%20Split%20the%20Difference.md)
-- [Nine Man-Eaters And One Rogue](Nine%20Man-Eaters%20And%20One%20Rogue.md)
-- [Non Designers Design Book](Non%20Designers%20Design%20Book.md)
-- [Oorum Seriyum](Oorum%20Seriyum.md)
-- [Paran](Paran.md)
-- [Patterns of Enterprise Application Architecture](Patterns%20of%20Enterprise%20Application%20Architecture.md)
-- [Peopleware](Peopleware.md)
-- [Questions are the Answers](Questions%20are%20the%20Answers.md)
-- [Saadhi Enbadhu Kuroorammana Edhartham](Saadhi%20Enbadhu%20Kuroorammana%20Edhartham.md)
-- [Sprint](Sprint.md)
-- [Staff Engineer](Staff%20Engineer.md)
-- [Stiff](Stiff.md)
-- [Swipe to Unlock](Swipe%20to%20Unlock.md)
-- [Tales From The Indian Jungle](Tales%20From%20The%20Indian%20Jungle.md)
-- [Technically Wrong](Technically%20Wrong.md)
-- [The Algebra of Wealth](The%20Algebra%20of%20Wealth.md)
-- [The Art of Leadership](The%20Art%20of%20Leadership.md)
-- [The Art of Spending Money](The%20Art%20of%20Spending%20Money.md)
-- [The Basic Laws of Human Stupidity](The%20Basic%20Laws%20of%20Human%20Stupidity.md)
-- [The Black Panther Of Sivanipalli](The%20Black%20Panther%20Of%20Sivanipalli.md)
-- [The Code](The%20Code.md)
-- [The courage to be disliked](The%20courage%20to%20be%20disliked.md)
-- [The Effective Engineer](The%20Effective%20Engineer.md)
-- [The Great Cholesterol Myth](The%20Great%20Cholesterol%20Myth.md)
-- [The Ivory Throne](The%20Ivory%20Throne.md)
-- [The Laws of Medicine](The%20Laws%20of%20Medicine.md)
-- [The Making of a Manager](The%20Making%20of%20a%20Manager.md)
-- [The Man Who Mistook His Wife for a Hat](The%20Man%20Who%20Mistook%20His%20Wife%20for%20a%20Hat.md)
-- [The Masters of History](The%20Masters%20of%20History.md)
-- [The Remarkable Life of the Skin](The%20Remarkable%20Life%20of%20the%20Skin.md)
-- [The Secret World of Sleep](The%20Secret%20World%20of%20Sleep.md)
-- [The Simple Six](The%20Simple%20Six.md)
-- [The Staff Engineers Path](The%20Staff%20Engineers%20Path.md)
-- [The State and Revolution](The%20State%20and%20Revolution.md)
-- [The Stranger](The%20Stranger.md)
-- [The Toilet Seat](The%20Toilet%20Seat.md)
-- [The Unusual Billionaires](The%20Unusual%20Billionaires.md)
-- [Tho. Paramasivan Nearkanalkal](Tho.%20Paramasivan%20Nearkanalkal.md)
-- [We Should All Be Feminists](We%20Should%20All%20Be%20Feminists.md)
+- [[101 things I learned in Architecture School]]
+- [[21 Lessons for the 21st Century]]
+- [[AI Engineering]]
+- [[Algorithms to Live By]]
+- [[Atomic Habits]]
+- [[Being Mortal]]
+- [[Building a second brain]]
+- [[Bushcraft 101]]
+- [[Capital and Ideology]]
+- [[Che]]
+- [[Choose FI]]
+- [[Co-Intelligence]]
+- [[Code Dependent]]
+- [[Coffee Can Investing]]
+- [[Deep Work]]
+- [[Deivam Enbathor]]
+- [[Designing Data-Intensive Applications]]
+- [[Diagnosis]]
+- [[Domain-Driven Design]]
+- [[Engineering Management for the Rest of Us]]
+- [[Extreme Programming Explained]]
+- [[Hands-On Large Language Models]]
+- [[Head First Design Patterns.md]]
+- [[How AI Works]]
+- [[I Came Upon a Lighthouse]]
+- [[IIMA-Day To Day Economics]]
+- [[Immune]]
+- [[Indica]]
+- [[Inventing Bitcoin]]
+- [[Ithuvae Sananaayagam]]
+- [[Jungle Tales for Children]]
+- [[Jungles Long Ago]]
+- [[Just Keep Buying]]
+- [[Learn to Earn]]
+- [[Lets talk Money]]
+- [[Man-Eaters And Jungle Killers]]
+- [[Maraikkappatta India]]
+- [[Marapum Puthumaiyum]]
+- [[Micha kathaigal]]
+- [[Mindset]]
+- [[Models]]
+- [[My Favourite Nature Stories]]
+- [[Never Split the Difference]]
+- [[Nine Man-Eaters And One Rogue]]
+- [[Non Designers Design Book]]
+- [[Oorum Seriyum]]
+- [[Paran]]
+- [[Patterns of Enterprise Application Architecture]]
+- [[Peopleware]]
+- [[Questions are the Answers]]
+- [[Saadhi Enbadhu Kuroorammana Edhartham]]
+- [[Sprint]]
+- [[Staff Engineer]]
+- [[Stiff]]
+- [[Swipe to Unlock]]
+- [[Tales From The Indian Jungle]]
+- [[Technically Wrong]]
+- [[The Algebra of Wealth]]
+- [[The Art of Leadership]]
+- [[The Art of Spending Money]]
+- [[The Basic Laws of Human Stupidity]]
+- [[The Black Panther Of Sivanipalli]]
+- [[The Code]]
+- [[The courage to be disliked]]
+- [[The Effective Engineer]]
+- [[The Great Cholesterol Myth]]
+- [[The Ivory Throne]]
+- [[The Laws of Medicine]]
+- [[The Making of a Manager]]
+- [[The Man Who Mistook His Wife for a Hat]]
+- [[The Masters of History]]
+- [[The Remarkable Life of the Skin]]
+- [[The Secret World of Sleep]]
+- [[The Simple Six]]
+- [[The Staff Engineers Path]]
+- [[The State and Revolution]]
+- [[The Stranger]]
+- [[The Toilet Seat]]
+- [[The Unusual Billionaires]]
+- [[Tho. Paramasivan Nearkanalkal]]
+- [[We Should All Be Feminists]]
