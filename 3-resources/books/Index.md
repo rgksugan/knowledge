@@ -64,6 +64,8 @@
 * [[Mindset]]
 * [[The Remarkable Life of the Skin]]
 * [[Nine Man-Eaters And One Rogue]]
+* [[The Art of Spending Money]]
+* [[How AI Works]]
 
 
 
