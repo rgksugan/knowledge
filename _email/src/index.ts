@@ -11,48 +11,75 @@ const run = async () => {
 
   // Directory to look for book notes
   const directoryPath = "../3-resources/books/";
-  const files = await fs.readdir(directoryPath);
-  console.log(`Found ${files.length} items in directory`);
 
-  // Filter out non-files (like directories)
-  const fileList = [];
-  for (const file of files) {
-    const filePath = path.join(directoryPath, file);
-    const stat = await fs.stat(filePath);
-    if (stat.isFile()) {
-      fileList.push(file);
+  // Collect all markdown files from all subdirectories
+  const fileList: { file: string; subdir: string }[] = [];
+
+  const items = await fs.readdir(directoryPath);
+  for (const item of items) {
+    const itemPath = path.join(directoryPath, item);
+    const stat = await fs.stat(itemPath);
+    if (stat.isDirectory()) {
+      try {
+        const files = await fs.readdir(itemPath);
+        for (const file of files) {
+          const filePath = path.join(itemPath, file);
+          const fileStat = await fs.stat(filePath);
+          if (
+            fileStat.isFile() &&
+            file.endsWith(".md") &&
+            file !== "Index.md"
+          ) {
+            fileList.push({ file, subdir: item });
+          }
+        }
+      } catch (error) {
+        console.log(`Could not read subdirectory ${item}:`, error);
+      }
     }
   }
 
   if (fileList.length === 0) {
-    console.log("No files found in the directory.");
+    console.log("No markdown files found in subdirectories.");
     return;
   }
 
-  console.log(`Processing ${fileList.length} markdown files`);
+  console.log(
+    `Processing ${fileList.length} markdown files from subdirectories`
+  );
 
   const highLightsToMail: Highlight[] = [];
+  const maxAttempts = fileList.length * 2; // Prevent infinite loop
+  let attempts = 0;
 
-  while (highLightsToMail.length < NO_OF_HIGHLIGHTS) {
+  while (highLightsToMail.length < NO_OF_HIGHLIGHTS && attempts < maxAttempts) {
+    attempts++;
+
     // Select a quote from a random file
     const randomFileIndex = Math.floor(Math.random() * fileList.length);
-    const randomFile = fileList[randomFileIndex];
-    const filePath = path.join(directoryPath, randomFile!);
-    console.log(`Attempting to get highlight from: ${randomFile}`);
+    const { file: randomFile, subdir } = fileList[randomFileIndex]!;
+    const filePath = path.join(directoryPath, subdir, randomFile);
+    console.log(`Attempting to get highlight from: ${subdir}/${randomFile}`);
 
     const highLight = await getRandomHighlight(filePath);
 
     if (highLight && highLight.content) {
       console.log(
-        `✓ Got highlight from ${randomFile}: "${highLight.content?.substring(
+        `✓ Got highlight from ${subdir}/${randomFile}: "${highLight.content?.substring(
           0,
           50
         )}..."`
       );
       highLightsToMail.push(highLight);
     } else {
-      console.log(`✗ No highlight found in ${randomFile}`);
+      console.log(`✗ No highlight found in ${subdir}/${randomFile}`);
     }
+  }
+
+  if (attempts >= maxAttempts) {
+    console.log(
+      `Reached maximum attempts (${maxAttempts}). Proceeding with ${highLightsToMail.length} highlights.`
+    );
   }
 
   console.log(`Collected ${highLightsToMail.length} highlights for email`);
