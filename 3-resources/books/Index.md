@@ -66,6 +66,7 @@
 * [[Nine Man-Eaters And One Rogue]]
 * [[The Art of Spending Money]]
 * [[How AI Works]]
+* [[You Look Like a Thing and I Love You]]
 
 
 
@@ -130,3 +131,6 @@
 [Mindset]: Mindset.md "Mindset"
 [The Remarkable Life of the Skin]: <The Remarkable Life of the Skin.md> "The Remarkable Life of the Skin"
 [Nine Man-Eaters And One Rogue]: <Nine Man-Eaters And One Rogue> "Nine Man-Eaters And One Rogue"
+[The Art of Spending Money]: <non-fiction/The Art of Spending Money> "The Art of Spending Money"
+[How AI Works]: <non-fiction/How AI Works> "How AI Works"
+[You Look Like a Thing and I Love You]: <You Look Like a Thing and I Love You> "You Look Like a Thing and I Love You"
