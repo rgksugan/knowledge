@@ -60,8 +60,6 @@ by [[Peter Lynch]]
 
 > There’s no better time for teenagers and recent college grads to enter the workforce than in the middle of a hot economy.
 
-> You can see that they last an average of eleven months, and cause an average of 1.62 million people to lose their jobs.
-
 > They can lose millions, or even billions, of dollars, and unless they have enough money in the bank to tide them over, they face the prospect of going bankrupt.
 
 > When stock prices fall 10 percent from their most recent peak, it’s called a “correction.” We’ve had fifty-three corrections in this century, or one every two years, on average. When stock prices fall 25 percent or more, it’s called a “bear market.” Of the fifty-three corrections, fifteen have turned into bear markets. That’s one every six years, on average.
