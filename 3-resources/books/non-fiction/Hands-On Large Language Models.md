@@ -37,6 +37,7 @@ by [[Jay Alammar]][[Maarten Grootendorst]]
 * GUI - Graphical User Interface
 * BPE - Byte Pair Encoding
 * NER - Named Entity Recognition
+* IDF - Inverse Document Frequency
 
 ## Datasets
 * [Playlist](https://www.cs.cornell.edu/~shuochen/lme/data_page.html)
@@ -68,6 +69,11 @@ by [[Jay Alammar]][[Maarten Grootendorst]]
 * [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909)
 * [SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing](https://arxiv.org/pdf/1808.06226)
 * [Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates](https://arxiv.org/pdf/1804.10959)
+* [Tree of Thoughts](https://arxiv.org/pdf/2305.10601)
+* [Self-consistency improves chain of thought reasoning in language models](https://arxiv.org/pdf/2203.11171)
+* [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903)
+* [React](https://arxiv.org/pdf/2210.03629)
 
 ## Bibliography
 * Designing Large Language Model Applications
+* Thinking Fast and Slow

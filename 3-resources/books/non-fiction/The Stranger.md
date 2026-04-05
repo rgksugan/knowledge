@@ -21,8 +21,6 @@ by [[Albert Camus]]
 
 > One always has exaggerated ideas about what one doesn’t know.
 
-> Now I had to admit it seemed a very simple process, getting guillotined; the machine is on the same level as the man, and he walks toward it as he steps forward to meet somebody he knows. In a sense, that, too, was disappointing.
-
 > I’ve often thought that had I been compelled to live in the trunk of a dead tree, with nothing to do but gaze up at the patch of sky just overhead, I’d have got used to it by degrees.
 
 > I remembered it had been one of Mother’s pet ideas—she was always voicing it—that in the long run one gets used to anything.
