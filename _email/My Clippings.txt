@@ -764,36 +764,6 @@ The Man-eating Leopard of Rudraprayag (Corbett, Jim)
 
 Their boundless faith in their philosophy, a faith strong enough to move mountains and very soothing to depressed feelings, that no human beings and no animals can die before their appointed time, and that the man-eater’s time had not yet come, called for no explanation, and admitted of no argument.
 ==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight on page 12 | location 190-191 | Added on Monday, 7 October 2019 22:47:31
-
-Leverage is defined by a simple equation. It’s the value, or impact, produced per time invested:
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight on page 54 | location 1102-1104 | Added on Saturday, 19 October 2019 06:38:11
-
-I've found that almost all successful people write a lot of tools … [A] very good indicator of future success [was] if the first thing someone did on a problem was to write a tool.
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight on page 54 | location 1105-1106 | Added on Saturday, 19 October 2019 06:38:28
-
-If you have to do something manually more than twice, then write a tool for the third time.
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight on page 57 | location 1157-1158 | Added on Monday, 21 October 2019 08:51:04
-
-C++ was a great language choice for the high performance needed in production, but its slow compile cycles and verbosity made it a poor vehicle for prototyping new features and testing out new user interactions.
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight on page 58 | location 1161-1164 | Added on Monday, 21 October 2019 08:55:03
-
-Sometimes, the time-saving tool that you built might be objectively superior to the existing one, but the switching costs discourage other engineers from actually changing their workflow and learning your tool. In these situations, it’s worth investing the additional effort to lower the switching cost and to find a smoother way to integrate the tool into existing workflows.
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight on page 61 | location 1215-1216 | Added on Monday, 21 October 2019 09:13:52
-
-Effective engineers know that debugging is a large part of software development. Almost instinctively, they know when to make upfront investments to shorten their debugging loops rather than pay a tax on their time for every iteration.
-==========
 Walking the Nile (Wood, Levison)
 - Your Highlight at location 381-384 | Added on Thursday, 24 October 2019 21:48:04
 
@@ -4815,51 +4785,6 @@ Kazhivarai Irukkai (Tamil Edition) (Balasubramanian, Latha)
 
 அந்த ஹன்னடு சக்ரவில் (பன்னிரு சுழல்) நாங்களும் எதை எதையோ போட்டோம். பத்து தடவையா, பன்னிரண்டு தடவையா, எத்தனை முறை சுற்றியது என்று தெரியவில்லை. பார்த்துக் கொண்டேயிருக்கும்போது பொருட்கள் மறைந்துவிட்டன.
 ==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight at location 52-56 | Added on Wednesday, 17 August 2022 21:23:43
-
-I love the culture of Silicon Valley. I love that young engineers have as much of an impact on our industry as veterans, and I love how our industry redefines itself every decade. But I also think the culture of working endless hours is unnecessary and abused by ineffective managers around our industry. In addition to being unnecessary, that aspect of our culture is one of the main things that prevents people from choosing long term careers in software engineering—it is unsustainable for people with families, and it creates a homogeneous, immature atmosphere at the companies where it is ubiquitous.
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight at location 75-77 | Added on Wednesday, 17 August 2022 21:27:14
-
-To be effective engineers, we need to be able to identify which activities produce more impact with smaller time investments. Not all work is created equal. Not all efforts, however well-intentioned, translate into impact.
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight at location 170-170 | Added on Monday, 22 August 2022 06:13:57
-
-Put another way, leverage is the return on investment (ROI) for the effort that’s put in.
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight at location 423-423 | Added on Wednesday, 24 August 2022 07:58:36
-
-How quickly have the strongest team members grown into positions of leadership?
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight at location 457-457 | Added on Wednesday, 24 August 2022 08:03:13
-
-Do the people who interviewed you seem smarter than you?
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight at location 472-473 | Added on Wednesday, 24 August 2022 08:05:16
-
-When switching teams or jobs, make sure that you’re asking the right questions: find out if they are a good fit and offer you ample learning opportunities.
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight at location 488-493 | Added on Wednesday, 24 August 2022 08:13:56
-
-These are the disciplines related to your core role and where increased familiarity can make you more self-sufficient and effective. If you’re a product engineer, adjacent disciplines might include product management, user research, or even backend engineering. If you’re an infrastructure engineer, they might include machine learning, database internals, or web development. If you’re a growth engineer, adjacent disciplines might be data science, marketing, or behavioral psychology. Knowledge in adjacent disciplines will not only be useful, but you’ll also be more likely to retain the information because you’ll be actively practicing it.
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight at location 509-510 | Added on Wednesday, 24 August 2022 08:16:04
-
-Send your code reviews to the harshest critics. Optimize for getting good, thoughtful feedback rather than for lowering the barrier to getting your work checked in.
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight at location 523-524 | Added on Wednesday, 24 August 2022 08:17:51
-
-Make sure you’re on a team with at least a few senior engineers whom you can learn from. If you’re not, consider changing projects or teams.
-==========
 I'd Rather Be Reading (Bogel, Anne)
 - Your Highlight on page 106 | location 1117-1118 | Added on Monday, 29 August 2022 06:15:06
 
@@ -4874,19 +4799,4 @@ I'd Rather Be Reading (Bogel, Anne)
 - Your Highlight on page 102 | location 1085-1086 | Added on Monday, 29 August 2022 07:40:56
 
 Thousands of years ago, the Greek philosopher Heraclitus wrote, “No man ever steps in the same river twice, for it’s not the same river and he’s not the same man.”
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight at location 703-704 | Added on Tuesday, 30 August 2022 06:19:11
-
-Don’t try to get everything done. Focus on what matters—and what matters is what produces value.
-==========
-The Effective Engineer: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight at location 754-755 | Added on Wednesday, 31 August 2022 07:19:54
-
-Protect your time and your maker’s schedule.
-==========
-[[The Effective Engineer]]: How to Leverage Your Efforts in Software Engineering to Make a Disproportionate and Meaningful Impact (Edmond Lau)
-- Your Highlight at location 1056-1059 | Added on Thursday, 1 September 2022 09:17:25
-
-At work, we can easily fall into an endless cycle of hitting the next deadline: getting the next thing done, shipping the next new feature, clearing the next bug in our backlog, and responding to the next issue in the never-ending stream of customer requests. We might have ideas for tools we could build to make our lives a bit easier, but the long-term value of those tools is hard to quantify. On the other hand, the short-term costs of a slipped deadline or a product manager breathing down our necks and asking when something will get done are fairly concrete.
 ==========
