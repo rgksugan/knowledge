@@ -59,6 +59,7 @@
 - [[Swipe to Unlock]]
 - [[Tales From The Indian Jungle]]
 - [[Technically Wrong]]
+- [[Talking to My Daughter]]
 - [[The Algebra of Wealth]]
 - [[The Art of Leadership]]
 - [[The Art of Spending Money]]
@@ -169,3 +170,4 @@
 [Tho. Paramasivan Nearkanalkal]: <Tho. Paramasivan Nearkanalkal> "Tho. Paramasivan Nearkanalkal"
 [We Should All Be Feminists]: <We Should All Be Feminists> "We Should All Be Feminists"
 [You Look Like a Thing and I Love You]: <../You Look Like a Thing and I Love You> "You Look Like a Thing and I Love You"
+[Talking to My Daughter]: <Talking to My Daughter> "Talking to My Daughter"

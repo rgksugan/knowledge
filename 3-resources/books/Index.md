@@ -69,6 +69,7 @@
 * [[How AI Works]]
 * [[Id Rather Be Reading]]
 * [[Nadanthai Vaazi Kaaveri]]
+* [[Talking to My Daughter]]
 * [[You Look Like a Thing and I Love You]]
 
 
@@ -139,3 +140,4 @@
 [Id Rather Be Reading]: <non-fiction/Id Rather Be Reading> "I'd Rather Be Reading"
 [Nadanthai Vaazi Kaaveri]: <non-fiction/Nadanthai Vaazi Kaaveri> "நடந்தாய் வாழி காவேரி"
 [You Look Like a Thing and I Love You]: <non-fiction/You Look Like a Thing and I Love You> "You Look Like a Thing and I Love You"
+[Talking to My Daughter]: <non-fiction/Talking to My Daughter> "Talking to My Daughter"
