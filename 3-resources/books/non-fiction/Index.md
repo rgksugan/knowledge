@@ -25,6 +25,7 @@
 - [[Head First Design Patterns.md]]
 - [[How AI Works]]
 - [[I Came Upon a Lighthouse]]
+- [[Id Rather Be Reading]]
 - [[IIMA-Day To Day Economics]]
 - [[Immune]]
 - [[Indica]]
@@ -108,6 +109,7 @@
 [Hands-On Large Language Models]: <Hands-On Large Language Models> "Hands-On Large Language Models"
 [How AI Works]: <How AI Works> "How AI Works"
 [I Came Upon a Lighthouse]: <I Came Upon a Lighthouse> "I Came Upon a Lighthouse"
+[Id Rather Be Reading]: <Id Rather Be Reading> "I'd Rather Be Reading"
 [IIMA-Day To Day Economics]: <IIMA-Day To Day Economics> "IIMA-Day To Day Economics"
 [Immune]: Immune "Immune"
 [Indica]: Indica "Indica"

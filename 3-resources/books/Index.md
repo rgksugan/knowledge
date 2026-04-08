@@ -67,6 +67,7 @@
 * [[Nine Man-Eaters And One Rogue]]
 * [[The Art of Spending Money]]
 * [[How AI Works]]
+* [[Id Rather Be Reading]]
 * [[You Look Like a Thing and I Love You]]
 
 
@@ -134,4 +135,5 @@
 [Nine Man-Eaters And One Rogue]: <non-fiction/Nine Man-Eaters And One Rogue> "Nine Man-Eaters And One Rogue"
 [The Art of Spending Money]: <non-fiction/The Art of Spending Money> "The Art of Spending Money"
 [How AI Works]: <non-fiction/How AI Works> "How AI Works"
+[Id Rather Be Reading]: <non-fiction/Id Rather Be Reading> "I'd Rather Be Reading"
 [You Look Like a Thing and I Love You]: <You Look Like a Thing and I Love You> "You Look Like a Thing and I Love You"
