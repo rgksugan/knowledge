@@ -70,6 +70,7 @@
 * [[Id Rather Be Reading]]
 * [[Nadanthai Vaazi Kaaveri]]
 * [[Talking to My Daughter]]
+* [[The Psychology of Money]]
 * [[You Look Like a Thing and I Love You]]
 
 
@@ -141,3 +142,4 @@
 [Nadanthai Vaazi Kaaveri]: <non-fiction/Nadanthai Vaazi Kaaveri> "நடந்தாய் வாழி காவேரி"
 [You Look Like a Thing and I Love You]: <non-fiction/You Look Like a Thing and I Love You> "You Look Like a Thing and I Love You"
 [Talking to My Daughter]: <non-fiction/Talking to My Daughter> "Talking to My Daughter"
+[The Psychology of Money]: <non-fiction/The Psychology of Money> "The Psychology of Money"

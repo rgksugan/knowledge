@@ -74,6 +74,7 @@
 - [[The Making of a Manager]]
 - [[The Man Who Mistook His Wife for a Hat]]
 - [[The Masters of History]]
+- [[The Psychology of Money]]
 - [[The Remarkable Life of the Skin]]
 - [[The Secret World of Sleep]]
 - [[The Simple Six]]
@@ -171,3 +172,4 @@
 [We Should All Be Feminists]: <We Should All Be Feminists> "We Should All Be Feminists"
 [You Look Like a Thing and I Love You]: <../You Look Like a Thing and I Love You> "You Look Like a Thing and I Love You"
 [Talking to My Daughter]: <Talking to My Daughter> "Talking to My Daughter"
+[The Psychology of Money]: <The Psychology of Money> "The Psychology of Money"
