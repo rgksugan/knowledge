@@ -43,6 +43,7 @@
 - [[Mindset]]
 - [[Models]]
 - [[My Favourite Nature Stories]]
+- [[Nadanthai Vaazi Kaaveri]]
 - [[Never Split the Difference]]
 - [[Nine Man-Eaters And One Rogue]]
 - [[Non Designers Design Book]]
@@ -110,6 +111,7 @@
 [How AI Works]: <How AI Works> "How AI Works"
 [I Came Upon a Lighthouse]: <I Came Upon a Lighthouse> "I Came Upon a Lighthouse"
 [Id Rather Be Reading]: <Id Rather Be Reading> "I'd Rather Be Reading"
+[Nadanthai Vaazi Kaaveri]: <Nadanthai Vaazi Kaaveri> "நடந்தாய் வாழி காவேரி"
 [IIMA-Day To Day Economics]: <IIMA-Day To Day Economics> "IIMA-Day To Day Economics"
 [Immune]: Immune "Immune"
 [Indica]: Indica "Indica"

@@ -68,6 +68,7 @@
 * [[The Art of Spending Money]]
 * [[How AI Works]]
 * [[Id Rather Be Reading]]
+* [[Nadanthai Vaazi Kaaveri]]
 * [[You Look Like a Thing and I Love You]]
 
 
@@ -136,4 +137,5 @@
 [The Art of Spending Money]: <non-fiction/The Art of Spending Money> "The Art of Spending Money"
 [How AI Works]: <non-fiction/How AI Works> "How AI Works"
 [Id Rather Be Reading]: <non-fiction/Id Rather Be Reading> "I'd Rather Be Reading"
-[You Look Like a Thing and I Love You]: <You Look Like a Thing and I Love You> "You Look Like a Thing and I Love You"
+[Nadanthai Vaazi Kaaveri]: <non-fiction/Nadanthai Vaazi Kaaveri> "நடந்தாய் வாழி காவேரி"
+[You Look Like a Thing and I Love You]: <non-fiction/You Look Like a Thing and I Love You> "You Look Like a Thing and I Love You"
