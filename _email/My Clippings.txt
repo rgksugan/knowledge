@@ -1144,26 +1144,6 @@ Kaaval Kottam  (Tamil) (S.Venkatesan)
 
 மதுரை மதன கோபாலசாமி கோவிலின் சித்திர மண்டபத்தையே பிரித்து அப்படியே நீங்கள் கப்பலில் தூக்கிக் கொண்டு போகவில்லையா!
 ==========
-What Every Web Developer Should Know About HTTP (OdeToCode Programming Series Book 1) (Allen, K. Scott)
-- Your Highlight on page 57 | location 827-829 | Added on Friday, 13 August 2021 06:22:20
-
-When a website wants to give a user a cookie, it uses a Set-Cookie header in an HTTP response.
-==========
-What Every Web Developer Should Know About HTTP (OdeToCode Programming Series Book 1) (Allen, K. Scott)
-- Your Highlight on page 60 | location 865-867 | Added on Friday, 13 August 2021 06:27:47
-
-The HttpOnly flag tells the browser to prevent access to the cookie from JavaScript. The cookie exists only to travel out in the header of every HTTP request message. Browsers that implement HttpOnly will not allow JavaScript to read or write the cookie on the client.
-==========
-What Every Web Developer Should Know About HTTP (OdeToCode Programming Series Book 1) (Allen, K. Scott)
-- Your Highlight on page 62 | location 900-901 | Added on Friday, 13 August 2021 06:34:16
-
-Most web browsers will allow you to disable third-party cookies, but third-party cookies are on by default.
-==========
-What Every Web Developer Should Know About HTTP (OdeToCode Programming Series Book 1) (Allen, K. Scott)
-- Your Highlight on page 70 | location 1016-1020 | Added on Friday, 13 August 2021 06:57:04
-
-HTTPS is computationally expensive, and large sites often use specialized hardware (SSL accelerators) to take the cryptographic computation load off the web servers. HTTPS traffic is also impossible to cache in a public cache, however, user agents might keep HTTPS responses in their private cache. Finally, HTTPS connections are expensive to set up and require an additional handshake between the client and server to exchange cryptographic keys and ensure everyone is communicating with the proper secure protocol. Persistent connections can help to amortize this cost.
-==========
 14 Habits of Highly Productive Developers (Rocha, Zeno)
 - Your Highlight on page 41 | location 246-247 | Added on Friday, 13 August 2021 15:34:48
 
