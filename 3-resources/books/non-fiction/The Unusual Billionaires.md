@@ -10,6 +10,8 @@ by [[Saurabh Mukherjea]]
 
 ## Highlights
 
+> Moreover, as Phil Rosenzweig points out in his insightful book, The Halo Effect, most of us end up viewing contemporary successful companies as great companies because of the positive press around them.
+
 ## Contents
 ### Quantifying Greatness
 #### Step 1: Define Companies
