@@ -1124,41 +1124,6 @@ Extreme Programming Explained (Beck, Kent)
 
 Defects destroy the trust required for effective software development. The customers need to be able to trust the software. The managers need to be able to trust reports of progress. The programmers need to be able to trust each other. Defects destroy this trust. Without trust, people spend much of their time defending themselves against the possibility that someone else may have made a mistake.
 ==========
-You Don't Know JS Yet: Get Started (Simpson, Kyle)
-- Your Highlight on page 26 | location 300-302 | Added on Tuesday, 4 May 2021 23:46:24
-
-JavaScript is most definitely a multi-paradigm language. You can write procedural, class-oriented, or FP-style code, and you can make those decisions on a line-by-line basis instead of being forced into an all-or-nothing choice.
-==========
-You Don't Know JS Yet: Get Started (Simpson, Kyle)
-- Your Highlight on page 42 | location 542-543 | Added on Wednesday, 5 May 2021 08:51:06
-
-JS is an implementation of the ECMAScript standard (version ES2019 as of this writing), which is guided by the TC39 committee and hosted by ECMA. It runs in browsers and other JS environments such as Node.js.
-==========
-You Don't Know JS Yet: Get Started (Simpson, Kyle)
-- Your Highlight on page 42 | location 543-545 | Added on Wednesday, 5 May 2021 08:51:14
-
-JS is a multi-paradigm language, meaning the syntax and capabilities allow a developer to mix and match (and bend and reshape!) concepts from various major paradigms, such as procedural, object-oriented (OO/classes), and functional (FP).
-==========
-You Don't Know JS Yet: Get Started (Simpson, Kyle)
-- Your Highlight on page 42 | location 545-546 | Added on Wednesday, 5 May 2021 08:51:20
-
-JS is a compiled language, meaning the tools (including the JS engine) process and verify a program (reporting any errors!) before it executes.
-==========
-You Don't Know JS Yet: Get Started (Simpson, Kyle)
-- Your Highlight on page 32 | location 415-418 | Added on Wednesday, 5 May 2021 08:53:32
-
-Transpilation and polyfilling are two highly effective techniques for addressing that gap between code that uses the latest stable features in the language and the old environments a site or application needs to still support. Since JS isn’t going to stop improving, the gap will never go away. Both techniques should be embraced as a standard part of every JS project’s production chain going forward.
-==========
-You Don't Know JS Yet: Get Started (Simpson, Kyle)
-- Your Highlight on page 44 | location 566-567 | Added on Thursday, 6 May 2021 05:45:13
-
-Since JS treats files as programs, one file may fail (during parse/compile or execution) and that will not necessarily prevent the next file from being processed.
-==========
-You Don't Know JS Yet: Get Started (Simpson, Kyle)
-- Your Highlight on page 83 | location 1353-1354 | Added on Monday, 10 May 2021 08:21:59
-
-Closure is when a function remembers and continues to access variables from outside its scope, even when the function is executed in a different scope.
-==========
 In a Grove (with linked TOC) (Akutagawa, Ry?nosuke)
 - Your Highlight at location 76-78 | Added on Wednesday, 12 May 2021 04:17:57
 
