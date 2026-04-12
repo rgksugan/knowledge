@@ -38,6 +38,10 @@ by [[Kent Beck]]
 > Software development is full of the waste of overproduction: fat requirements documents that rapidly grow obsolete; elaborate architectures that are never used; code that goes months without being integrated, tested, and executed in a production environment; and documentation no one reads until it is irrelevant or misleading. While all of these activities are important to software development, we need to use their output immediately in order to get the feedback we need to eliminate waste.
 
 
+> Time and costs are generally set outside the project. That leaves quality as the only variable you can manipulate. Lowering the quality of your work doesn’t eliminate work, it just shifts it later so delays are not clearly your responsibility. You can create the illusion of progress this way, but you pay in reduced satisfaction and damaged relationships. Satisfaction comes from doing quality work.
+
+> Defects destroy the trust required for effective software development. The customers need to be able to trust the software. The managers need to be able to trust reports of progress. The programmers need to be able to trust each other. Defects destroy this trust. Without trust, people spend much of their time defending themselves against the possibility that someone else may have made a mistake.
+
 ## Bibliography
 * [[Wabi-Sabi]]
 * [[Philosophy in the Flesh]]

@@ -1084,16 +1084,6 @@ Thiruppi Adippaen (Tamil) (Seeman)
 
 சோம்பலும் ஓய்வும் தற்கொலைக்குச் சமம்!
 ==========
-Extreme Programming Explained (Beck, Kent)
-- Your Highlight at location 1601-1604 | Added on Friday, 2 April 2021 07:32:47
-
-Time and costs are generally set outside the project. That leaves quality as the only variable you can manipulate. Lowering the quality of your work doesn’t eliminate work, it just shifts it later so delays are not clearly your responsibility. You can create the illusion of progress this way, but you pay in reduced satisfaction and damaged relationships. Satisfaction comes from doing quality work.
-==========
-Extreme Programming Explained (Beck, Kent)
-- Your Highlight at location 1672-1675 | Added on Sunday, 4 April 2021 21:57:59
-
-Defects destroy the trust required for effective software development. The customers need to be able to trust the software. The managers need to be able to trust reports of progress. The programmers need to be able to trust each other. Defects destroy this trust. Without trust, people spend much of their time defending themselves against the possibility that someone else may have made a mistake.
-==========
 In a Grove (with linked TOC) (Akutagawa, Ry?nosuke)
 - Your Highlight at location 76-78 | Added on Wednesday, 12 May 2021 04:17:57
 
