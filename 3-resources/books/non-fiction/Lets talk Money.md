@@ -13,6 +13,14 @@ by [[Monika Halan]]
 
 > Do not invest in things you do not understand.
 
+> You need a basic cover of Rs 3–15 lakhs per person. Use the Rs 3 lakh number for smaller towns and less posh facilities, and the Rs 15 lakh number for metros and all the bells and whistles. For a nuclear family it makes sense to get a product called a ‘family floater’ that allows the insurance cover to whichever member of the family that needs it.
+
+> One, ensure that you have a policy that does not have something called a ‘co-pay’ clause. Two, check for a ‘pre-existing’ disease clause. Three, check if your policy has a ‘disease waiting period’. Four, check if your policy has ‘sub-limits’. Five, check for exclusions. Six, ask how much of the costs before and after hospitalization the policy will cover. Seven, ask for a list of ‘day-care’ procedures that don’t need you to stay for twenty-four hours in a hospital any more. Eight, look at the ‘no-claims bonus’ feature.
+
+> Ask the agents these questions on claims before you buy. One, how many claims does the company settle? Out of 100, if the company’s claims history does not settle more than ninety-five claims, don’t buy from the firm. Claims are a tricky area because the companies club together group and individual claims data. Group claims get paid far more than individual claims. Ideally the disclosure on claims should be product-wise and not clubbed as one big number.
+
+> Be careful of firms that give data on complaints as a percentage of policies sold. What is relevant is how many people, how many made a claim, then how many went on to complain. This number should be low in the policy you finally choose.
+
 ## Notes
 * Have a three account system that separates your income, spending and savings.
 * Your spending is not more than 45% of your take home income.
