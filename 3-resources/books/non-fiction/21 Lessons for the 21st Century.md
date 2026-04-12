@@ -60,3 +60,17 @@ by [[Yuval Noah Harari]]
 > In practice, the power of human cooperation depends on a delicate balance between truth and fiction.
 
 > Truth and power can travel together only so far. Sooner or later they go their separate ways. If you want power, at some point you will have to spread fictions. If you want to know the truth about the world, at some point you will have to renounce power.
+
+## Contents
+
+## The Book in 3 Sentences
+
+## Who Should Read It?
+
+## My Top 3 Quotes
+
+## Abbreviations
+
+## Characters
+
+## Bibliography
