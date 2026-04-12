@@ -3094,70 +3094,10 @@ Kaaval Kottam  (Tamil) (S.Venkatesan)
 
 வேட்டையின் முக்கியமான தருணமே நாய் ஜீவாத்தியைப் பிடித்தவுடன் நாயிடமிருந்து அதனைப் பறிப்பதுதான்.
 ==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 26 | location 425-429 | Added on Thursday, 26 August 2021 10:35:16
-
-In general, for any software service or system, 100% is not the right reliability target because no user can tell the difference between a system being 100% available and 99.999% available. There are many other systems in the path between user and service (their laptop, their home WiFi, their ISP, the power grid…) and those systems collectively are far less than 99.999% available. Thus, the marginal difference between 99.999% and 100% gets lost in the noise of other unavailability, and the user receives no benefit from the enormous effort required to add that last 0.001% of availability.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 27 | location 443-444 | Added on Thursday, 26 August 2021 10:37:46
-
-Monitoring is one of the primary means by which service owners keep track of a system’s health and availability.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 62 | location 1092-1094 | Added on Friday, 27 August 2021 19:59:59
-
-User-facing serving systems, such as the Shakespeare search frontends, generally care about availability, latency, and throughput. In other words: Could we respond to the request? How long did it take to respond? How many requests could be handled?
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 62 | location 1094-1095 | Added on Friday, 27 August 2021 20:01:16
-
-Storage systems often emphasize latency, availability, and durability. In other words: How long does it take to read or write data? Can we access the data on demand? Is the data still there when we need it?
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 62 | location 1096-1098 | Added on Friday, 27 August 2021 20:01:32
-
-Big data systems, such as data processing pipelines, tend to care about throughput and end-to-end latency. In other words: How much data is being processed? How long does it take the data to progress from ingestion to completion? (Some pipelines may also have targets for latency on individual processing stages.)
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 62 | location 1103-1108 | Added on Friday, 27 August 2021 20:06:09
-
-Many indicator metrics are most naturally gathered on the server side, using a monitoring system such as Borgmon (see Chapter 10) or Prometheus, or with periodic log analysis — for instance, HTTP 500 responses as a fraction of all requests. However, some systems should be instrumented with client-side collection, because not measuring behavior at the client can miss a range of problems that affect users but don’t affect server-side metrics. For example, concentrating on the response latency of the Shakespeare search backend might miss poor user latency due to problems with the page’s JavaScript: in this case, measuring how long it takes for a page to become usable in the browser is a better proxy for what the user actually experiences.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 65 | location 1148-1150 | Added on Friday, 27 August 2021 20:17:37
-
-Start by thinking about (or finding out!) what your users care about, not what you can measure. Often, what your users care about is difficult or impossible to measure, so you’ll end up approximating users’ needs in some way. However, if you simply start with what’s easy to measure, you’ll end up with less useful SLOs.
-==========
 Free Country: A Penniless Adventure the Length of Britain (Mahood, George)
 - Your Highlight on page 70 | location 1227-1228 | Added on Sunday, 29 August 2021 00:55:15
 
 I was doing my army training regime every morning; 100 press-ups, 100 sit-ups and 40 chin-ups.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 85 | location 1527-1529 | Added on Tuesday, 31 August 2021 08:07:35
-
-These questions reflect a fundamental philosophy on pages and pagers: Every time the pager goes off, I should be able to react with a sense of urgency. I can only react with a sense of urgency a few times a day before I become fatigued.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 85 | location 1527-1531 | Added on Tuesday, 31 August 2021 08:07:43
-
-These questions reflect a fundamental philosophy on pages and pagers: Every time the pager goes off, I should be able to react with a sense of urgency. I can only react with a sense of urgency a few times a day before I become fatigued.  Every page should be actionable.  Every page response should require intelligence. If a page merely merits a robotic response, it shouldn’t be a page.  Pages should be about a novel problem or an event that hasn’t been seen before.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 81 | location 1441-1442 | Added on Tuesday, 31 August 2021 08:10:07
-
-The four golden signals of monitoring are latency, traffic, errors, and saturation. If you can only measure four metrics of your user-facing system, focus on these four.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 91 | location 1636-1637 | Added on Tuesday, 31 August 2021 12:36:04
-
-The later in the product lifecycle a problem is discovered, the more expensive it is to fix.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 93 | location 1679-1681 | Added on Tuesday, 31 August 2021 12:43:54
-
-In the industry, automation is the term generally used for writing code to solve a wide variety of problems, although the motivations for writing this code, and the solutions themselves, are often quite different. More broadly, in this view, automation is “meta-software” — software to act on software.
 ==========
 The Brain (Eagleman, David)
 - Your Highlight on page 10 | location 60-63 | Added on Wednesday, 1 September 2021 13:19:50
@@ -3254,46 +3194,6 @@ Kaaval Kottam  (Tamil) (S.Venkatesan)
 
 காவலும் களவும் மிக நெருக்கமான இணைகோடுகள். எந்த நேரத்திலும் ஒன்றை இன்னொன்றாக மாற்றமுடியும்.
 ==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 203 | location 3579-3582 | Added on Monday, 6 September 2021 14:42:50
-
-An unreviewed postmortem might as well never have existed. To ensure that each completed draft is reviewed, we encourage regular review sessions for postmortems. In these meetings, it is important to close out any ongoing discussions and comments, to capture ideas, and to finalize the state.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 203 | location 3574-3576 | Added on Monday, 6 September 2021 14:43:11
-
-Once the initial review is complete, the postmortem is shared more broadly, typically with the larger engineering team or on an internal mailing list. Our goal is to share postmortems to the widest possible audience that would benefit from the knowledge or lessons imparted.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 204 | location 3589-3592 | Added on Monday, 6 September 2021 14:44:40
-
-In the spirit of nurturing the postmortem culture, SREs proactively create activities that disseminate what we learn about system infrastructure. Some example activities include: Postmortem of the month In a monthly newsletter, an interesting and well-written postmortem is shared with the entire organization.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 204 | location 3589-3601 | Added on Monday, 6 September 2021 14:45:19
-
-In the spirit of nurturing the postmortem culture, SREs proactively create activities that disseminate what we learn about system infrastructure. Some example activities include: Postmortem of the month In a monthly newsletter, an interesting and well-written postmortem is shared with the entire organization. Google+ postmortem group This group shares and discusses internal and external postmortems, best practices, and commentary about postmortems. Postmortem reading clubs Teams host regular postmortem reading clubs, in which an interesting or impactful postmortem is brought to the table (along with some tasty refreshments) for an open dialogue with participants, nonparticipants, and new Googlers about what happened, what lessons the incident imparted, and the aftermath of the incident. Often, the postmortem being reviewed is months or years old! Wheel of Misfortune New SREs are often treated to the Wheel of Misfortune exercise (see “Disaster Role Playing”), in which a previous postmortem is reenacted with a cast of engineers playing roles as laid out in the postmortem. The original incident commander attends to help make the experience as “real” as possible.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 214 | location 3753-3754 | Added on Monday, 6 September 2021 16:14:02
-
-One key responsibility of Site Reliability Engineers is to quantify confidence in the systems they maintain.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 215 | location 3772-3773 | Added on Monday, 6 September 2021 16:23:57
-
-Passing a test or a series of tests doesn’t necessarily prove reliability. However, tests that are failing generally prove the absence of reliability.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 223 | location 3938-3939 | Added on Monday, 6 September 2021 17:05:11
-
-Remember that not all software is created equal. Life-critical or revenue-critical systems demand substantially higher levels of test quality and coverage than a non-production script with a short shelf life.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 249 | location 4438-4440 | Added on Tuesday, 7 September 2021 19:46:12
-
-Don’t wait for the perfect design; rather, keep the overall vision in mind while moving ahead with design and development. When you encounter areas of uncertainty, design the software to be flexible enough so that if process or strategy changes at a higher level, you don’t incur a huge rework cost.
-==========
 CASTES AND TRIBES OF SOUTHERN INDIA: Vol. 1 – 7 [ALL SEVEN VOLUMES COMBINED] (Thurston, Edgar)
 - Your Highlight on page 2296 | location 43048-43049 | Added on Wednesday, 8 September 2021 23:40:05
 
@@ -3340,31 +3240,6 @@ Let's Talk Money (Halan, Monika)
 - Your Highlight on page 46 | location 598-600 | Added on Monday, 13 September 2021 07:38:10
 
 Be careful of firms that give data on complaints as a percentage of policies sold. What is relevant is how many people, how many made a claim, then how many went on to complain. This number should be low in the policy you finally choose.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 472 | location 8285-8288 | Added on Tuesday, 21 September 2021 22:16:12
-
-In order to limit your distractibility, you should try to minimize context switches. Some interrupts are inevitable. However, viewing an engineer as an interruptible unit of work, whose context switches are free, is suboptimal if you want people to be happy and productive. Assign a cost to context switches. A 20-minute interruption while working on a project entails two context switches; realistically, this interruption results in a loss of a couple hours of truly productive work.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 472 | location 8290-8293 | Added on Tuesday, 21 September 2021 22:17:12
-
-Polarizing time means that when a person comes into work each day, they should know if they’re doing just project work or just interrupts. Polarizing their time in this way means they get to concentrate for longer periods of time on the task at hand. They don’t get stressed out because they’re being roped into tasks that drag them away from the work they’re supposed to be doing.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 473 | location 8304-8305 | Added on Tuesday, 21 September 2021 22:18:21
-
-A person should never be expected to be on-call and also make progress on projects (or anything else with a high context switching cost).
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 479 | location 8406-8407 | Added on Tuesday, 21 September 2021 23:07:29
-
-People might ignore problems for months at a time because they believe the new solution that’s on the horizon obviates temporary fixes.
-==========
-Site Reliability Engineering (Murphy, Niall Richard)
-- Your Highlight on page 479 | location 8408-8410 | Added on Tuesday, 21 September 2021 23:07:52
-
-Such alerts are frequently triaged as transient, but still distract your teammates from fixing real problems. Either investigate such alerts fully, or fix the alerting rules.
 ==========
 Nilam Poothu Malarntha Naal: நிலம் பூத்து மலர்ந்த நாள் (Tamil Edition) (Kuroor, Manoj)
 - Your Highlight at location 842-846 | Added on Wednesday, 22 September 2021 07:33:40
