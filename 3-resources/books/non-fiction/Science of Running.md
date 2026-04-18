@@ -10,6 +10,7 @@ sub-title: Analyze your Technique, Prevent Injury, Revolutionize your Training
 by [[Chris Napier]]
 
 ## Highlights
+> Parathyroid regulates blood calcium.
 
 ## Contents
 
@@ -22,7 +23,7 @@ by [[Chris Napier]]
 ## Abbreviations
 * GRF - Ground Reaction Force
 * COM - Center of Mass
-
-## Characters
+* PNS - Peripheral Nervous System
+* ANS - Autonomic Nervous System
 
 ## Bibliography

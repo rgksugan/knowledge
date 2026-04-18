@@ -58,7 +58,53 @@ by [[Edmond Lau]]
 
 > At work, we can easily fall into an endless cycle of hitting the next deadline: getting the next thing done, shipping the next new feature, clearing the next bug in our backlog, and responding to the next issue in the never-ending stream of customer requests. We might have ideas for tools we could build to make our lives a bit easier, but the long-term value of those tools is hard to quantify. On the other hand, the short-term costs of a slipped deadline or a product manager breathing down our necks and asking when something will get done are fairly concrete.
 
+> LinkedIn co-founder Reid Hoffman suggests treating yourself like a startup.
+
+> Learning compounds like interest. The more you learn, the easier it is to apply prior insights and lessons to learn new things.
+
+> Not all of your learning will necessarily relate to engineering skills, but being a happier and better learner will help you become a more effective engineer in the long run.
+
+> Lucky people dramatically increase the possibility of a lucky chance encounter by meeting a large number of people in their daily lives. The more people they meet, the greater opportunity they have of running into someone who could have a positive effect on their lives.
+
+> Books offer a way for you to learn from the lessons and mistakes of others: you can re-apply that knowledge without having to start from scratch.
+
+> To invest in your own growth, you should carve out your own 20% time. It’s more effective to take it in one- or two-hour chunks each day rather than in one full day each week, because you can then make a daily habit out of improving your skills.
+
+> Don’t leave getting assigned to a strong or subpar team to the luck of the draw.
+
+> Who you work with can matter more than what you actually do, in terms of your career growth and work happiness.
+
+> Surrounding yourself with people who are smarter, more talented, and more creative than you means surrounding yourself with potential teachers and mentors.
+
+> A work environment that iterates quickly provides a faster feedback cycle and enables you to learn at a faster rate. Lengthy release cycles, formalized product approvals, and indecisive leadership slow down iteration speed; automation tools, lightweight approval processes, and a willingness to experiment accelerate progress.
+
+> What is the weekly or monthly growth rates of core business metrics (e.g., active users, annual recurring revenue, products sold, etc.)?
+
+> The growth also makes it easier to attract strong talent and build a strong team, which feeds back to generate even more growth. A lack of growth, on the other hand, leads to stagnation and politics. Employees might squabble over limited opportunities, and it becomes harder to find and retain talent.
+
+> At fast-growing teams and companies, the number of problems to solve exceeds available resources, providing ample opportunities to make a big impact and to increase your responsibilities.
+
+> Because we spend so much of our time at work, one of the most powerful leverage points for increasing our learning rate is our choice of work environment.
+
+> When companies pay you for cushy and unchallenging 9-to-5 jobs, what they are actually doing is paying you to accept a much lower intellectual growth rate.
+
+> When we spend our work hours on unchallenging tasks, we’re not just boring ourselves and missing out on chances to learn— we’re also paying a huge opportunity cost in terms of our future growth and learning.
+
 ## Contents
+### Focus on High-Leverage Activities
+#### Use Leverage as Your Yardstick for Effectiveness
+#### Increase Your Leverage in Three Ways
+* Reduce the time it takes to complete a certain activity
+* Increase the output of a particular activity
+* Shifting to higher-leverage activities
+#### Direct Energy Toward Leverage Points, Not Just Easy Wins
+
+### Optimize for Learning
+#### Adopt a Growth Mindset
+#### Invest in Your Rate of Learnings
+#### Seek Work Environments Conductive to Learning
+#### Dedicate Time on the Job to Develop New Skills
+#### Always Be Learning
 
 ## The Book in 3 Sentences
 
@@ -68,3 +114,8 @@ by [[Edmond Lau]]
 
 ## Bibliography
 * High Output Management
+* Delivering Happiness
+* [[Mindset]]
+
+
+[Mindset]: Mindset "Mindset"
