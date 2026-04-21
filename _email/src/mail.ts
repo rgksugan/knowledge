@@ -31,7 +31,7 @@ const generateHTML = (highlights: Highlight[]) => {
             <tbody>
               <tr>
                 <td align="left" style="font-size:0px;padding:10px 25px 5px 25px;word-break:break-word;">
-                  <div style="font-family:lucida Grande,Verdana,Microsoft YaHei;font-size:18px;line-height:1.7;text-align:left;color:#5e5e5e;"><a href="${high.bookLink}" style="color:#5e5e5e;text-decoration:underline;" target="_blank">${high.bookTitle}</a></div>
+                  <div style="font-family:lucida Grande,Verdana,Microsoft YaHei;font-size:18px;line-height:1.7;text-align:left;color:#5e5e5e;"><a href="${high.bookLink}" style="color:#4a7c8a;text-decoration:none;" target="_blank">${high.bookTitle}</a></div>
                 </td>
               </tr>
               <tr>
@@ -172,48 +172,7 @@ const generateHTML = (highlights: Highlight[]) => {
                       </tbody>
                     </table>
                   </div>
-                  <div style="margin:0px auto;max-width:600px;">
-                    <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;">
-                      <tbody>
-                        <tr>
-                          <td style="direction:ltr;font-size:0px;padding:0px;text-align:left;">
-                            <div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;">
-                              <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%">
-                                <tbody>
-                                  <tr>
-                                    <td align="center" style="font-size:0px;padding:5px 25px 5px 25px;word-break:break-word;">
-                                      <table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;">
-                                        <tbody>
-                                          <tr>
-                                            <td style="padding:4px 4px 4px 4px;vertical-align:middle;">
-                                              <table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-radius:3px;width:20px;">
-                                                <tbody>
-                                                  <tr>
-                                                    <td style="padding:0px;font-size:0;height:20px;vertical-align:middle;width:20px;">
-                                                      <a href="https://github.com/tnmyk/remind-kindle" target="_blank">
-                                                        <img height="20" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="border-radius:3px;display:block;" width="20" />
-                                                      </a>
-                                                    </td>
-                                                  </tr>
-                                                </tbody>
-                                              </table>
-                                            </td>
-                                            <td style="vertical-align:middle;padding:4px 4px 4px 0px;">
-                                              <a href="https://github.com/tnmyk/remind-kindle" style="color:#333333;font-size:13px;font-weight:normal;font-family:lucida Grande,Verdana,Microsoft YaHei;line-height:22px;text-decoration:none;" target="_blank"> Github </a>
-                                            </td>
-                                          </tr>
-                                        </tbody>
-                                      </table>
-                                    </td>
-                                  </tr>
-                                </tbody>
-                              </table>
-                            </div>
-                          </td>
-                        </tr>
-                      </tbody>
-                    </table>
-                  </div>
+
                 </td>
               </tr>
             </tbody>
