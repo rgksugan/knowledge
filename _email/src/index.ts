@@ -1,10 +1,13 @@
 import fs from "fs/promises";
 import path from "path";
+import slugify from "slugify";
 
 import { NO_OF_HIGHLIGHTS } from "./env";
 import { getRandomHighlight } from "./highlights";
 import { email } from "./mail";
 import { Highlight } from "./types";
+
+const SITE_BASE_URL = "https://rgksugan.github.io/knowledge";
 
 const run = async () => {
   console.log(`[${new Date().toISOString()}] Starting email script`);
@@ -64,13 +67,15 @@ const run = async () => {
     const highLight = await getRandomHighlight(filePath);
 
     if (highLight && highLight.content) {
+      const slugifiedName = slugify(path.parse(randomFile).name);
+      const bookLink = `${SITE_BASE_URL}/3-resources/books/${subdir}/${slugifiedName}`;
       console.log(
         `✓ Got highlight from ${subdir}/${randomFile}: "${highLight.content?.substring(
           0,
           50
         )}..."`
       );
-      highLightsToMail.push(highLight);
+      highLightsToMail.push({ ...highLight, bookLink });
     } else {
       console.log(`✗ No highlight found in ${subdir}/${randomFile}`);
     }

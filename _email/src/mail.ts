@@ -31,7 +31,7 @@ const generateHTML = (highlights: Highlight[]) => {
             <tbody>
               <tr>
                 <td align="left" style="font-size:0px;padding:10px 25px 5px 25px;word-break:break-word;">
-                  <div style="font-family:lucida Grande,Verdana,Microsoft YaHei;font-size:18px;line-height:1.7;text-align:left;color:#5e5e5e;">${high.bookTitle}</div>
+                  <div style="font-family:lucida Grande,Verdana,Microsoft YaHei;font-size:18px;line-height:1.7;text-align:left;color:#5e5e5e;"><a href="${high.bookLink}" style="color:#5e5e5e;text-decoration:underline;" target="_blank">${high.bookTitle}</a></div>
                 </td>
               </tr>
               <tr>
