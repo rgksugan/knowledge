@@ -14,6 +14,9 @@ by [[Chris Napier]]
 
 ## Contents
 
+## Notes
+* When you are running in a hot environment, your body needs to be cooled down. To do that your blood flow goes towards the skin reducing the blood flow from the muscles where it is required during running.
+
 ## The Book in 3 Sentences
 
 ## Who Should Read It?
@@ -25,5 +28,8 @@ by [[Chris Napier]]
 * COM - Center of Mass
 * PNS - Peripheral Nervous System
 * ANS - Autonomic Nervous System
+* CNS - Central Nervous System
+* GH - Growth Hormone
+* WBGI - Wet Bulb Global Temperature - Check for this if you think the temperature is high for an outdoor activity.
 
 ## Bibliography
