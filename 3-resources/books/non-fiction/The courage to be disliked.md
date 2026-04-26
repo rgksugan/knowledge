@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, self-help
 type: book
 author: Ichiro Kishimi
 title: The courage to be disliked

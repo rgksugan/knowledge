@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, self-help
 type: book
 author: Harvard Business Review
 title: HBR's 10 Must Reads on Managing Yourself

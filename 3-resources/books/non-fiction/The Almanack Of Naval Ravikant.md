@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, self-help
 type: book
 author: Eric Jorgenson
 title: The Almanack Of Naval Ravikant

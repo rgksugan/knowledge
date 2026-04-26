@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, self-help
 type: book
 author: Richard Carlson
 title: Don't Sweat the Small Stuff ... and it's all small stuff
