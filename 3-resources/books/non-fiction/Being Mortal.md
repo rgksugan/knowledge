@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, science
 type: book
 author: Atul Gawande
 title: Being Mortal

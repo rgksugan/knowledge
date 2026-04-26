@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, science
 type: book
 author: Jonny Bowden
 title: The Great Cholesterol Myth

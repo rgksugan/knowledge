@@ -1,5 +1,5 @@
 ---
-tags: non-fiction science
+tags: non-fiction, science
 type: book
 ---
 

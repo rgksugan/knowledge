@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, science
 type: book
 author: Mary Roach
 title: Stiff

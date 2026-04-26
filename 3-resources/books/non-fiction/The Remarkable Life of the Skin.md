@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, science
 type: book
 author: Monty Lyman
 title: The Remarkable Life of the Skin

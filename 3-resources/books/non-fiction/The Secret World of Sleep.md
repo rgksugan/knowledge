@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, science
 type: book
 author: Dr Guy Leschziner
 title: The Secret World of Sleep

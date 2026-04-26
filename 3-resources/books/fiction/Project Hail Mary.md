@@ -1,5 +1,5 @@
 ---
-tags: fiction
+tags: fiction, science
 type: book
 author: Andy Weir
 title: Project Hail Mary
