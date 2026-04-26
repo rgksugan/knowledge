@@ -1,5 +1,5 @@
 ---
-tags: fiction, tamil
+tags: fiction, tamil, mythology
 type: book
 author: A.K. Perumal
 title: அகிலத்திரட்டு அம்மானை

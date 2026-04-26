@@ -1,5 +1,5 @@
 ---
-tags: fiction
+tags: fiction, mythology
 type: book
 author: Volga
 title: The Liberation of Sita
