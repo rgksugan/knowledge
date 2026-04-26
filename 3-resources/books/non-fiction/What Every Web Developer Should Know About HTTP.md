@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, technology
 type: book
 author: K. Scott Allen
 title: What Every Web Developer Should Know About HTTP

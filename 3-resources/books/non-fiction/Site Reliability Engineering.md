@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, technology
 type: book
 author: Niall Richard Murphy, Betsy Beyer, Chris Jones, Jennifer Petoff
 title: Site Reliability Engineering

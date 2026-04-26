@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, technology
 type: book
 author: Jez Humble, David Farley
 title: Continuous Delivery

@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, technology
 type: book
 author: Sara Wachter-Boettcher
 title: Technically Wrong

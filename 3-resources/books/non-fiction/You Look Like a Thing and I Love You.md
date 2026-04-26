@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, technology
 type: book
 author: Janelle Shane
 title: You Look Like a Thing and I Love You

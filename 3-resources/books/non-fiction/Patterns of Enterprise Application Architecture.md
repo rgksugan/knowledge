@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, technology
 type: book
 author: Martin Fowler
 title: Patterns of Enterprise Application Architecture

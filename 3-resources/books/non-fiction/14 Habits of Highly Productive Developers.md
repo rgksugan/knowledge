@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, technology
 type: book
 author: Zeno Rocha
 title: 14 Habits of Highly Productive Developers

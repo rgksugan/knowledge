@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, technology
 type: book
 author: Martin Kleppmann
 title: Designing Data-Intensive Applications

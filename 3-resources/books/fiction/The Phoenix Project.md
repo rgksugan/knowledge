@@ -1,5 +1,5 @@
 ---
-tags: fiction
+tags: fiction, technology
 type: book
 author: Gene Kim, Kevin Behr and George Spafford
 title: The Phoenix Project

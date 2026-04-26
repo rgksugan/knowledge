@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, technology
 type: book
 author: John Ousterhout
 title: A Philosophy of Software Design

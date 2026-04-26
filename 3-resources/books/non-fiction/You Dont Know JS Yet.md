@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, technology
 type: book
 author: Kyle Simpson
 title: You Don't Know JS Yet
