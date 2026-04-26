@@ -1,0 +1,5 @@
+---
+tags: author
+---
+
+# Thomas Piketty

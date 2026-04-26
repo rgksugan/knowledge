@@ -1,0 +1,5 @@
+---
+tags: author
+---
+
+# Edgar Thurston

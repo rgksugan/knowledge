@@ -1,0 +1,5 @@
+---
+tags: author
+---
+
+# Mitch Albom
