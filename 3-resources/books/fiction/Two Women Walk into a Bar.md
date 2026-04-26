@@ -1,5 +1,5 @@
 ---
-tags: fiction
+tags: fiction, short-stories
 type: book
 author: Cheryl Strayed
 title: Two Women Walk into a Bar

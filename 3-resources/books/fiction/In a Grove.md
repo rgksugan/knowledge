@@ -1,5 +1,5 @@
 ---
-tags: fiction
+tags: fiction, short-stories
 type: book
 author: Ryunosuke Akutagawa
 title: In a Grove

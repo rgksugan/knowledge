@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: fiction, tamil, short-stories
 type: book
 author: கி. ராஜநாராயணன்
 title: மிச்சக் கதைகள்

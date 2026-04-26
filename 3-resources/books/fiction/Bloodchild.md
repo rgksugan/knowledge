@@ -1,5 +1,5 @@
 ---
-tags: fiction
+tags: fiction, short-stories
 type: book
 author: Octavia E. Butler
 title: Bloodchild

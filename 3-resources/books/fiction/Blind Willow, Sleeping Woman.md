@@ -1,5 +1,5 @@
 ---
-tags: fiction
+tags: fiction, short-stories
 type: book
 author: Haruki Murakami
 title: Blind Willow, Sleeping Woman
