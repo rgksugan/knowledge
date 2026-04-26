@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, design
 type: book
 author: Matthew Frederick
 title: 101 Things I Learned in Architecture School

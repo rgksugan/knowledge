@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, design
 type: book
 author: Williams Robin
 title: Non Designers Design Book

@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, design
 type: book
 author: Scott Berkun
 title: How Design Makes the World
