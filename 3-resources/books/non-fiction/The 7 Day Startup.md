@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, leadership
 type: book
 author: Dan Norris
 title: The 7 Day Startup

@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, leadership
 type: book
 author: Tanya Reilly
 title: The Staff Engineers Path

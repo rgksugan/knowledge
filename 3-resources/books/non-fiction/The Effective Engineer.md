@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, technology, leadership
 type: book
 author: Edmond Lau
 title: The Effective Engineer

@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, leadership
 type: book
 author: Will Larson
 title: Staff Engineer

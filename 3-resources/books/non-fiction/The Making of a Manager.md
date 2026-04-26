@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, leadership
 type: book
 author: Julie Zhuo
 title: The Making of a Manager

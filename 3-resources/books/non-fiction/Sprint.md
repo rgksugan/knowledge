@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, leadership
 type: book
 author: Jake Knapp, Braden Kowitz & John Zeratsky
 title: Sprint
