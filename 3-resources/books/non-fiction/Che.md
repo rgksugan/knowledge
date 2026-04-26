@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, biography
 type: book
 author: Jon Lee Anderson
 title: Che

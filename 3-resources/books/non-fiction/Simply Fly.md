@@ -1,5 +1,5 @@
 ---
-tags: non-fiction, travel
+tags: non-fiction, travel, biography
 type: book
 author: G.R. Gopinath
 title: Simply Fly

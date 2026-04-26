@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, biography
 type: book
 author: Shantanu Naidu
 title: I Came Upon a Lighthouse

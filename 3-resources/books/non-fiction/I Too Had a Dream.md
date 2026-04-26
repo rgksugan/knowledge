@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, biography
 type: book
 author: Verghese Kurien
 title: I Too Had a Dream
