@@ -1,5 +1,5 @@
 ---
-tags: fiction
+tags: fiction, japanese
 type: book
 author: Haruki Murakami
 title: South of the Border, West of the Sun

@@ -1,5 +1,5 @@
 ---
-tags: fiction
+tags: fiction, japanese
 type: book
 author: Haruki Murakami
 title: Norwegian Wood

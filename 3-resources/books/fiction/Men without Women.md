@@ -1,5 +1,5 @@
 ---
-tags: fiction, short-stories
+tags: fiction, short-stories, japanese
 type: book
 author: Haruki Murakami
 title: Men without Women
