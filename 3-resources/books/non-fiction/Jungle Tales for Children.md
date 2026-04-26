@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, wildlife
 type: book
 author: Kenneth Anderson
 title: Jungle Tales for Children

@@ -1,5 +1,5 @@
 ---
-tags: fiction
+tags: fiction, wildlife
 type: book
 author: Jeyamohan
 title: Yaanai Doctor

@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, wildlife
 type: book
 author: Jim Corbett
 title: The Man-eating Leopard of Rudraprayag

@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, wildlife
 type: book
 author: Dave Canterbury
 title: Bushcraft 101
