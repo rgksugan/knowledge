@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, politics
 type: book
 author: Murray Rothbard
 title: Anatomy of the State

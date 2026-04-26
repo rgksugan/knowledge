@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, politics
 type: book
 author: Vladimir Ilyich Lenin
 title: Imperialism, the Highest Stage of Capitalism

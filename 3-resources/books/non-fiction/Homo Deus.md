@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, politics
 type: book
 author: Yuval Noah Harari
 title: Homo Deus

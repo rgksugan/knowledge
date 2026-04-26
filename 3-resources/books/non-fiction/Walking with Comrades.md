@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, politics
 type: book
 author: Arundhati Roy
 title: Walking with Comrades

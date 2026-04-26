@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, politics
 type: book
 author: Yanis Varoufakis
 title: Talking to My Daughter
