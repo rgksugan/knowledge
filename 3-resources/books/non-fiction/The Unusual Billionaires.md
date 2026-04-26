@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, finance
 type: book
 author: Saurabh Mukherjea
 title: The Unusual Billionaires

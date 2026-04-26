@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, finance
 type: book
 author: Nick Maggiulli
 title: Just Keep Buying

@@ -1,5 +1,5 @@
 ---
-tags: fiction
+tags: non-fiction, finance
 type: book
 author: Peter Lynch
 title: Learn to Earn

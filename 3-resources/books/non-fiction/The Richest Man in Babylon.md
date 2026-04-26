@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, finance
 type: book
 author: George S. Clason
 title: The Richest Man in Babylon
