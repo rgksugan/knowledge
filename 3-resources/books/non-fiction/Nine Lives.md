@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, travel
 type: book
 author: William Dalrymple
 title: Nine Lives

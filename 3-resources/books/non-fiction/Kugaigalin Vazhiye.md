@@ -1,5 +1,5 @@
 ---
-tags: non-fiction, tamil
+tags: non-fiction, tamil, travel
 type: book
 author: Jeyamohan
 title: குகைகளின் வழியே / Kugaigalin Vazhiye

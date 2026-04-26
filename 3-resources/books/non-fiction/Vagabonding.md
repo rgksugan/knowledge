@@ -1,5 +1,5 @@
 ---
-tags: non-fiction
+tags: non-fiction, travel
 type: book
 author: Rolf Potts
 title: Vagabonding
