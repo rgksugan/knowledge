@@ -74,7 +74,12 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
             if (data.title != null && data.title.toString() !== "") {
               data.title = data.title.toString()
             } else {
-              data.title = file.stem ?? i18n(cfg.configuration.locale).propertyDefaults.title
+              // Extract title from first h1 in content, fallback to filename
+              const content = fileData.toString()
+              const h1Match = content.match(/^#\s+(.+)$/m)
+              data.title = h1Match
+                ? h1Match[1].trim()
+                : (file.stem ?? i18n(cfg.configuration.locale).propertyDefaults.title)
             }
 
             const tags = coerceToArray(coalesceAliases(data, ["tags", "tag"]))
@@ -125,6 +130,17 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
 
             // fill in frontmatter
             file.data.frontmatter = data as QuartzPluginData["frontmatter"]
+          }
+        },
+        // Remove the first h1 from content to avoid duplicate title
+        () => {
+          return (tree: any) => {
+            const h1Index = tree.children.findIndex(
+              (node: any) => node.type === "heading" && node.depth === 1,
+            )
+            if (h1Index !== -1) {
+              tree.children.splice(h1Index, 1)
+            }
           }
         },
       ]
