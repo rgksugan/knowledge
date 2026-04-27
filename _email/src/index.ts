@@ -9,6 +9,20 @@ import { Highlight } from "./types";
 
 const SITE_BASE_URL = "https://rgksugan.github.io/knowledge";
 
+const parseTags = async (filePath: string): Promise<string[]> => {
+  const content = await fs.readFile(filePath, "utf8");
+  const fmMatch = content.match(/^---\n([\s\S]*?)\n---/);
+  if (!fmMatch) return [];
+  const tagsLine = fmMatch[1]!
+    .split("\n")
+    .find((line) => line.startsWith("tags:"));
+  if (!tagsLine) return [];
+  return tagsLine
+    .replace("tags:", "")
+    .split(",")
+    .map((t) => t.trim().toLowerCase());
+};
+
 const run = async () => {
   console.log(`[${new Date().toISOString()}] Starting email script`);
 
@@ -16,7 +30,7 @@ const run = async () => {
   const directoryPath = "../3-resources/books/";
 
   // Collect all markdown files (both flat and in subdirectories)
-  const fileList: { file: string; subdir: string }[] = [];
+  const fileList: { file: string; subdir: string; tags: string[] }[] = [];
 
   const items = await fs.readdir(directoryPath);
   for (const item of items) {
@@ -33,14 +47,16 @@ const run = async () => {
             file.endsWith(".md") &&
             file !== "Index.md"
           ) {
-            fileList.push({ file, subdir: item });
+            const tags = await parseTags(filePath);
+            fileList.push({ file, subdir: item, tags });
           }
         }
       } catch (error) {
         console.log(`Could not read subdirectory ${item}:`, error);
       }
     } else if (stat.isFile() && item.endsWith(".md") && item !== "Index.md") {
-      fileList.push({ file: item, subdir: "" });
+      const tags = await parseTags(itemPath);
+      fileList.push({ file: item, subdir: "", tags });
     }
   }
 
@@ -49,18 +65,20 @@ const run = async () => {
     return;
   }
 
-  console.log(`Processing ${fileList.length} markdown files`);
+  const techFiles = fileList.filter((f) => f.tags.includes("technology"));
+  console.log(
+    `Processing ${fileList.length} markdown files (${techFiles.length} with technology tag)`
+  );
 
   const highLightsToMail: Highlight[] = [];
   const maxAttempts = fileList.length * 2; // Prevent infinite loop
   let attempts = 0;
 
-  while (highLightsToMail.length < NO_OF_HIGHLIGHTS && attempts < maxAttempts) {
-    attempts++;
-
-    // Select a quote from a random file
-    const randomFileIndex = Math.floor(Math.random() * fileList.length);
-    const { file: randomFile, subdir } = fileList[randomFileIndex]!;
+  const pickHighlight = async (
+    pool: typeof fileList
+  ): Promise<Highlight | null> => {
+    const randomFileIndex = Math.floor(Math.random() * pool.length);
+    const { file: randomFile, subdir } = pool[randomFileIndex]!;
     const filePath = subdir
       ? path.join(directoryPath, subdir, randomFile)
       : path.join(directoryPath, randomFile);
@@ -80,10 +98,32 @@ const run = async () => {
           50
         )}..."`
       );
-      highLightsToMail.push({ ...highLight, bookLink });
-    } else {
-      console.log(`✗ No highlight found in ${displayName}`);
+      return { ...highLight, bookLink };
     }
+    console.log(`✗ No highlight found in ${displayName}`);
+    return null;
+  };
+
+  // Guarantee at least one technology highlight
+  if (techFiles.length > 0) {
+    let techAttempts = 0;
+    while (highLightsToMail.length === 0 && techAttempts < techFiles.length * 2) {
+      techAttempts++;
+      const highlight = await pickHighlight(techFiles);
+      if (highlight) highLightsToMail.push(highlight);
+    }
+    if (highLightsToMail.length === 0) {
+      console.log("Could not find a technology highlight, continuing with random picks.");
+    }
+  } else {
+    console.log("No technology-tagged books found, skipping technology guarantee.");
+  }
+
+  // Fill remaining slots from all books
+  while (highLightsToMail.length < NO_OF_HIGHLIGHTS && attempts < maxAttempts) {
+    attempts++;
+    const highlight = await pickHighlight(fileList);
+    if (highlight) highLightsToMail.push(highlight);
   }
 
   if (attempts >= maxAttempts) {
