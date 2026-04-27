@@ -15,7 +15,7 @@ const run = async () => {
   // Directory to look for book notes
   const directoryPath = "../3-resources/books/";
 
-  // Collect all markdown files from all subdirectories
+  // Collect all markdown files (both flat and in subdirectories)
   const fileList: { file: string; subdir: string }[] = [];
 
   const items = await fs.readdir(directoryPath);
@@ -39,17 +39,17 @@ const run = async () => {
       } catch (error) {
         console.log(`Could not read subdirectory ${item}:`, error);
       }
+    } else if (stat.isFile() && item.endsWith(".md") && item !== "Index.md") {
+      fileList.push({ file: item, subdir: "" });
     }
   }
 
   if (fileList.length === 0) {
-    console.log("No markdown files found in subdirectories.");
+    console.log("No markdown files found.");
     return;
   }
 
-  console.log(
-    `Processing ${fileList.length} markdown files from subdirectories`
-  );
+  console.log(`Processing ${fileList.length} markdown files`);
 
   const highLightsToMail: Highlight[] = [];
   const maxAttempts = fileList.length * 2; // Prevent infinite loop
@@ -61,23 +61,28 @@ const run = async () => {
     // Select a quote from a random file
     const randomFileIndex = Math.floor(Math.random() * fileList.length);
     const { file: randomFile, subdir } = fileList[randomFileIndex]!;
-    const filePath = path.join(directoryPath, subdir, randomFile);
-    console.log(`Attempting to get highlight from: ${subdir}/${randomFile}`);
+    const filePath = subdir
+      ? path.join(directoryPath, subdir, randomFile)
+      : path.join(directoryPath, randomFile);
+    const displayName = subdir ? `${subdir}/${randomFile}` : randomFile;
+    console.log(`Attempting to get highlight from: ${displayName}`);
 
     const highLight = await getRandomHighlight(filePath);
 
     if (highLight && highLight.content) {
       const slugifiedName = slugify(path.parse(randomFile).name);
-      const bookLink = `${SITE_BASE_URL}/3-resources/books/${subdir}/${slugifiedName}`;
+      const bookLink = subdir
+        ? `${SITE_BASE_URL}/3-resources/books/${subdir}/${slugifiedName}`
+        : `${SITE_BASE_URL}/3-resources/books/${slugifiedName}`;
       console.log(
-        `✓ Got highlight from ${subdir}/${randomFile}: "${highLight.content?.substring(
+        `✓ Got highlight from ${displayName}: "${highLight.content?.substring(
           0,
           50
         )}..."`
       );
       highLightsToMail.push({ ...highLight, bookLink });
     } else {
-      console.log(`✗ No highlight found in ${subdir}/${randomFile}`);
+      console.log(`✗ No highlight found in ${displayName}`);
     }
   }
 
