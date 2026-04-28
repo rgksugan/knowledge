@@ -1,5 +1,5 @@
 ---
-tags: fiction
+tags: fiction, novel
 type: book
 author: T Janakiraman
 title: Moga Mul

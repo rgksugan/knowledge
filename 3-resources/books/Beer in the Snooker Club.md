@@ -1,5 +1,5 @@
 ---
-tags: fiction
+tags: fiction, novel
 type: book
 author: Ghali, Waguih
 title: Beer in the Snooker Club

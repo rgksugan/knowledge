@@ -1,5 +1,5 @@
 ---
-tags: fiction, tamil
+tags: fiction, tamil, novel
 type: book
 author: Manoj Kuroor
 title: Nilam Poothu Malarntha Naal

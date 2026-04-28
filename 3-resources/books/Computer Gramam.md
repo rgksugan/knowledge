@@ -1,5 +1,5 @@
 ---
-tags: fiction, tamil
+tags: fiction, tamil, novel
 type: book
 author: Sujatha
 title: கம்ப்யூட்டர் கிராமம் / Computer Gramam

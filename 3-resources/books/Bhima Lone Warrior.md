@@ -1,5 +1,5 @@
 ---
-tags: fiction, mythology
+tags: fiction, mythology, novel
 type: book
 author: MT Vasudevan Nair
 title: Bhima Lone Warrior

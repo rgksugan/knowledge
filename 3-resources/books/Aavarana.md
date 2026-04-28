@@ -1,5 +1,5 @@
 ---
-tags: fiction
+tags: fiction, novel
 type: book
 author: S.L. Bhyrappa
 title: Aavarana

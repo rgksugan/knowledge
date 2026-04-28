@@ -1,5 +1,5 @@
 ---
-tags: fiction, tamil
+tags: fiction, tamil, novel
 type: book
 author: MV Vengatram
 title: Kathugal

@@ -1,5 +1,5 @@
 ---
-tags: fiction, tamil
+tags: fiction, tamil, novel
 type: book
 author: Imaiyam
 title: எங் கதெ / En Kathe

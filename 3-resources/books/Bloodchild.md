@@ -20,6 +20,7 @@ by [[Octavia E. Butler]]
 ## The Book in 3 Sentences
 
 ## Who Should Read It?
+Anyone who is new to reading, drawn to short stories, or curious about science fiction. If you've ever felt like sci-fi isn't "for you," this book might change your mind.
 
 ## My Top 3 Quotes
 

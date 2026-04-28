@@ -1,9 +1,8 @@
 ---
-tags: fiction, tamil
+tags: fiction, tamil, novel
 type: book
 author: Hephzibah Jesudasan
 title: புத்தம் வீடு / Putham Veedu
-sub-title:
 ---
 
 # புத்தம் வீடு / Putham Veedu
@@ -14,21 +13,4 @@ by [[Hephzibah Jesudasan]]
 
 > பனையேற்றுத் தொழிலாளியிடம் கேட்டால் அவனே சொல்லுவான், அவன் வயிறு அவனது தெய்வம் என்று. அந்த வயிறு பனை மரத்தை நம்பியிருந்தது. பெரும்பாலும் அவன் சிந்தனை அதற்கப்புறம் ஆன்மீக விஷயங்களில் ஓடுவதில்லை.
 
-> கலியாண வீட்டிலா களைந்துபோன சாமான்களைக் கண்டுபிடிக்க முடியும்?
-
 > பேத்தியை மண்ணில் வைத்து வருஷம் இரண்டாகிறதாம். இனி அவளை யார் நினைக்கப் போகிறார்கள்? புல்லும், பூவும் போலத்தான்.
-
-
-## Contents
-
-## The Book in 3 Sentences
-
-## Who Should Read It?
-
-## My Top 3 Quotes
-
-## Abbreviations
-
-## Characters
-
-## Bibliography

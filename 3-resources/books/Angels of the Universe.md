@@ -1,5 +1,5 @@
 ---
-tags: fiction
+tags: fiction, novel
 type: book
 author: Einar Már Guðmundsson
 title: Angels of the Universe

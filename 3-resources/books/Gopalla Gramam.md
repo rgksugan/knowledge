@@ -1,5 +1,5 @@
 ---
-tags: fiction, tamil
+tags: fiction, tamil, novel
 type: book
 author: Ki. Rajanarayanan
 title: Gopalla Gramam
