@@ -24,8 +24,6 @@ by [[Yuval Noah Harari]]
 
 > In the long run, a deep friendship will make us more content than a frenzied orgy.
 
-> The bad news is that pleasant sensations quickly subside and sooner or later turn into unpleasant ones.
-
 > Some may say that this is not so bad, because it isn’t the goal that makes us happy – it’s the journey.
 
 > Climbing Mount Everest is more satisfying than standing at the top; flirting and foreplay are more exciting than having an orgasm; and conducting ground-breaking lab experiments is more interesting than receiving praise and prizes.
