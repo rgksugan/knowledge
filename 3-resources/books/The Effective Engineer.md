@@ -90,6 +90,54 @@ by [[Edmond Lau]]
 
 > When we spend our work hours on unchallenging tasks, we’re not just boring ourselves and missing out on chances to learn— we’re also paying a huge opportunity cost in terms of our future growth and learning.
 
+> If a conversation to get feedback only takes a few hours but an implementation takes weeks, the shorter path to earlier feedback is extremely valuable.
+
+> Software development is a team sport. Even if you prefer to work independently, you’ll be more effective if you conceptualize your work as a team activity and build in feedback loops.
+
+> Creating a feedback loop is necessary for all aspects of a job. “It applies to recruiting. It applies to team design. It applies to how you build your culture. It applies to your compensation structure.”
+
+> Any decision you make… should have a feedback loop for it. Otherwise, you’re just… guessing.
+
+> The principle of validation shows us that many of our work decisions, which we might take for granted or adopt blindly from other people, in fact are testable hypotheses.
+
+> At its core, the willingness to run experiments demonstrates the scientific method at work.
+
+> Approach a problem iteratively to reduce wasted effort. Each iteration provides opportunities to validate new ideas. Iterate quickly to learn quickly.
+
+> Reduce the risk of large implementations by using small validations. Invest a little extra effort to figure out if the rest of your plan is worth doing.
+
+> Use A/B testing to continuously validate your product hypotheses. By incrementally developing a product and identifying what does and doesn’t work, you increase the probability that your efforts are aligned with what users actually want.
+
+> Project estimation is one of the hardest skills that an effective engineer needs to learn. But it’s crucial to master: businesses need accurate estimates to make long-term plans for their products. They need to know when resources might free up to work on upcoming features or when they can promise feature requests to customers. And even when we don’t have pressure to ship against a deadline, how long we think a project will take affects our decisions of what to work on.
+
+> When estimating a large project, decompose it into small tasks and estimate each one of them. If a task will take more than two days, decompose it further. A long estimate is a hiding place for nasty surprises. Treat it as a warning that you haven’t thought through the task thoroughly enough to understand what’s involved. The more granular a task’s breakdown, the less likely that an unconsidered subtask will sneak up later.
+
+> Estimate based on how long tasks will take, not on how long you or someone else wants them to take.
+
+> Managers challenge estimates, pushing for tasks to be completed sooner. If you’ve made your estimates granular, however, you can defend them more easily.
+
+> Instead of telling a product manager or other stakeholder that we’ll finish a feature in 6 weeks, we might instead tell them, “There’s a 50% likelihood that we can deliver the feature 4 weeks from now, and a 90% chance that we can deliver it within 8 weeks.”
+
+> You can always spend more time researching which database technology or which JavaScript library to use for a new feature, but there will be diminishing returns on the time invested and growing costs on the schedule. Plan instead to allocate a fixed amount of time, or a time box, to open-ended activities. Rather than estimating that the research will likely take three days, commit to making the best possible decision you can, given the available data after three days.
+
+> As engineers, our jobs typically require us to fix outstanding bugs, conduct interviews, attend team meetings, hold one-on-ones with our managers, participate in pager duty rotations, train new engineers who join the team, respond to email, and tackle many other recurring duties. Once you factor in these details, an 8-hour workday doesn’t actually provide 8 hours of working time on a project.
+
+> Seeing things work and getting things done fire off endorphins in our brains and get us excited in a way that planning and attending meetings do not.
+
+> Hourly productivity decreases with additional hours worked.
+
+> Working extra hours can hurt team dynamics. Not everyone on the team will have the flexibility to pitch in the extra hours. Perhaps one team member has children at home whom he has to take care of. Maybe someone else has a 2-week trip planned in the upcoming months, or she has to commute a long distance and can’t work as many hours. Whereas once the team jelled together and everyone worked fairly and equally, now those who work more hours have to carry the weight of those who can’t or don’t. The result can be bitterness or resentment between members of a formerly-happy team.
+
+> Communication overhead increases as the deadline looms.
+
+> An effective engineer knows to plan ahead.
+
+> The larger the project, the higher the risks, and the more leverage that good project planning and estimation skills will have on your success.
+
+> These estimates should be used as an input to decide whether delivering a set of features by a certain date is feasible. If it is not, they should lead to a conversation about whether to change the feature set or the delivery date. Don’t let a desired target dictate the estimates.
+
+> Don’t sprint just because you’re behind and don’t know what else to do. Work overtime only if you’re confident that it will enable you to finish on time.
+
 ## Contents
 ### Focus on High-Leverage Activities
 #### Use Leverage as Your Yardstick for Effectiveness
@@ -113,9 +161,16 @@ by [[Edmond Lau]]
 ## My Top 3 Quotes
 
 ## Bibliography
+* [[Peopleware]]
+* [[Mindset]]
 * High Output Management
 * Delivering Happiness
-* [[Mindset]]
-
-
-[Mindset]: Mindset "Mindset"
+* The Lean Startup
+* Getting Things Done
+* The Checklist Manifesto
+* The 7 Habits of Highly Effective People
+* Good to Great
+* The Mythical Man-Month
+* Refactoring
+* Your Brain at Work
+* The Effective Executive
