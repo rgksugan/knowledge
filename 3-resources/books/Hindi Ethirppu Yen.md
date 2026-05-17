@@ -3,7 +3,6 @@ tags: non-fiction, tamil
 type: book
 author: C.N. Annadurai
 title: இந்தி எதிர்ப்பு ஏன்?
-sub-title:
 ---
 
 # இந்தி எதிர்ப்பு ஏன்?
@@ -24,17 +23,8 @@ by [[C.N. Annadurai]]
 
 > திரௌபதை துகில் கட்டுவதா இல்லையா என்பதைத் தீர்மானிக்க வேண்டியவன் துச்சாதனன் என்றால், திரெளபதைக்கு என்றையத் தினம் துணி கிடைக்கும்? அதைப்போல, தமிழனுக்கு இந்தி வேண்டுமா வேண்டாமா என்பதை வட நாட்டுக்காரன் தீர்மானிப்பதென்றால் நம்முடைய தமிழ்மொழி எப்படித் தப்பும்? திரெளபதிக்கு எந்தத் துகில் தேவை என்பதை தருமன் சொன்னால் ஏதோ கொஞ்சம் நாட்டுச் சேலையையாவது வாங்கித் தந்திருப்பான்; அர்ச்சுனன் சொன்னால் கொஞ்சம் அலங்கார சேலை வாங்கிக் கொடுத்திருப்பான். துரியோதனனோ, துச்சாதனனோ சொன்னால் எந்தச் சேலை கிடைத்திருக்கும்? இருக்கிற சேலையையும், உருவினவர்களல்லவா அவர்கள்?
 
-
-## Contents
-
 ## The Book in 3 Sentences
+To understand the fight against Hindi imposistion. The book is still relevant today as it was when it was originally published.
 
 ## Who Should Read It?
-
-## My Top 3 Quotes
-
-## Abbreviations
-
-## Characters
-
-## Bibliography
+Anyone who wants to understand the history of fight against Hindi imposisiton.
