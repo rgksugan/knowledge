@@ -19,8 +19,6 @@ by [[Monika Halan]]
 
 > Ask the agents these questions on claims before you buy. One, how many claims does the company settle? Out of 100, if the company’s claims history does not settle more than ninety-five claims, don’t buy from the firm. Claims are a tricky area because the companies club together group and individual claims data. Group claims get paid far more than individual claims. Ideally the disclosure on claims should be product-wise and not clubbed as one big number.
 
-> Be careful of firms that give data on complaints as a percentage of policies sold. What is relevant is how many people, how many made a claim, then how many went on to complain. This number should be low in the policy you finally choose.
-
 ## Notes
 * Have a three account system that separates your income, spending and savings.
 * Your spending is not more than 45% of your take home income.

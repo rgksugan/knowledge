@@ -25,18 +25,9 @@ by [[Allan Pease]]
 > Prospects with priorities will always succeed. You can only help speed up this process.
 
 > Don't handicap yourself by dressing to your own tastes or comfort level. Dress for your prospect's expectations.
-> The business plan is only a solution to a problem or the way to realise a dream.
 
-> Even if their presentation of the business plan is an excellent one, the prospects are not necessarily motivated to action because they are not emotionally disturbed.
+> The business plan is only a solution to a problem or the way to realise a dream.
 
 ## Contents
 
 ### Six skills 
-
-## The Book in 3 Sentences
-
-## Who Should Read It?
-
-## My Top 3 Quotes
-
-## Bibliography

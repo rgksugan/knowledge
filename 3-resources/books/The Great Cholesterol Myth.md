@@ -56,8 +56,6 @@ by [[Jonny Bowden]]
 
 > About 80 percent of trans fats in the American diet come from factory-produced partially hydrogenated vegetable oil.
 
-> As exciting as new findings can be, observational studies rarely give us the full story.
-
 > Human beings have a tendency to search for truth in the places where it is easiest to look rather than where it is likely to be found.
 
 > So epidemiology is terrific for observing things, for noticing what’s found together, and, most importantly, for generating hypotheses. Epidemiology is like the preliminary detective work one does when gathering up clues at a crime scene, clues that suggest a hypothesis of what might have gone down. But that’s just the beginning. No one is convicted of a crime based on clues—you use the clues to build a case. In science, that “case” is built with the bricks of randomized, double-blind, placebo-controlled, peer-reviewed research studies. The case isn’t built with a few random “clues”—in science, those are the equivalent of circumstantial evidence and would be thrown out of court.
