@@ -2,11 +2,10 @@
 tags: fiction, tamil
 type: book
 author: Thakazhi Sivasankara Pillai
-title: தோட்டியின் மகன் / Thottiyin Magan
-sub-title:
+title: தோட்டியின் மகன்
 ---
 
-# தோட்டியின் மகன் / Thottiyin Magan
+# தோட்டியின் மகன்
 by [[Thakazhi Sivasankara Pillai]]
 
 ## Highlights
@@ -14,17 +13,5 @@ by [[Thakazhi Sivasankara Pillai]]
 
 > உண்டு உறங்கிச் சுகமாக வாழ்பவர்களுக்கு இந்த வர்க்கம் இவ்வளவு பெரிது என்று தெரிந்திராது.
 
-
-## Contents
-
 ## The Book in 3 Sentences
-
-## Who Should Read It?
-
-## My Top 3 Quotes
-
-## Abbreviations
-
-## Characters
-
-## Bibliography
+Life of a santary worker and his family.

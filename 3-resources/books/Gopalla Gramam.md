@@ -2,11 +2,10 @@
 tags: fiction, tamil, novel
 type: book
 author: Ki. Rajanarayanan
-title: Gopalla Gramam
-sub-title:
+title: கோபல்ல கிராமம்
 ---
 
-# Gopalla Gramam
+# கோபல்ல கிராமம்
 by [[Ki. Rajanarayanan]]
 
 ## Highlights
@@ -19,18 +18,3 @@ by [[Ki. Rajanarayanan]]
 > நாட்கள் மனப்புண்ணை ஆற்றினாலும் நினைப்பு என்னும் கோல் படும்போது அதில் மீண்டும் ரத்தம் கசிகிறது.
 
 > ராத்திரி நேரத்தில் ஊருக்குள் பயங்கரமான அமைதி குடிகொண்டது. அந்தக் குளிர்ந்த வேலையில் அவன் கூக்குரலிடும் கோரமான சத்தம் பயமாக இருக்கும்.
-
-
-## Contents
-
-## The Book in 3 Sentences
-
-## Who Should Read It?
-
-## My Top 3 Quotes
-
-## Abbreviations
-
-## Characters
-
-## Bibliography

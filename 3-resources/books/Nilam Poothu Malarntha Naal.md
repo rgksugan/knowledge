@@ -2,11 +2,10 @@
 tags: fiction, tamil, novel
 type: book
 author: Manoj Kuroor
-title: Nilam Poothu Malarntha Naal
-sub-title:
+title: நிலம் பூத்து மலர்ந்த நாள்
 ---
 
-# Nilam Poothu Malarntha Naal
+# நிலம் பூத்து மலர்ந்த நாள்
 by [[Manoj Kuroor]]
 
 ## Highlights
@@ -22,17 +21,5 @@ by [[Manoj Kuroor]]
 
 > தலையை நிமிர்த்தியபோது அவன் என் உதட்டைத் தீண்டினான். உடலோடு உடல் நன்றாக ஒட்டிக்கொண்டது. கன்னத்திலும் கழுத்திலும் பதியும் உதடுகளையும், மார்பில் பரவும் விரல்களையும் விலக்கிவிட வேண்டுமென்று எனக்குத் தோன்றவில்லை.
 
-
-## Contents
-
 ## The Book in 3 Sentences
-
-## Who Should Read It?
-
-## My Top 3 Quotes
-
-## Abbreviations
-
-## Characters
-
-## Bibliography
+A novel set in Sangam tamil period.
