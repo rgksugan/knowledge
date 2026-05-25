@@ -138,6 +138,26 @@ by [[Edmond Lau]]
 
 > Don’t sprint just because you’re behind and don’t know what else to do. Work overtime only if you’re confident that it will enable you to finish on time.
 
+> It’s possible to over-invest in quality, to the point where there are diminishing returns for time spent.
+
+> Effective engineers focus on simplicity.
+
+> Good abstractions should be easy to learn, easy to use even without documentation, hard to misuse, sufficiently powerful to satisfy requirements, easy to extend and appropriate to the audience.
+
+> Good abstractions convert complex concepts into simpler ones.
+
+> Simple things take on one role, fulfill one task, accomplish one objective, or deal with one concept.
+
+> Similarly, when fixing a bug, first add a test that the bug breaks. This way, when you get the test to pass, you’re more confident that you’ve actually addressed the bug.
+
+> The more frequently a part of the codebase is read, invoked, and modified, the higher the interest payments for any technical debt in that code.
+
+> Code that’s peripheral to a product or that rarely gets read and modified doesn’t affect overall development speed as much, even if it’s laden with technical debt.
+
+> How often do you find yourself interrupted by operational and product issues and switching contexts to address them, rather than making progress on tasks that you’ve prioritized?
+
+> Shaving time off of recurring costs frees you to focus on what matters most.
+
 ## Contents
 ### Focus on High-Leverage Activities
 #### Use Leverage as Your Yardstick for Effectiveness
@@ -149,8 +169,8 @@ by [[Edmond Lau]]
 
 ### Optimize for Learning
 #### Adopt a Growth Mindset
-#### Invest in Your Rate of Learnings
-#### Seek Work Environments Conductive to Learning
+#### Invest in Your Rate of Learning
+#### Seek Work Environments Conducive to Learning
 #### Dedicate Time on the Job to Develop New Skills
 #### Always Be Learning
 
@@ -159,6 +179,9 @@ by [[Edmond Lau]]
 ## Who Should Read It?
 
 ## My Top 3 Quotes
+
+## Abbreviations
+* DRY - Don't Repeat Yourself
 
 ## Bibliography
 * [[Peopleware]]
