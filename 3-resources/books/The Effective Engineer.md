@@ -158,27 +158,63 @@ by [[Edmond Lau]]
 
 > Shaving time off of recurring costs frees you to focus on what matters most.
 
-## Contents
-### Focus on High-Leverage Activities
-#### Use Leverage as Your Yardstick for Effectiveness
-#### Increase Your Leverage in Three Ways
-* Reduce the time it takes to complete a certain activity
-* Increase the output of a particular activity
-* Shifting to higher-leverage activities
-#### Direct Energy Toward Leverage Points, Not Just Easy Wins
+> Simple solutions impose a lower operational burden because they’re easier to understand, maintain, and modify.
 
-### Optimize for Learning
-#### Adopt a Growth Mindset
-#### Invest in Your Rate of Learning
-#### Seek Work Environments Conducive to Learning
-#### Dedicate Time on the Job to Develop New Skills
-#### Always Be Learning
+> An idempotent process produces the same results regardless of whether it’s run once or multiple times.
 
-## The Book in 3 Sentences
+> You’re a staff engineer if you’re making a whole team better than it would be otherwise. You’re a principal engineer if you’re making the whole company better than it would be otherwise. And you’re distinguished if you’re improving the industry.
 
-## Who Should Read It?
+> You get more credit than you deserve for being part of a successful company, and less credit than you deserve for being part of an unsuccessful company.
 
-## My Top 3 Quotes
+> Your career success depends largely on your company and team’s success, and the success of your company or team depends on more than just your individual contributions.
+
+> You’ll accomplish much more if those around you are aligned with you rather than against you, and you can do that by investing in their success.
+
+> Does this perspective mean that we should be pursuing only highleverage activities? No; that would be exhausting. We enjoy plenty of leisure activities like traveling, hiking, salsa dancing, and spending time with family and friends without giving any thought to whether they’re highimpact or represent the optimal use of our time—and that’s how it should be.
+
+> But when it comes to achieving our work and life goals, leverage is a powerful framework for helping us focus on the right things.
+
+> The goal isn’t to establish a total ordering of all your priorities, since any ordering you make will be based on imperfect information; instead, it’s to continuously shift your top priorities toward the ones with the highest leverage, given the information you have.
+
+> Once you’re producing results, few people will complain about declined meetings, slow email response times, or even non-urgent bugs not being fixed, unless those other tasks are blocking even more valuable results from being delivered. When you get the important things right, the small things often don’t matter.
+
+> Prioritize the ones that produce the most value with the least amount of effort.
+
+> When a co-worker schedules you for an unnecessary meeting, a manager assigns you a small bug, or a product manager comes into your office with a shiny new prototype, they’re oftentimes not considering the opportunity cost of your time.
+
+> Don’t try to get everything done. Focus on what matters—and what matters is what produces value.
+
+> Constant deadlines might be caused by poor project estimation and planning.
+
+> Engineers need longer and more contiguous blocks of time to be productive than many other professionals.
+
+> Constant context switching hinders deep engagement in any one activity and reduces our overall chance of success.
+
+> Effective engineers invest heavily in iteration speed.
+
+> Facebook’s culture emphasizes iterating quickly and focusing on impact rather than being conservative and minimizing mistakes.
+
+> In actuality, much of our engineering time is spent either debugging issues or validating that what we’re building behaves as expected.
+
+> Premature optimization is the root of all evil.
+
+> The faster you can iterate, the more you can learn.
+
+> When you move too slowly trying to avoid mistakes, you lose opportunities.
+
+> Google’s best indication of user happiness is the “long click.” This occurs when someone clicks a search result and doesn’t return to the search page, or stays on the result page for a long time.
+
+> If you can’t measure it, you can’t improve it.
+
+> The metric you choose influences your decisions and behavior.
+
+> We’ve seen that measuring the goals you want to achieve and instrumenting the systems that you want to understand are high-leverage activities.
+
+> Using data to support your arguments is powerful. The right metric can slice through office politics, philosophical biases, and product arguments, quickly resolving discussions.
+
+> Log data liberally, in case it turns out to be useful later on.
+
+> If a conversation to get feedback only takes a few hours but an implementation takes weeks, the shorter path to earlier feedback is extremely valuable.
 
 ## Abbreviations
 * DRY - Don't Repeat Yourself
@@ -197,3 +233,9 @@ by [[Edmond Lau]]
 * Refactoring
 * Your Brain at Work
 * The Effective Executive
+* Conscious Business
+* Flow
+* Succeed
+* An Astronaut’s Guide to Life on Earth
+* Cracking the Code Interview
+* In The Score Takes Care of Itself
