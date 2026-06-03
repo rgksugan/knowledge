@@ -26,5 +26,3 @@ by [[Chimamanda Ngozi Adichie]]
 > The language of marriage is often a language of ownership, not a language of partnership.
 
 > Cooking, by the way, is a useful and practical life skill for a boy to have. I’ve never thought it made much sense to leave such a crucial thing – the ability to nourish oneself – in the hands of others.
-
-> Culture does not make people. People make culture. If it is true that the full humanity of women is not our culture, then we can and must make it our culture.
