@@ -26,8 +26,6 @@ by [[Siddhartha Mukherjee]]
 
 > Every science suffers from human biases.
 
-> What better blame than self-blame?
-
 > Doctors are men who prescribe medicines of which they know little, to cure diseases of which they know less, in human beings of whom they nothing.
 
 ## Contents

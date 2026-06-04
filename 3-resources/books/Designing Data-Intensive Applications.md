@@ -14,10 +14,6 @@ by [[Martin Kleppmann]]
 
 > Many applications today are data-intensive, as opposed to compute-intensive. Raw CPU power is rarely a limiting factor for these applications—bigger problems are usually the amount of data, the complexity of data, and the speed at which it is changing.
 
-> Compaction means throwing away duplicate keys in the log, and keeping only the most recent update for each key.
-
-> One way of achieving monotonic reads is to make sure that each user always makes their reads from the same replica (different users can read from different replicas). For example, the replica can be chosen based on a hash of the user ID, rather than randomly. However, if that replica fails, the user's queries will need to be rerouted to another replica.
-
 ## Contents
 ### Part 1: Foundations of Data Systems
 #### Reliable, Scalable & Maintainable Applications
