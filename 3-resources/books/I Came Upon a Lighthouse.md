@@ -23,8 +23,6 @@ by [[Shantanu Naidu]]
 
 > Just how you feel when everyone is singing the birthday song for you and all you can do is either stare at an empty space or right back at them till you shrink of embarrassment into a wrinkled raisin.
 
-> The next few moments were a blur. He wasn’t two months old yet, so legally I wasn’t allowed to take him.
-
 > We used to sit together in places with less conversation and long silences. Comfortable long silences.
 
 > The tension in the house could cut glass.
