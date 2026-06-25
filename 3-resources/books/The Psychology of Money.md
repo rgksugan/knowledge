@@ -21,8 +21,10 @@ by [[Morgan Housel]]
 
 > The ability to do what you want, when you want, with who you want, for as long as you want, is priceless. It is the highest dividend money pays.
 
-> Use room for error when estimating your future returns. This is more art than science. For my own investments, which I'll describe more in chapter 20, I assume the future returns I'll earn in my lifetime will be ⅓ lower than the historic average. So I save more than I would if I assumed the future will resemble the past. It's my margin of safety. The future may be worse than ⅓ lower than the past, but no margin of safety offers a 100% guarantee. A one-third buffer is enough to allow me to sleep well at night. And if the future does resemble the past, I'll be pleasantly surprised.
+> Use room for error when estimating your future returns. This is more art than science. For my own investments, I assume the future returns I'll earn in my lifetime will be ⅓ lower than the historic average. So I save more than I would if I assumed the future will resemble the past. It's my margin of safety. The future may be worse than ⅓ lower than the past, but no margin of safety offers a 100% guarantee. A one-third buffer is enough to allow me to sleep well at night. And if the future does resemble the past, I'll be pleasantly surprised.
 
 > Beware taking financial cues from people playing a different game than you are.
 
 > There is an iron law in economics: extremely good and extremely bad circumstances rarely stay that way for long because supply and demand adapt in hard-to-predict ways.
+
+[Morgan Housel]: <../authors/Morgan Housel> "Morgan Housel"
