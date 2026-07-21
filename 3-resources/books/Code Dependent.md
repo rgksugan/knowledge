@@ -18,8 +18,6 @@ by [[Madhumita Murgia]]
 
 > Conflict is the driver of social change.
 
-> When . . . human beings are absent . . . I think technology comes a close second.
-
 > Quantifying pain is a task racked with individual biases.
 
 > In it they suggested they had little idea why the algorithmic system had chosen specific families over others; after all, machine-learning software was a so-called black box – opaque systems whose internal workings weren’t fully explainable even by their architects.
