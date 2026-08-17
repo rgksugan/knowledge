@@ -107,7 +107,7 @@ by [[Monty Lyman]]
 
 ## Notes
 
-## Abbrevations
+## Abbreviations
 * SIBO - Small Intestinal Bacterial Overgrowth
 
 ## Bibliography

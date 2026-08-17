@@ -30,7 +30,7 @@ by [[Kai-Fu Lee]]
 
 > The free market is supposed to be self-correcting, but these self-correcting mechanisms break down in an economy driven by artificial intelligence.
 
-## Abbrevations
+## Abbreviations
 * ICT - Information and Communication Technology
 * OECD - Organization for Economic Cooperation and Development
 * UBI - Universal Basic Income

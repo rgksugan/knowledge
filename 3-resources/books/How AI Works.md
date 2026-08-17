@@ -95,7 +95,7 @@ Anyone who wants to understand Artificial Intelligence and Machine Learning conc
 
 ## My Top 3 Quotes
 
-## Abbrevations
+## Abbreviations
 * AI - Artificial Intelligence
 * LLM - Large Language Models
 * SVM - Support Vector Machines
