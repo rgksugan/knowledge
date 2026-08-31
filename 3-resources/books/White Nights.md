@@ -16,8 +16,6 @@ by [[Fyodor Dostoevsky]]
 
 > Why is it that even the best of men always seem to hide something from other people and to keep something back? Why not say straight out what is in one’s heart, when one knows that one is not speaking idly? As it is every one seems harsher than he really is, as though all were afraid of doing injustice to their feelings, by being too quick to express them.”
 
-> God knows what I would do for you now! I know that you are sad and dreary. I have wounded you, but you know when one loves a wrong is soon forgotten. And you love me.
-
 > We shall meet, you will come to us, you will not leave us, you will be for ever a friend, a brother to me. And when you see me you will give me your hand. … yes? You will give it to me, you have forgiven me, haven’t you? You love me as before?
 
 > Don’t blame me, for I have not changed to you in the least. I told you that I would love you, I love you now, I more than love you. Oh, my God! If only I could love you both at once! Oh, if only you were he!
