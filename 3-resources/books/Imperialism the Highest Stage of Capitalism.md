@@ -18,7 +18,7 @@ by [[Vladimir Ilyich Lenin]]
 
 > Less than one-hundredth of the total number of enterprises utilise more than three-fourths of the total amount of steam and electric power!
 
-> This transformation of competition into monopoly is one of the most important—if not the most important—phenomena of modern capitalist economy,
+> The transformation of competition into monopoly is one of the most important, if not the most important—phenomena of modern capitalist economy.
 
 > Capitalism in its imperialist stage leads directly to the most comprehensive socialisation of production; it, so to speak, drags the capitalists, against their will and consciousness, into some sort of a new social order, a transitional one from complete free competition to complete socialisation.
 
@@ -38,3 +38,5 @@ by [[Vladimir Ilyich Lenin]]
 ## Characters
 
 ## Bibliography
+
+[Vladimir Ilyich Lenin]: <../authors/Vladimir Ilyich Lenin> "Vladimir Ilyich Lenin"
